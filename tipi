@@ -880,6 +880,32 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
+-------BEINSPORS------
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 1
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 2
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 3
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 4
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 5
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 6
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 7
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 8
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg" group-title="BEIN SPORT",BEIN SPORTS MENA 9
+http://45.139.122.148:8000/play/a00c
+
+
+
+
+
+
 
 
 
