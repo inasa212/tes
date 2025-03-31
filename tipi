@@ -7,22 +7,24 @@
 ========= Indonesia========
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",KAUMLOWO CHANNEL
-https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/1280x720/uz1YTNlscSPc2cEC.m3u8?container=fmp4
+https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/mp4a/128000/8PHm7hxIyYTsi-bh.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
-https://video.twimg.com/ext_tw_video/1411096823951872009/pr/pl/1280x720/wrF6uPvmDqYS5lLy.m3u8?container=fmp4
+https://video.twimg.com/ext_tw_video/1554388517199171584/pr/pl/mp4a/128000/4Fb-2tbC59fWlTUu.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
+https://video.twimg.com/ext_tw_video/1412010233715519493/pr/pl/mp4a/128000/vq8Uc-qEXH3CBEXQ.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",Indosiar ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar ID
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://bit.ly/IndonesiaEpg" group-title="Indonesia Channels",Indosiar FM
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar FM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://bit.ly/IndonesiaEpg" group-title="Indonesia Channels",Indosiar (BACKUP1) 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar (BACKUP1) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 
@@ -34,10 +36,10 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="Indonesia Channels" tvg-logo="https://bit.ly/IndonesiaEpg",SCTV DN
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png",SCTV DN
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://bit.ly/IndonesiaEpg" group-title="Indonesia Channels",SCTV FM
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="Indonesia Channels",SCTV FM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
