@@ -6,9 +6,14 @@
 
 ========= Indonesia========
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",KAUMLOWO CHANNEL
+https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/1280x720/uz1YTNlscSPc2cEC.m3u8?container=fmp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
+https://video.twimg.com/ext_tw_video/1411096823951872009/pr/pl/1280x720/wrF6uPvmDqYS5lLy.m3u8?container=fmp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://bit.ly/IndonesiaEpg" group-title="Indonesia Channels",Indosiar ID
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",Indosiar ID
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://bit.ly/IndonesiaEpg" group-title="Indonesia Channels",Indosiar FM
