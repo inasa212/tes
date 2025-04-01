@@ -262,6 +262,30 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:0 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF12xI2BHnCboqPu9_QLbIEqHwOvgJcWyG6xGKB4EHc3I720jQ3UQabS0D&s=10",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+#EXTINF: -1 tvg-id="jowo channel" tvg-logo="https://i.imgur.com/uGuk8sf.jpg" group-title="Indonesia Channels", JOWO CHANNEL
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://dl.dropboxusercontent.com/scl/fi/rqp1z48rk1qk6c1s0zwa4/jowo-channel.m3u8?rlkey=vin9yvcg0yav37t1rv8ykq5x7&st=yrnubbn7
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
+http://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="Indonesia Channels",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/b8dt9onjgi5nmh96vgemn/dunialain.m3u8?rlkey=g9dqxzjz4tbn35kq9oij8sf0w&st=2ba4ifat
+
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="Indonesia Channels",DUNIA LAIN (B)
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/ocmbh1qtf84xiel5jgcbf/dunialain-2.m3u8?rlkey=1u5v38dlohlnbl439j3i3kph1&st=xuqso3m8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NX9aLg_XIH5ivRFICk2v7WX6yom-_9ZhgJ4-nJ0ZcmsM_ZhxXZvEN-SQ&s=10" group-title="Indonesia Channels", Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
@@ -272,6 +296,33 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
 <======================== Premium Movies ==========================>
+
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="Premium Movies", HBO 1
+http://203.77.246.14:8001/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="Premium Movies", HBO 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/thssbdwxzyfv082/hbo.m3u8
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="Premium Movies", HBO HITS 1
+http://203.77.246.14:8001/udp/239.1.3.82:5000
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="Premium Movies", HBO HITS 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/qshddsireyu9g70/hbohits.m3u8
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="Premium Movies", HBO SIGNATURE 1
+http://203.77.246.14:8001/udp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="Premium Movies", HBO SIGNATURE 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/j5v8v55gep43g65/hbosig.m3u8
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="Premium Movies", HBO FAMILY 1
+http://203.77.246.14:8001/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="Premium Movies", HBO FAMILY 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/dr95qxd7iaclts5/hbofam.m3u8
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="Premium Movies", CINEMAX 1
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/w7uehwyq6r454t3/cinemax.m3u8
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="Premium Movies", CINEMAX 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/lcl6xko4xs4g251egziws/cinemax_2.m3u8?rlkey=maw4m9mgj192yonmt3pn9reb8&st=ng8wc13x
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -415,6 +466,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="flik.id" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",Flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
+#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Premium Movies",FLIK 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/s/6lp8jq422uilozw/flik.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -422,6 +477,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Premium Movies",Bioskop Indonesia
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Premium Movies",BIOSKOP INDONESIA 2
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/b69ti90sskfigr3uhzv3a/bioskopindonesia.m3u8?rlkey=1lb1mfwwvmfdwjq5rsqmopoky&st=140p79n3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Premium Movies",BIOSKOP INDONESIA 3
+#EXTVLCOPT:http-user-agent=xplayer168
+https://dl.dropboxusercontent.com/scl/fi/n0il57l6j01oyj3afg8gv/bioskopindonesia-2.m3u8?rlkey=c5j5kx7kypij34srg4lqu79mq&st=pkaf44io
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg"  group-title="Premium Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
