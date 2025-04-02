@@ -171,7 +171,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://id.wikipedia.org/wiki/BN_Channel#/media/Berkas:BN_Channel.pngogo/bn.png",BN Channel
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/640px-IDTV.svg.png",IDTV
@@ -191,29 +191,29 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGcDTwW/20240903-005202.jpg" group-title="Indonesia Channels",AII play Ennt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Indonesia Channels",AII play Ennt
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jh4L9g2/20240903-005251.jpg" group-title="Indonesia Channels",Antara TV ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/ANTARA_TV.jpg" group-title="Indonesia Channels",Antara TV ID
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bP4fmN9/20240903-005125.jpg" group-title="Indonesia Channels",Mentari TV ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Indonesia Channels",Mentari TV ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5LwJg9r/20240903-005042.jpg" group-title="Indonesia Channels",DAAI TV FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Indonesia Channels",DAAI TV FM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:0 tvg-url="" tvg-logo="https://i.ibb.co.com/5K8XLQM/20240903-004705.jpg" group-title="Indonesia Channels",Elshinta TV
+#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="Indonesia Channels",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-url="" tvg-logo="https://i.ibb.co.com/phNYhVZ/20240903-004621.jpg" group-title="Indonesia Channels",Magna Channel
+#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png",TV MUI 
@@ -397,19 +397,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/965/49965-SNAPSHOT-l.png" group-title="Premium Movies",Cinemachi HD
+#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi.png" group-title="Premium Movies",Cinemachi HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/968/49968-SNAPSHOT-l.png" group-title="Premium Movies",Cinemachi Kids HD
+#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi_kids.jpg" group-title="Premium Movies",Cinemachi Kids HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/980/49980-SNAPSHOT-l.png" group-title="Premium Movies",Cinemachi Action HD
+#EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi_action.png" group-title="Premium Movies",Cinemachi Action HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -421,7 +421,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/969/49969-SNAPSHOT-l.png" group-title="Premium Movies",Cinemachi Xtra HD
+#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi_xtra.png" group-title="Premium Movies",Cinemachi Xtra HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -567,7 +567,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-
 #EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -586,7 +585,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="Knowledge & Documentary" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
-#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Love Nature
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge & Documentary",Love Nature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
@@ -774,7 +773,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & LifeStyle",TV5 Monde Style
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
@@ -784,7 +782,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
-
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1061,21 +1058,6 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 
 
 -------BEINSPORS------
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://commons.wikimedia.org/wiki/Category:BeIN_Sports_logos#/media/File:Logo_beIN_SPORTS_1.png",BEINSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://commons.wikimedia.org/wiki/Category:BeIN_Sports_logos#/media/File:Logo_bein_sports_4.png",BEINSPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png",BEINSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/BeIN_SPORTS_MENA_logo_2017.jpg",BEIN SPORTS MENA 1
 http://45.139.122.148:8000/play/a004
@@ -1611,6 +1593,53 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
+
+--------------LIVE 24--------------
+
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -a
+https://dffgtrdc.vffddd.online:443/bein22/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -b
+https://dffgtrdc.vffddd.online/bein22/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -c
+https://dffgtrdc.vffddd.online/bein3/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -d
+https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -e
+https://dffgtrdb.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -f
+https://dffgtrdb.vffddd.online/bein1/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
+http://gr.seetv.cc/play/5016/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -02
+http://pl.seetv.cc/play/1101/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -03
+http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -04
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -05
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -06
+https://dffgtrdc.vffddd.online/bein4/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -07
+https://dffgtrdc.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -08
+https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -09
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -10
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -11
+https://stream.live12.ir/hls2/ssc1.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -12
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -13
+https://dffgtrdb.vffddd.online/bein3/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -14
+https://dffgtrdb.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -15
+https://dffgtrdb.vffddd.online:8880/bein4/index.m3u8
+#EXTINF:0 group-title="LIVE-24" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -16
+https://dffgtrdb.vffddd.online/bein3/index.m3u8
 
 ==============CCTVKOTA BATU==================
 
