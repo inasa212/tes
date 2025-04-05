@@ -280,11 +280,11 @@ http://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSty
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="Indonesia Channels",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/b8dt9onjgi5nmh96vgemn/dunialain.m3u8?rlkey=g9dqxzjz4tbn35kq9oij8sf0w&st=2ba4ifat
+
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="Indonesia Channels",DUNIA LAIN (B)
 #EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/ocmbh1qtf84xiel5jgcbf/dunialain-2.m3u8?rlkey=1u5v38dlohlnbl439j3i3kph1&st=xuqso3m8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NX9aLg_XIH5ivRFICk2v7WX6yom-_9ZhgJ4-nJ0ZcmsM_ZhxXZvEN-SQ&s=10" group-title="Indonesia Channels", Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8
@@ -992,6 +992,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id"t tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS", CHAMPIONS TV 1
+http://203.77.246.14:8001/udp/239.1.2.240:5000
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS", CHAMPIONS TV 2
+http://203.77.246.14:8001/udp/239.1.2.242:5000
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1188,6 +1193,9 @@ https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8
 https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
 
 --------EPL-------
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="ENGGLISH PREMIER LEAGUE (EPL)", CANAL+ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
 
 #EXTINF:-1 tvg-id="premier2.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
@@ -1643,36 +1651,102 @@ https://dffgtrdb.vffddd.online/bein3/index.m3u8
 
 ==============CCTVKOTA BATU==================
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Rumah Dinas Walikota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/csC0gk1uL2aCzbWM1710472601306.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo)Depan Pertigaan sumbergondo
 https://stream.batukota.go.id/WebRTCApp/streams/JvvohCsOIgnpsxMQ1707188028701.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/JvvohCsOIgnpsxMQ1707188028701_adaptive.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Kecamatan Bumiaji
 https://stream.batukota.go.id/WebRTCApp/streams/KazZfIfHMUWV5kki1707187117457.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/KazZfIfHMUWV5kki1707187117457_adaptive.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Balai desa Sidomulyo
 https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan BPBD Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/k5D5M6dYYUZHTqJt1707186773648.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/k5D5M6dYYUZHTqJt1707186773648_adaptive.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Rest Area Sidomulyio 2
 https://stream.batukota.go.id/WebRTCApp/streams/TrJUb2ncd1m6QuWN1705741508167.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Dishub) rest area sidomuliyo1
-https://stream.batukota.go.id/WebRTCApp/streams/dmslMjthUrn2dm5w1705636324165.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Pertigaan Bromo
-https://stream.batukota.go.id/WebRTCApp/streams/J461n4f7IM0aMYvu1705741407846.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Jl Lesti Depan Arjuna Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/Q0KNfIgIYyLJIHcK1705636177934.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Dishub) Depan Jatim Park 3 Arah Malang
-https://stream.batukota.go.id/WebRTCApp/streams/ABenDxGIM1te3qzH1705741109482.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Masjid An-Nur
-https://stream.batukota.go.id/WebRTCApp/streams/7r1AVYLJXenpIU2A1705635953306.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Pertigaan rumah sakit hasta brata
-https://stream.batukota.go.id/WebRTCApp/streams/zEn7huJeHlgmNJxb1705741781755.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Dishub) Batos 1
-https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Dishub) Pertigaan Pasar Induk Among Tani Bawah arah pasar
-https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Alun alun timur
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Balai Desa Sidomulyo Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pos Polisi 1 Alun alun Batu
+https://stream.batukota.go.id/WebRTCApp/streams/gB1wuwYv6T5S3yoU1705741644304.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/gB1wuwYv6T5S3yoU1705741644304_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pertigaan Rumah Sakit Hasta Brata Kota Batu
 https://stream.batukota.go.id/WebRTCApp/streams/0dqG59fEZofnBv5e1705576204511.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(DIshub) TMP arah abdulgani
+https://stream.batukota.go.id/WebRTCApp/streams/0dqG59fEZofnBv5e1705576204511_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Perempatan Kelurahan ngaglik
+https://stream.batukota.go.id/WebRTCApp/streams/e0WVYhI5Xxc27tQ81705741940984.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/e0WVYhI5Xxc27tQ81705741940984_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan masjid at-Taqwa
+https://stream.batukota.go.id/WebRTCApp/streams/TeRncISLj1TzfzTk1705741753162.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/TeRncISLj1TzfzTk1705741753162_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Oleh – Oleh Brawijaya – Alibaba Store
+https://stream.batukota.go.id/WebRTCApp/streams/CuK4jcmlGBZfu29Z1707188340657.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/CuK4jcmlGBZfu29Z1707188340657_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Taman Hutan Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Taman Hutan Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan LVRI
+https://stream.batukota.go.id/WebRTCApp/streams/SoJLzeACxyIKUxmk1707187671972.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/SoJLzeACxyIKUxmk1707187671972_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Koramil Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/5YKgN7qGPKAkEii61707187408256.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/5YKgN7qGPKAkEii61707187408256_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pintu Keluar Pasar – Pintu Masuk Terminal Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/hoi0iYhOFqXJ0M4I1705741691115.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/hoi0iYhOFqXJ0M4I1705741691115_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pintu Masuk Pasar Timur Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/OcBbqXNaFb3QaTjl1705741703633_adaptive.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/OcBbqXNaFb3QaTjl1705741703633.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pertigaan Pasar Induk Among Tani
+https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pertigaan Jl. Arumdalu Songgoriti Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/OwEvIav57cFnFDyS1705741607441.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/OwEvIav57cFnFDyS1705741607441_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Perempatan Songgokerto Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/3JMIVASLoA2GBwLc1705741429398.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/3JMIVASLoA2GBwLc1705741429398_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub TMP arah abdulgani Kota Batu
 https://stream.batukota.go.id/WebRTCApp/streams/QB9mQq8KhAmeIbeJ1705741144498.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo)Taman Hutan Kota Bondas Jl. Sultan Agung
-https://stream.batukota.go.id/WebRTCApp/streams/c4umuPuVX9rYo8pJ1705741554912.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/QB9mQq8KhAmeIbeJ1705741144498_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Depan Museum Angkut Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/VUmF69E51bD8DslM1705741330230.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/VUmF69E51bD8DslM1705741330230_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀", Dishub Batu Town Square Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741_adaptive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pos Polisi Pendem 1 Kota Batu
+https://stream.batukota.go.id/WebRTCApp/streams/wOCPjH5g75BuXfR21705741624673.m3u8
+https://stream.batukota.go.id/WebRTCApp/streams/wOCPjH5g75BuXfR21705741624673_adaptive.m3u8
 
 ================LOWOKWARU==========================
 
@@ -1908,52 +1982,53 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/612052153388690062372274.m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KLOJEN 👀",Jl. Merbabu Arah Selatan
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/653722151300593309331609.m3u8?token=null
 
-------------------VOD INDO---------------
+-------SUKUN CCTV------
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Jabang Mayit (2025)
-https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/04152/rr5mszdc5x84_n/index-v1-a1.m3u8?t=FfBp2KPfyvBB8gYAVHdh-VzqwnbaNdghiHJ9TS9zQAA&s=1743553622&e=129600&f=20801636&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Cinta Dalam Ikhlas (2024)
-https://j3rmodimy1oj.acek-cdn.com/hls2/01/04288/icptijw6n649_n/index-v1-a1.m3u8?t=bkXs4fRgIDBUjlYZlo4b5lYkW9ss5afdzCJuyatroM4&s=1743554068&e=129600&f=21449655&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Misteri Bilik Korek Api (2025)
-https://jdou5wo6ffta.acek-cdn.com/hls2/01/04288/t2ud5z96inyy_n/index-v1-a1.m3u8?t=zYyr-Vz4ME4yxcsrftB1Iypo6v_Sh9hpYVb3Fq-TPR4&s=1743554172&e=129600&f=21449703&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Setetes Embun Cinta Niyala (2025)
-https://dd2stliwt0bc.acek-cdn.com/hls2/01/04313/yc6ph2b8618d_n/index-v1-a1.m3u8?t=Ccb89nodtaWv2kkgz_-QnJx2dgPF84S1iNam4HrWQ18&s=1743554269&e=129600&f=21588958&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Wanita Ahli Neraka (2024)
-https://ff8nf42b8jvmj4a.acek-cdn.com/hls2/01/04095/l0ea84265abp_n/index-v1-a1.m3u8?t=n4kCoBrNra8-D54Bkj3-_1jTvgLtakMIWWbkIKb9k74&s=1743603991&e=129600&f=20542707&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Wanita Ahli Neraka (2024)
-https://dd2stliwt0bc.acek-cdn.com/hls2/01/04288/pn9qy9zmx7fw_n/index-v1-a1.m3u8?t=0Bh9pvvWOiRAxiILiDOJCSPMtymRC6w0xyZA63YJjEA&s=1743604182&e=129600&f=21449713&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Lembayung (2024)
-https://13nt2qnqm72d.acek-cdn.com/hls2/01/04100/ci0e58i5nha7_n/index-v1-a1.m3u8?t=X014zBIhrzhI3Wmxf_gcI1rcCblPp2UY7Yy0doUeJIg&s=1743604333&e=129600&f=20542767&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
-https://smoothpre.com/stream/ayCbYNjminhd0-apC-oyAQ//1743647674/20502000/master.m3u8
-https://smoothpre.com/stream/ayCbYNjminhd0-apC-oyAQ//1743647674/20502000/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Santet Segoro Pitu (2024)
-https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/04095/ydcb25srk7nh_n/index-v1-a1.m3u8?t=01FI8qYeyzYVQ-bnhLbCi9Bf3Rg2NRiHRFYNRFwQM7Q&s=1743604571&e=129600&f=20542743&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
-https://smoothpre.com/stream/JOzy7j99jr495u2tL_V_Xg//1743647771/20476228/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Perewangan (2024)
-https://ejjyomiqje9sf.acek-cdn.com/hls2/01/04053/4dvgkwitarvx_n/index-v1-a1.m3u8?t=Ip7Ogeq2eESjQ3DR69FqnyyNf_1YZQ0ruWKeSh70viU&s=1743604918&e=129600&f=20282145&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
-https://smoothpre.com/stream/zJWc2VYLaQwsKQQ0kilLvQ//1743648118/20268484/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Tebusan Dosa (2024)
-https://ejjyomiqje9sf.acek-cdn.com/hls2/01/04092/dqyssxbrgrnn_n/index-v1-a1.m3u8?t=e6zXW9HX5C55-d_eJhYdwdD8iC2iWV-WqOJumOfi4ZI&s=1743605055&e=129600&f=20465624&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=7713
-https://smoothpre.com/stream/uoMfb7juF8F1b_OHZM6NtA//1743648255/20463319/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="VOD INDONESIA",Kemah Terlarang | Kesurupan Massal (2024)
-https://mkz8cqibrwia.acek-cdn.com/hls2/01/03821/mewfe042gjko_n/index-v1-a1.m3u8?t=2LB83irMWWKYFmkBLntvTzAoaIhfpR7-v_u5eEtAcWQ&s=1743605254&e=129600&f=19109094&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=7713
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Terusan Dieng Arah Barat
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀", Jl. Raya Langsep Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/448993781462444492103703.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Mergan Lori Arah Selatan
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/473307088033186544380122.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Jupri Arah Barat
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/425250660135490708615779.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Halmahera Arah Selatan
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/858976621501627801724527.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Halmahera Arah Selatan1
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836708782306919156448722.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Kol Sugiono Arah Selatan
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/519874872010984433957942.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Kol Sugiono Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639503580415824340703855.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/721240097001535400904802.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriyadi (Arah Klaytan III)
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/045410553225288501472916.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriyadi Arah Selatan (Klaytan III)
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/906088015550297661590404.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/456402990956810340846657.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Janti Barat Arah Timur
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/171077206204474544672476.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Satsuit Tubun Arah Timur
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/336686011348989661063244.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Gadang Pasar Arah Timur
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Gadang Arah Selatan
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m3u8?token=null
 
 
 
