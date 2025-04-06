@@ -1243,46 +1243,30 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="ENGGLISH PREMIER LEAGUE (EPL)", CANAL+ PREMIER LEAGUE
 https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
 
-#EXTINF:-1 tvg-id="premier2.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL 1
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="premier2.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="premier3.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="premier4.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL 3
+#EXTINF:-1 tvg-id="premier4.iptv36.my.to" tvg-name="EPL 1-B4" tvg-logo="https://shorturl.at/tyo0f" group-title="ENGGLISH PREMIER LEAGUE (EPL)",EPL TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 1
+#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd?n=frobinsxmeyy
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 5
+#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL 2
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 6
+#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1290,30 +1274,10 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAG
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 7
+#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://playidtv24.vercel.app/stream/now/02_2sporthd2_720p.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://playidtv24.vercel.app/stream/now/premier1.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://playidtv24.vercel.app/stream/now/premier2.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://playidtv24.vercel.app/stream/now/premier3.m3u8
-
-#EXTINF:-1 group-title="ENGGLISH PREMIER LEAGUE (EPL)" tvg-logo="https://static.republika.co.id/uploads/member/images/news/hhc50bz7tu.jpg",EPL LIGA INGGRIS 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
+https://playidtv24.vercel.app/stream/now/premier4.m3u8
 
 ----------EFL-LALIGA--------
 
