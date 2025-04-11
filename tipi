@@ -321,36 +321,35 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
 <======================== Premium Movies ==========================>
 
-#EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="Premium Movies", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="Premium Movies", HBO (A10+)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
+https://cdnjkt913.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="Premium Movies", HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="Premium Movies", HBO HITS (A10+)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
+https://cdnjkt913.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="Premium Movies", HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="Premium Movies", HBO SIGNATURE (A10+)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
+https://cdnjkt913.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="Premium Movies", HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="Premium Movies", HBO FAMILY (A10+)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
+https://cdnjkt913.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="Premium Movies", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="Premium Movies", CINEMAX (A10+)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
+https://cdnjkt913.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1019,9 +1018,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS", CHAMPIONS TV 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS", CHAMPIONS TV 1 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6686&type=drm
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6686_stream.mpd?hdntl=exp=1744406640~acl=%2Fdrm%2Fdash%2F6686*~id=167961383~data=hdntl~hmac=db9376f7f0674e01111e7342e170494e832e0a7feaf6b75bf33c276c96dab5c8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS", CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17938_stream.mpd?hdntl=exp=1744406484~acl=%2Fdrm%2Fdash%2F17938*~id=167961383~data=hdntl~hmac=aab65c5c5b9efbe71c3f8cf7c915cf076a24b3ed13a542ca937058071be23b0b
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kiGSDe2Uqsg/maxresdefault.jpg" group-title="SPORTS",KBSN SPORT 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003) 
@@ -1808,6 +1816,286 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Gadang Arah Selatan
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m3u8?token=null
+
+--------UCL-------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s" group-title="Liga Champions UEFA (UCL)",LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s" group-title="Liga Champions UEFA (UCL)",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 6
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 7
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_01/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 8
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 9
+#KODIPROP:inputstream.adaptive.license_key=bcf11c369f95ebb81da7a311ef619021:b17546666fe86fc2647f3a7d50445d12
+https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow01/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
+
+#EXTINF:-1 tvg-name="Liga UCL 1" tvg-id="" group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s",Liga UCL 1 (AST)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#EXTINF:-1 tvg-name="Liga UCL 2" tvg-id="" group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s",Liga UCL 2 (AST)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+=============LIVE=============
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oRmahiH5BzJxOonnxG318nY-niA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4199081/edfec9.jpg" group-title="SPORTS | 3 MASA AKTIF",S1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6685&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTYwNzU0ODMiLCJyZWZyZXNoX3Rva2VuIjoiQXZ3QVpvRnBNTFMydkRud2RIVnkydlwvV2ljaUxNWUdcL2xYOXA5aEhiWU5LbHROUkQxMXRLbzY4SmVmNlwvNFMzYlIwVVBQMTZ3VjJkWHRWbWlLOHpPY1R1UlwvSXN5RVExd2w3WkVpT3VaXC9ZYjhpZW5kalY0VVwvdjN0MGRaR1VLUG83NlYyYU1cL1wvOFwvQktMQmRKemFSMDZXZHFvNzNhc3dsdnNqZEowaFMxbEdad0pmTEVNXC84NVYwc3VwdWJQSE5Wa3BDa000ZHF3TGNSUDBwdldHUjJFQ1NUc29TdWpWck01aEMycGIyWlFQZUJGS1g2TXZ6RHZiTEdpdWNMRzlSOGQ5SzgwNTlEU3pVUUhkZ3hGWVZvVGdESDJjRXFCNnBRN1lkYWRSdk1YWXF5Z3NVaFBjRm9lUzB2SnVmVWFhWkNBMEY2TUN5U2JMbHZoTmYzK1c5NDdoVGJzVitjZDVBYzBPVjl3K3ZVeDZ1TEpobDBYRzRXeUZlQVQzQ2dacUhoTSJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jOIkMMbkxzstTKK38YagkP6tQ2c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4201371/ae4d64.jpg" group-title="SPORTS | 3 MASA AKTIF",S2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6786&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjgxOTY1NzQiLCJyZWZyZXNoX3Rva2VuIjoickxjeDR4Y1Q4dmxCaFloNkQzRnoxSmxxQ3NcL2VvaEJRVEYrTlFlWW95VU5aOXh3alRxazhkR0Q4eEZHMmUwb0VwUnVkZHhTdUpHeDM4N0JWOGl6MDRiQVdVVlhaS1hyRWtvYmM0akZ6QUJnMkhLdWtrMTd3Tm5KdFRXWEZMR1FKem1IT0puTHdtVm5vNUt6ZlMzSitqKzRDZWVaWFI3WGZCNmwyb1lJRjE5OHhsb0pPQ21RSnFPaW5ZcW02QzJ2NUJpODhReVVJMTg0YjBvWmhicW5EVFVscUtCR0Ewckt4Tjh4UFBteEpRTVJhenRZUzI1ZElrM3IyRmwwSnVLMWlUYk12Z2kxbUNIeXg4YXRTNUFzUm5yUHVXTFQzcTN0bzQzVEgrU09IbFRvOHZMS3lTUTcyYkRteUVMK08zVmhWdGE5SjRma2dZNVNua1hiVkVCUFwvWVpqbFBvQTQrdmI4ZU9Wa0VUMHpoTDlcL29KRFk3MU9jTEo5ZHRpWGFZRlNhIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LK8r0sT14yEB727vrZphtJ_QIc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205784/3e2c97.jpg" group-title="SPORTS | 3 MASA AKTIF",S3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17884&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjM1OTQxODIiLCJyZWZyZXNoX3Rva2VuIjoiK2lDc1RMb2pWR2VqMXRZemthZFhmSFk0K0oxRkhSMkNOQXI4VG1jeVVmRXVsTGdUMnJ2aHMxYmgyQm1ydEF3M0tMZFI1d2xkTXN5YlpMK09vYk1iS0k2UDkxUDMraFBUSDJQRnpOOWhycld2bUZJMVwvRmdwWGd4YzVFUFh0VGZsSGNHNHZBeWJUN0xNK3Y2Y3Zlc1pKdEJ3Y3JkbHVoRWt2alV0RnVuWGdkaFVjM2dnMGhrNkl4OUNOa3AwM214TVZ4enhob3BvNytJTzJrVkx2TFREN3E0Ykk0bGFGVzJjamlYbXlmSG9zZEtLUDgwTWdGNGhMRW9mc1Bma3hkXC9IZ00wcFRBd05hMGpMRTRZS0NxcTZPQkdhV0dYcDYrNjBiYURBdkxORmVCUFkya3Jyd2ZhN25yNGg2MUZuK3NQOVlnd1d6aFZcL2VYcm42NE15Uk5LXC9ZYWtUeGRQV2ZsbzFzcndzZHlxNmFMa0VlK0tVb1Z5N214NjBtVkVHNGdJbiJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Q3qL77Hh1SdQhgWBN6X63i6eZ18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205790/d9e430.jpg" group-title="SPORTS | 3 MASA AKTIF",S4
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17140&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjcxMzQ4NTAiLCJyZWZyZXNoX3Rva2VuIjoiSG14U2FHa2YyZ3FWdkVlSHd0aWFEVlNiRjFYQ3NhWWRvelM3MWw3NGlwTE5rd3NUKzVQTmVpZlZMOU9pK3g5UFV0NlMxRVZPR2ZMcXRNb1M5Zm1ZMkxFQ2lvclZZT25tYkxmdkxCWWY1MnFPeVlsZXAzVWYzSGNYTlF6OU81cXoxOTJnblNqTTJsUml6VjhobUduQ0w3QzEzd0dZcVBkd0lEQWZFRzJ1bU81Vmtlb3JsMTNTUWR6VUtEdFpXaFViV25rbnNGQTJUNkt5eGNOeUplMWRKUHU5K3ppeTJHYUZEK1NxRVh2YTdIWWw3cHpzWnlmSFgzdFlMeWlnVTNtaFwveFkrdkF3RTNscTI4MnVzZVpoajFQamZMa3pQTGMwZndqNm5zSDV5b3pvY1U5Vkoza2J2MGNTUlwvd2JSaDAxWmgwN2JaZ0x2VkhmTmZOcHpQeU5aMnRsaWR0d3FKU1hIR0lCXC9ZQ25XcjdPNytQWXRoWG41bjFxb2k3YlFcL1dRdiJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y-P55Jyg2uix9DCXb5374aEQzM4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205846/723d11.jpg" group-title="SPORTS | 3 MASA AKTIF",S5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17875&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjcxOTM1MjgiLCJyZWZyZXNoX3Rva2VuIjoiTG11MytFSDViWjhFTktWQzFFMzdISzRNVCtTXC9kXC9IREx6eHBIeGVSNm9XUzJKYjljVisrTzZ6VzlNUFE0dHRudTJ3amlTYVlzcFN1QW4wOVFhRXpYalMwUkZwdmpNRFozYTVQaDRMNGg3N1BaRjNCZmVPY1wvTFlkQUJvbktYYmkrNW10UTIyTDVjSVQ0R3RBdXBwV0J1Y0t5NFRNd3lEQ3V6YXFudG9ROXlYbXJjWE5SNG1YK0hvXC91d1hndTJ3ZkZwQm9yY3pGcTR6byt0d1ZUdHdlam1GdnkrNHluTlp2czQ2OHlJXC9uNldhT1wvdWxieUppZ3RxanExbmtCYThuRTV2RFcwSmd4MXRqZzExY1dVTW55NlVCN1RDTVpxb3pKejZnQUpvU0RjU1JEalE0VmpNXC95KzF3bmF0N1VKbzZvbk9CdmtPayswbjBKbFgrV2N0d3c2ODYxaCtZMU5pSVBKSUJjd2pSMitXZnU5UW9TNW5zTnNGUndmYStpVVl6YiJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j3hQii_m0W2qdFHH6ovLd-534gQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205785/e72ccb.jpg" group-title="SPORTS | 3 MASA AKTIF",S6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17884&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTY4MjQ5NzEiLCJyZWZyZXNoX3Rva2VuIjoiZTczMVlMbUN0R2dwaE9reEhTVTFrZkFYNit4Y1pKWGJ0MEUzZXZ5WW1YSmpwM3h5QVpJTU1kQkw4VjRtbWs4d1dQMDdvNFc4NWFFbzZwNnpEbTRKM0h4enR4dE1lSnZaemJpXC9CMTBTZmRnT2ZIdnZmV2Y1QnVmU2lkU0NYeTZHSEF4dWppSWcwUFZCYlRZQjNSMUtaNmY3RnVBTVdReTNrZ21BVXJ4ZVV4R0JyVklqcGROSmNSUVR3cHpJb3pQVVlnS1dLSTRGbU1ONFwvUGw3bXZqa005T09hUXB0OWN0dzJzTUFSb3RrcmpyelBrb3QzRWFXK3dRVlZkenFEYVZFVUJJd2ltU2RoZFwvS3djaEprbVwvMUlYME8wZTJuc2J5cVNRNnRoMEcxRDVIcENlcENOT0pWZWtJQzFPSDZhN3dqcXdzWEtmS29McnBVeUV0R3pqXC9WV3dXU0k1UkQ4NXhGSEZ3ajlTWUFiYW9vWkdSS3JLN0oyajlFbStsTzhkNzMifQ==
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6NG6IFToU5mNkKKjZbVjma9nymk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205791/f33574.jpg" group-title="SPORTS | 3 MASA AKTIF",S7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17140&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzYxNzUwNDgiLCJyZWZyZXNoX3Rva2VuIjoidzV6TGRYVEo3cXBMZ3dXc045OUJBKzF6OTU4eTdLRFh0WktuYm5kekhYTUIrS3dkSmtPYzFaSDVrcXhLVjAzRWFGTjFTTzRpenp5T0VzMlJCUVpCZlU5WmI4eG1wbk8yK3Z5MTlhSVFYV0lQcjRVSE01WGNxTFhkU1l6Q0xkZ3JJUjkrbUdFdE1XMmNBb3Iza2tjSWlcL1RVY2UrNTBaa1NSXC9DWm1XMFBqNVpcL3IrZlFuVCsrZnV2aWJaT3FjR090WmdEN09wM3BFVnZCNWpKTXJuQWpNa2pwRHc5aGp2ZlBWU0o3Q0lWY01GTDAxcGtUbnRhejVmN1MxYnh5UUMycitvSFo0Y25ES3RncXZJcDJ4OFwvT1ZyMjF0QlA1cVBnMytyZjJ4emdadFdCbHNrbXBJZ1RKc05Senk4THJmWXJxT1liNjY5Qk9VNVwvdEVWOWZ1cUI3NzdGeU5DazBZMm9TZTJJUWdNV21jXC9iM3JVMzRKRUJROHpvZ3lMS1l1c3dzIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Q-uzK3fcJXbkDfd8pkYLcKd3NXc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205834/cc72b5.jpg" group-title="SPORTS | 3 MASA AKTIF",S8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODAzOTY3NTIiLCJyZWZyZXNoX3Rva2VuIjoiekIwcnMzWjllNGFVclk3b1dOSGxYOUZsREJxbDdpM0Nybyt1K1JwcmprSldldlRYRTJ3djFueTlYZzJ0bzRpZWRLaG9TM2FPY25cL1JUdFoyNWRQT1NmVXhGM0xxTlZ1dTBBTElPNG04WDRIKzBIWkxFY29xRnZoZGRGelRZdCtTT3RSVFFLYjdwQXVkakoxUGtiaWlTbkZCc1FWbEZReTNXbkxFODFPYmUxa3RwU2h3ZFVueThXeHNaaDczRlBIckh3OTJFR29qeFlDc0duXC9JZGRlTUFtU290XC9wU1Jrek5iQkcrMnp2cjFic2dlaHlaR2JZUmYzR1loN0NCWXY4azZGVTRJRWM3ZWhJQStTZFB2Ykc0Yk45aW43SjBBTER3WXJtQ2x0TjJNYk9RZWpoT3d3ZDE4Ykg3ZFZDeDY3YVJSSWlZcHZcL2N5c0w2am50dEQwOEFEcWt2OEk5TDE4d1ExWWs4bGtyNkhEUkY4Q1JTRjRZcFFcL2REXC84NlcyTVppIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Slqfq1L3CmFObFaQ7kH5CbhtSTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205786/99792b.jpg" group-title="SPORTS | 3 MASA AKTIF",S9
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17884&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzQ3NjIxNTkiLCJyZWZyZXNoX3Rva2VuIjoiWFM2MGVkSHZDbnVsdTZkSG1xXC95eVFyWWE3ekJRR0xPcUN3SjJVditmeEdBQ3BKbUUyWm1SVmFrY1ZKSCtaaW1SUFJ3SEJBVjBMbUhnWkplWHZyN2dlSHF6Z1dCYUpqV0ZKcmZlOGUyeTNLUFJmMWlWczB0dFd1MzZCSFc5eHYyVW4waU5Sd3B6XC93TDRVZ2Y3cFdCNWtMenVmV2hiYno2dHpPdzRHTVZnelVkc09IcnBjVmxRdVpWa2Q2cEJKdk9kcXZ3ZHlMZXBRUUpzdnlIQm1yV29ITUVrcitoZGdKTUNXdldsRDJYTFZHVDJJRXc0ZG1lZldTYnR0VjNmYm51b01HeEZkK3VTczYxNWhZYkdHMWt0UEJQR1BOdlJLMktQMTdsTWduYkZjWFVmM054V0ZVYnNDanRsYW5GV0NXS1BVb3pXRVI3cGRSWXJyeGdCTFdzRVE1bmNwUnVhV1RxSXM4VnNHazlWYW9zS0lyYXUrVVc2VzNpNks4TytYam0ifQ==
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xw-knDAmowqwMy7JuQ7TaBWVkUg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205835/67ba72.jpg" group-title="SPORTS | 3 MASA AKTIF",S10
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzM1NjgwOTQiLCJyZWZyZXNoX3Rva2VuIjoiV2FNTjhLdXp4Y3lQeGJaUjhLUzVudUpQMUVFQmFLQTZmN05ibDExSWVGbFVMMFNBVHk4SWZXZ0RITVllVHlJa3FcL2xpSjlvK3BRNlwvN1FUNWxObm5ZTkpteE5DNzZFcUR4QmdsdXF4c21BcTFCZFdYMzBweE5hamJRbUd4d1pjSzJKRmVMaWlveEE3SFwvMlFZeXArYmUyZzB2T1FkN2drVytMZ3NpdEhYMlN4Nm5LWUN3b2Y2bzZTOVdmWCtHSkhheHpjOERxOWFlRlwvNlhZZkNjaVwvWEo2RlE2QWdqNk1HYVpsSjJkaTFQSFU5TGxsZEVtN3Zoc3dOY3ZEZ0FPK0xnSTBta0txcUpWNG5rUFhtbFA5MVwvUmYyMWhERVowV0dxY1o4SFZWOVpZUmJZckFZS1lwYnNONENYMzhKa3U2S2tVd3k2XC9KdlpsaVBpNVJpRGdzelZteTYxZkVHdlJYVmxjRE9UUjhhUjFcLzhndlczeDZUQUorSmRcL3lPbVF3eDFiIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T8sOH6Ggm6jczGMTT2Dk9smlbkg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205764/a4128c.jpg" group-title="SPORTS | 3 MASA AKTIF",S11
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6686&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjMwOTE4NDIiLCJyZWZyZXNoX3Rva2VuIjoiME12T1h6V0xQKzFjWVN2SVdrR2N3WXNnQ2oyOUZITWNHYVVSSWUrWWdyelA3cVZobldhc0hKVGNTdXphaGxudDljMEM0bU9PUzJ2cFRxaUc2amVcLzBIVkdwekJwejdJd290NWNjR1pzV1pibVJzazdjZE1sWVdsUVpIaXc1TkJpcmhMcDg0YUtTYlJaXC91Wmk3TzJpeDV6Mlp5Rk14WWgwMGFsYWRhVDZjb0Y0cXVQelNqVUdITnZxRlNvWitkQ0V6UnZyTUFHeUdKUnM2SWJZVFhGNmp5QjRWTTVobk8ydjZQNU8zRzRLVExSNzhITnY5WHQ5MTluNVdoXC9BRWNJQ1wvMHdzZGxyMFZRMzRpV3M2SkNHaHNGQ09QOVlLOVR1YUdyUUNzMFFpWFYzbVJGa29YbXJwbkwzWDF5UXg0OWxlamt5RldYRTZzeVh3bUd4c0RkU3VScExIM3FLR2lVemFzcWZ3T0RIMUY1UVprbWpBV2g5RGUzcFd6V2gyNzAzaSJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sYXNYlCkvQO-quqiRa4Z_kDYGl8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205792/c6bcef.jpg" group-title="SPORTS | 3 MASA AKTIF",S12
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17140&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzEyNTQ4MDMiLCJyZWZyZXNoX3Rva2VuIjoiRE9XWTVrMzRiOUtiTERCWVJOUTY2cENZTUlwakl2eDlNd2RmOHU2cVFtc1RsMFVpWjFvU0IzMWdYMUJTaVhFNFFuTmp5SkkzQm1iek5PM2VmajBZRWVSOHZhTTZweEFQdTQ4VTlSVnMybDZTU0tqY2FpSU0xc0hrS1wvbzRDM2I2UXlwRDhiaW9GR1g1RjVDeWNjbis1Q2lhQkF6Tm1jaTRBMGRGaUphWGlpMmhGVG5CTjhzUWRxSHlcL1UyY0gzVFBocGJqNk5vaXQwXC8zVEtrMkh3Ynd1WGV0eWpWV3prdW9QSUcrZnprejRtdDA1dUorZExzYkhzZWVteFZia1k3M2NqQ0QzVUh2UlJnOFBSRWRcL3ZMSUZMeitTbW1rWXBnZXVMWERYcUxNWDVqOUFOTWJRMlBiQUExXC9xVDRvY21oYjhhY2hDY0xib1o4dVU2NmdnenZhb2wwbXVOampPdEZialpkcWVuSXJtemRNV09FYnlybWR3XC9EU0VLUkJTbVdIIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QXPkVGd1gdVV4bDy9Yf-2_8yOtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205836/891549.jpg" group-title="SPORTS | 3 MASA AKTIF",S13
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODQwNjI3NTEiLCJyZWZyZXNoX3Rva2VuIjoiVEk1V05WYWhZZGpvR08ra005MGRGd2NSNjYyWEZqcmx4UjVIS3cxYjdRUnVQZkhuclFmajRcL2tZaUtBUEVYUHREVlhMN1JoTXVqWTRQSkkxdUN5dWhNaElBUGFwcmZqaHRpNWxEclwvUmF0N215RU9EWnVoZ21udGJPbUczckxEK0diSU5IeHFsTlNXVDg4eWN3dytySDNNamFOM2U4V1M3SEdFcnFaNHZvWnJldnlaN0F6cHlZeEhpTERrT3Urb0l1aWxxaFlsWXhXT2xpbGJhaStuRUp3MmVQSGlsSVNuUG5cL1ZyKzdDOVlQTU83aG1MTDQyR2tEZHN4VXNQR2xyWXpxMnptUWkxOUUyWlJOeURlRnNcL0tSaDkwbzM4SDBcL0ZaUmZZTUNTZ1diZXdQT3lUczVZSmFUcUpiSEpYYUx1MHZCSTg2N25KVmZ4YnB1aXMyK2t1ak9Ya2ROd0VXRkFydUNyczlrK1dad09MMmtcL1JJTzBnQ016aEZsZDV6TWxPIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wIwmpbjtIwtw_oFNMXtFXJTvK-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205844/108248.jpg" group-title="SPORTS | 3 MASA AKTIF",S13
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=18560&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMzg2MTA5NDIiLCJyZWZyZXNoX3Rva2VuIjoiZlwvc1VDVUk1TFRaZTBEQ2FaZFVORGx5cDZjeDA4SVhLZ3BHRm5uNXlOWWZCUDdyRDhSMkYxU3BIY2s4VnFNUVVsd2J1MFBWTm1NNWtzcWpXN21wME1JVVZCUEhVTHVJNzRNMkFna0Z1RlJXcllrNURTUWZBRHJNQ0I1WW5icm9rbmNwYjBJWEdSQUZYRmM1THFXc0pmWmc4dkJHNUJQckNlOE9RdTg1MFFRR0R4QTg4SWFzV2JXWnd6M2JYM3pyVGxoYU15YVorUzB3SUZrMURZR09YdHlMS0RIdFNvQkoxXC9jR3N3dCtSd2o3SWVkUnJPNnRwdE9UdGZkRGxCTVBwZWdhSWhMNWlSeWdIQm9NRGlyVng0RHlRSU5YSUtNWDNCRWpsSkFpZXJcL1lkWmYxd1RRNnlaUHFMU0VCQ2RaazlQbWpqaHFPWFlUc1F2eE93clYwWWNMVm1CdVpGNkFzakRJTit1SmhOTUQ5c0F2WWM1NXNJdXJDVGd2Q09zM0p1In0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Yn4r8C2_0A-4paqAUGSugl2tHHM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205787/24554c.jpg" group-title="SPORTS | 3 MASA AKTIF",S14
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17884&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjM3OTIwNTgiLCJyZWZyZXNoX3Rva2VuIjoib0xJR2IxNHUyTEwwTERheXlWbUNIZmpDbGtRZEdHbjlKdjMzOHVwU056Rlo4MG56Sk1PaEJwVDVPTUhMOVYwK1UxdnBtK3lJNGpMUmo1YUxjTVRUWXNNTWhxYVBJSHlLNHlBUDAydnhEcXc3VlZYM0FQemFjdVJ1emp2UVRqODB3enc4dG1YVjdPRTN3Z3hcL3Z3Mm9VTzh0dFQ5c0ZGbStIbnNDdXJvNlNVRG9KUlZuTWY0a1ZranBMcjQrbFFRcUFKOEFBM2MwaVNFUEJVMHVpaFF3Z1lRSGQ5QThaMU1rbklpK3hzTlBEeVVlTUdcL1wvdlwvZnhWWURSRkV4b0pSbFFrZEVKZlZZVGo2VzFwWXRBdXNsRDZCaTc1ZVpCS0ZrMGZQb3BqZE13aWxZbjRDMGRIWW55d3FDK09xWTBnR2FDOW5yQWI3anY1UlJKNGdkQ0RiOVNlbG1ObjFMS0tPWjZtTGp3WVdXMGhwV2I2YTkycFRqUkNRK3ZkekJScVhXRCJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tErZ4pf00vmO1e-jSs0XqPkbnwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205793/e4511f.jpg" group-title="SPORTS | 3 MASA AKTIF",S15
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17140&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTg1NzY0MTIiLCJyZWZyZXNoX3Rva2VuIjoiUFhaTmtKZUpqbFVIcmJSZGhiczdiMmUrZDd0MndyVGZ6RitMZkg0XC9kU3lia2R4bUx5UGpTZGpmdXBndGU3V1Y2N0pFU2hORlFLRHhiWWdMWEdcL01IWXJzaW04VTE4eG5iWHJPK0lHODZEdEpnVnRDZkFKUnFPTWZUTDI2ODVUaHZaOHRlYXlyK0Q5dlk0RjlvS01jSkVyTmI4VDA0QVJKOHR4S3Z1Vkd5WnVxV1J6K0ZmNmgzSWtGU1pWbnRvYjFRazM4UFwvSEl5V004MnVFSTR5c2N2NmN3ZURpcTNWQ2tRb0ZJb0xNUVNhVkpUTmFXMkF5R2daWHY3S2t0czVPOHRtM1N3VGVGVEpTZ2VrRWVBUkNFR25HNkR1OURTaGMwQTRKVmtKaGFRSVZaQjZ2cG5EdW5tT3RzUUtuTlVOM2s0WEZOS0k0N3A3bmRyRTVlcThEZjBuQnZhWklVQU1wektaWEY0VVBGQmJTXC9JOUZHT3hZXC85TXVMdVVSRHpERlIifQ==
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eLsNYs7j5Kr7byS9ciWdUF0uIN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205788/04fa1a.jpg" group-title="SPORTS | 3 MASA AKTIF",S16
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17884&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjAzODIxNDciLCJyZWZyZXNoX3Rva2VuIjoibVBPQklOXC9HN2ZjY0ZPR3h3Yzl3MHo1V0c1SzIzeGRlNmQ1TVBNWEhvdDlCOVFwNDB0XC9XOFFvM0M5K2VUYk5hQUdCRzZxNWM2T3dGSHBxeUowRG5MSUZNT2JydmJlTnJ1Rm5BWnF6d296aXRyOU5MSlNuSGJ1dHhXZndHMlwvajlcLytieVpuY3NQMDFRYnFnd1RHTklVejVIanZOYVhOMUJyb1hUeTlMdzdjcHRSSE1naVRoKytGZkZtVHYwY0UzRlJjXC9qRUdkVjdXaVRMNFZxdEgzV0JxWTRFXC9NZFpBbHNWK1BIZm9mcHQ2K1FCbndlZzFkU0RsUGZKc3lhVHBNQjNTazd1ZEpDb01FR0NsQ2R4ZlBYM3o5QVcwaDA4S2FvSGlwazZmZVEzcThGWk1JbTNCQVF0ZzB5SFFzalBxZ1pwSzRaREF5QmxnVzFDOVMwTUlsYVZzVTk3ZlhIQUU2NlpkcXFUQVRmNkpFckJvQ3RDQlQ2TlBldTZuaG1pdnkzIn0=
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/reVZBVy3uZbxzYKwl1Uf5ExJeNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4205838/58b96e.jpg" group-title="SPORTS | 3 MASA AKTIF",S17
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDU4Njc5MzIiLCJyZWZyZXNoX3Rva2VuIjoidGpcLzZXR3I4STZ6bk1MK0ZUUG1ON0l0ZTg2ZDhKVlBrQkpkUkx2UnhCdUdFRGNQdko3ZElORkJqb3p5VFlVdVluNkpUdFRDTVdFSk91UmVKZjYyalA4QnpuOGZsR1ZaS093eXhrSk1GQVU5VGJKRkZNVXI4NlQ3VGdEYUNFWVpXVXBZbXhYV3BURjlDaUF3TGh4V0RCWnNNYkltKytmTUdzVnRveWdmUE9TMnFjNjNDaVVaMGRJNndDaml0T2Z4K3NUTXcyclR0NmRyZ1pXc3RIYlRMN2tFeU1RdE9IUm5WOXQ5R2pzYThOY0dTdE1FaER1cG0wQ1hTMTZCNDk0eGs4ZXFVQlJZcDZRaHoxK2pHaXhuUW54WnM5SWdKMWwxSTRcL3VoU0F5aEJMWXF4ZVE0R3NWbDBJYkJ1VVF3V1c4Mm5iaDNkb3o3SXI1Mzd6RU9qNFE0UjErS2pUWjJCa0N6dFdZYTY3enI5aGlycjF0ZHducWVuSlNUbUtCWlNCaHUifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/fifa/4e77f883-7623-4e06-951e-4f27b8dd73d2/058062195373512684980442
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/0b/e2/9d/8c0be29d-e98f-4012-b8be-8560d6bc184a.jpg" group-title="SPORTS | 3 MASA AKTIF",FIFA 1
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU0Mzc4MDIiLCJyZWZyZXNoX3Rva2VuIjoiZDh2a1wvczN4ZEVtMUZLSmU3ZTdkeEd1RTJVb0pkU1wvTzhVUUtmbHZ3Q3E2c2V1OGt0RVJ4c3N6c0VjTXQ2M2dMUGpzbnQwdjcwY1g5aGpMTXNkaSs1S2ROMnR1cG1VUGtzZXk0ZG5obitTZmkzU3ZzUTloaDdHSU1zaXJxXC9SVlRwdUxPWWp6VEF0Zk53bUNMbWVFK2FUNXNST1BCTWJaZVhjUlFJblVIdklVK0VTdlZXWDQ0eXlZU3J6emwwaGxWT1JXdll1dUM1Nlo5Z3lUYkJFaCt6MmtldW5YN3BkODBLbndZSGVuOHBFS1wvVkozUFFtaDh5RzNhQitpNXpSemFtdzJhM3dMbHR2N0xUQkpCT2dRSTNTZWxxS1wvVHR5TDVDXC90YitcL3BNbUVpZUtOdzFvZEdCOWdYMGtBNHpSY0FZMGVTSVBqNlFRN2dMZTN3OFd6MzJTbldTTmxjQXJLT2hjMERuZGtIYjRlTkVBcnhHcVwva2E1YllGRFBCKzVXbXBnQ0pHTXliczE1cTlpdlFSa2s2NFh6V04rcW9JUVZXeTVvam5sazVZVWRJPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/fifa/3aa34485-51e5-422a-a893-6238e3e0d7eb/058062195373512684980442
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7e/9e/a6/58/7e9ea658-84fc-49d9-ba6b-de289e8c0a22.jpg" group-title="SPORTS | 3 MASA AKTIF",FIFA 2
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTE3NjI4NTAiLCJyZWZyZXNoX3Rva2VuIjoiK3k1Z2lOcnRHVDUzbmNhUUdEQXI5ZExRaUE1M3RyTnBsTE1UOUpwK3ExWitCNHZqSTNyeWpYcXhVQWM0a0k2WmJ6alZjQThrTldDZHZqMlYyckVLTXhHU1dHdnByb3k2ZzhOQlVPNmNNa1BNZUxqenVnWXpCQ1ZwemxzRTdJRVNwT0VCN3RuWTlTZXhmRjhjQXhET2pWTGlqODVpRmczUU9VUGVOUW0wV3l2bGtuWTU4UytwcHlKcitkT1NYclBBMkxkMFZoSXNaXC9FUGFYNDQ3RWVyMmdzbnRreGFHN0xlXC9qc0VrWW9QRGZkZlNkd2FSdEpZb2xoT2swZFwvM1FtMEloZjhoa3laYzNKcm1kdGw0Nm1Kcm5xRzhRV3lQcWVVOVduTGlPWnV2WisySDVnbzMrUlZqMEtFK0Fqbkd1dGc3RFwvdjhwWmV1ZXFNSXRFUFwvZjErRlZLektVWmx1ZG9GYjRPTUgwRVwvcXNqWGYzRU5XSzUyQmVlTmJHRzZUR3B6Nko0TkhsaUNoRTYrNGMzUGtQQzd6VjV5WjdaSllhM1RnUytSeit2NE1JTT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/fifa/bcfbdfe0-36f3-438e-a32d-eaa2745c6954/058062195373512684980442
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/7a/5e/ad/7f7a5ead-bc88-46ac-8e61-dc7c8b259bf6.jpg" group-title="SPORTS | 3 MASA AKTIF",FIFA 3
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjc0ODEzNTYiLCJyZWZyZXNoX3Rva2VuIjoieUJYcVE5S1pSY0JBamdCR290OFE2NHFjNk9hdnpoNnNWSnhjdWg0THZpcEowQW50T0pHa1ZZeW1yS3N3cUY5enZuOUJhN1pibGl6SzE2SjRpaTZSQStvUGxQWkJsbzh1M1piMGdQRTRYNU4yMG50bDNiTnRYQUNLanIwd1pRMVQyUzI5eFk2YTlzcUVoSVZTUHRidDJCcVBRdWVNSkJhY2lpdGkxNlJtRE9RWHpBcWxIXC85azZ5Rm1YUGYwQnM5K1crKzlhbUlhNEdcL2Y3XC9LWTBldlNGZ2Y3VitMZFNQd29NTmpHU09PMFRlMGRHTVdLNW1VcllGUm10d0dCSkEydEk0RTdIRFRuc05JWnpqS3Z5VHArbE5nbzVWSHVYc2dycVc4cUlCdGNzUkp3UGkzekxrQVcyVGJvSjF5NFNXdlZCR3BcL2tJNjBQRDZFUU9FZlI2anFMNE5zZlppM3RDVUt6Z2t2T3NUbEZEbldOSzF2V2hzM1hOeVNScGxtUEptelVkZU1vOWNuTnFZZDlaeTE3RXE4MnFtR05hQ0NwZ0dKZE9DYzVhUkhoXC9vPSJ9
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/fifa/9dc0ac94-9594-4313-b1f7-83e4e922a57e/058062195373512684980442
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/2a/c1/23/372ac123-59a3-47b9-81e5-3a708a951a9a.jpg" group-title="SPORTS | 3 MASA AKTIF",FIFA 4
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTcwNjM5MjgiLCJyZWZyZXNoX3Rva2VuIjoiS0FxWEFtRVVaa2lrMlVVMzVUNmpwZjA0RjFLWnptalhuQWpBYkl2MDRvMVBzQ0JPMXV0MXRySXNnZWhWa3dLQURKdUlPc1dpeUhcL0l0djRuSisyTHZiY0o5VkhNTzFoQnFOdndTZG9kQm5LTzcrU0pSUURBRHZkYldcLys4UFY2WHBDbGhSZVwvM2ZvWksrdTBwV3VjSEVjYnBYVzVXNEJkODlocXhPRjg0eEhsVG5JcCtBaG5JcjZzYlBVVFc1YnFVZnFJRTZwV053RjNxN2g4SnNEak9ET1h5TmVaWU9RZ1JvMDR4VnFzY29jbzhUa0ozMTJxcXJ5MTJyZjFydjZscW9YWEU3WDF1dEhEQStmbFpNZklUWVhtY2NwdzdtVXdjXC96Y2tSVWdiaXZkWU1VUmx5M1NldUN5WkxyQWFuSTVkSFwvb3NEcHZINHk3bDV0dk5nNHBzWFlaVGU4TUk5XC9zSFNsY0FxUXJKRmo4ekxmYVVNeUNFQWpKNExlZmVzZFR6MUJYaytKSk1vVEM0cFZDRjFvOURjZFFOWHNnYWRoem43T1NZNW9yallQcz0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/fifa/034970af-2f5f-492d-8453-cd912417791d/058062195373512684980442
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e0/33/ff/f4/e033fff4-ec1b-444e-ad48-5382db8257c5.jpg" group-title="SPORTS | 3 MASA AKTIF",FIFA 5
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTQzMjA5ODYiLCJyZWZyZXNoX3Rva2VuIjoiYlBEcE5NdkFhZFhodG9qVzh4MmZVQU16c1R6UXJMYnQ2UTZwZ3JRdnR5THh6S0Uwc2FjU3k4VHp6WkVXbVwvXC9jMm1FXC9hZ2xVSU1wVnQzMFBMTmtIaDVvbzRsNlc5d0E0QU1Ya29vck5TaWV0Y0trclV3NVMwd3ZKMkh5WUhpZGxUQk9LdHhvUnZMS1wvZUJtRUpFM0Rmdlp5c0NNOXU3UWlJNGZcL0Y0b1N3RDY1cURGOGRLdGk1bTNBeDQ0TEJCQW41UDJiRHloVFpBenBqSlAzUzFqeWFNdk9LUkpHODJBOWVYN0hRNnBCZnVRM1NJSVR6QU1kMjZVNzB3TG5MTlhoWDdDcWkwT0E5YnJFMG1WNWJRUG9hNlRlR29kY3VVUk1DWnFtMnNrXC9FcEZOVUFwb0lVRlEwclc4WGJDbGN5Mlo3Nlo2K3RkOFkzTGthZGF5bGNxdkdiekozUkxiS09PSEVUcVNyN1d0YUhZTjhqa0FcL2dBRFAzenRjMnAydGtTK1dlUVFsV0JpMmlPXC9SdEhPd3BIYlhJRXBabjlUOUcydUluK0RzcVc1bXhZPSJ9
+
+================LIVE-JADWAL===============
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gd6cQov53E3KtKEFIfMF3_HRJDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4208048/55aedf.jpg" group-title="LIVE-JADWAL",(13-04-2025-19.30 WIB-Liverpool vs West Ham - Premier League 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=9182&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjAxNDk4MzIiLCJyZWZyZXNoX3Rva2VuIjoibVdacmpNQkJweVhJbkVicCtvYnE2dzhobXY0d1dDQlYzeWZPT2thd0JIMzhSdis4NzEraVNvaXk0R0tHR2gzXC9xY3BLKzIrYTF5a3J1ZVVIZ000QU54SXptXC96clBDT0ZJRVNRY0ltUHJNdExTKzlTN1JBUWdySXlCTGRTTXJBd3lcL2JaWW9lSUN0cGN0bVVzeWYwbnFGU1Z0ZlBPRXdOZ0dSRGVicWJVMThMQW4wVXo2QUp3ZkV6bzJPU1lDd1Q1MnRNVFA4RVlpN21TdzBpQkxrUm5XeTV5N3dKZlB6cUxVNGV2NmcyOVBIZDBZXC9hbkhlWDhZR2pQVkdlaGpFSUQ2am9WY0tpcmhBOWx4cGlZMllBNWZzZGI1bElvbXRrQXVhdHBYSlozakdkeWhucDNNc2hONU8razhPRkJLMUVoazJxR0xjcFwvd0dyTEEzNmh1Wkd1aVwvdmZrRmV5UVhLNFBSUXJUS0loY1FkVFc5XC9hM0pYcGZaUDJnREhaN3V6UiJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8YTs3oeQ-9lxkoSeaN3FbdIRqP4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4208047/9e40af.jpg" group-title="LIVE-JADWAL",(13-04-2025-20.00 WIB-Chelsea vs Ipswich - Premier League 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=9183&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ1NzgyMzEiLCJyZWZyZXNoX3Rva2VuIjoiNmY2TFhwNGpjek1XNTB2VlBKXC9ESnVBV1pIcm9CTHFkdkhDOGNMdCtMcEVGRjZRMGM4a3V6OVFZUW5QdXlYRmpGdTArVkFBRHEzbWtlNk9EOE5vSFNFdEhSajE5NnRQdzZFWlRhZkJ4ZjZLTUtJVnNDeGR2RDc2QzRtNE1zWFwvekxFOEx0bXBMdVRGTmhsR0dhZUlraDd3dkJZZlwvSmpcL1Yzd25rMWdWRExlOGtBYUs4QWR3UkFtMERVeVQwRFh3XC9qWitcL0IwTGRNRlJKSDBCNFJXQkRTZWlkNTJzeGZDb3RhQW9RUWtvajRpWFp2dDVrSzhoczMyeFF6NnYyZ1cySDY3UklkZkZhRkhyMFBYelRpN3Y2QUVHMm43bGZYNEtYWk03RWx4OFVBVFwvZVlUcHA1WXNsOEt5bEVxWXhnZnVSVkpsUXIzRHZOcE5FdEhZWlYydm5jbEQ3SkNkT0hRRktuWlJNOCtFSlpUbWhDK3pcL3F2YjJWNGtQc3psQmhBMHAifQ==
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mvebkb987A4Q_9UZdAxy1_jR7Mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4208130/bd496a.jpg" group-title="LIVE-JADWAL",(13-04-2025-22.00 WIB-Newcastle vs Man United - Premier League 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=9182&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU5MzgyNDEiLCJyZWZyZXNoX3Rva2VuIjoiV0JHRWlFOFJTSnZqTTlpWFVvc2F6bnpqWkRlUDE4XC81d1hrZk14UWpkYlUraTBxY21yejR0TG9XTWhXVXBVbFBpK1lhM25GY1Q4MDBXNWxjN3kya0NqenNXeVRJbTBzK2lOSDk0Vm1WaUJCQ0xrSjBsaVwvVGNVT3JCcjlERW91QTFiWlRIbkZpUzBNcjl1ZVk0XC80TDJnUTR6N1Rwems0YWptU1wvVlljRXpRbGl0cVowaHBTemZYOWFLRXNhaGZpd3dwSUk1TmdaTk5RQ2VSUHFkN04zalNcL2ZhYkgwZHpGSENhbFwvb1FlSjBsUVlqXC9jSFVnTit0QTh2WXFLWVlLemI0OEZzenp5Q3R5V1ZvR1U1bVVSN3M5Q1dKRVZEd3pmVEZEZ2NEcjBIM01GVzB6dHBza1R3Z2ZNbnpXNGtqR2pWeGplRjZ6Z3ZiZnRacWdwK2tFY05jNGNqaDJiYlM0K2VObFhxdmpOd0piUENTNjg2MGZhMlljZEtXQlBveUw4NCJ9
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O7hmv93KeIayUhJwfcMP31qha-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4208117/1858d7.jpg" group-title="LIVE-JADWAL",(13-04-2025-22.30 WIB-[Data Zone] Newcastle vs Man United - Premier League 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17639&type=drm
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDM2NTg3OTQiLCJyZWZyZXNoX3Rva2VuIjoiRHowUkFXVXViSHJ0RHpSMVp3VWtnTzdSTVwvNVVWSzE5RTlOcDNOR28rMHdqVlpnSklrSEFuU0o1aUh6UUZvQmozSXF4czZSTnVidiswQ2dwVkVPWFBWYnZCYnZnODZCV2JOK2ZlbkVMWUlFTlUzSnNVMkh6ZXB2dzNta0R0M1NLQjJxdUw2ZURDdmtKaVYwNHFCRnY0Z0hUUXNkQ0kwVXpIaEcwdnhOanFHb1JLdVhqcG9lSzNrVUFkN1dTYm9PMlROaDBOTno3bFpuU1ZrV0dzMmZqK0hFbEFvemRReVVFV3NWM2ZTekJ0ZWtUeTJcLzdWaUwyS01iWGRqQmpHamRORzgwVDFcL2t1SUxoOFA5alBYb3pxYUNhT2xpTVl4XC9pRkZsNkMyOVNvRWw3YUFPSTBpTHo5Tk95RDJaNGI2WDZSc3lubWJFTWF6dDFjZUFjV21rMm42aTF0RDFFcjg3Y2FNR1NSdytpZjVBODNSXC9oODhUeFJGKzBnbG5KalhpSnIifQ==
+
 
 
 
