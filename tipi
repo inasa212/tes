@@ -10,6 +10,7 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",KAUMLOWO CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
+https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
 
@@ -1116,7 +1117,7 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY SPORTS MAIN EVENT
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 
--------------SPORTS 2--------------
+------------EPL--------------
 
 #EXTINF:-1 tvg-name="Astro Premier League 5" tvg-id="" group-title="Liga Inggris - EPL" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e32763AstroPremierLeague5_2024_IVP_LAND_1280x720.jpg",Astro Premier League 5
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQzNTQ4MDYsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDEwNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.X4pEH2raaIqmcdVSBhbOvNdMLVoZsl8wdgnxs_NMgSY"}
@@ -1149,6 +1150,76 @@ https://cors.renotv.my.id/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQzN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
 https://cors.renotv.my.id/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQzNzI4MDQsImRhdGEiOnsiYWNjZXNzIjoiQmVhcmVyIiwiaXNzIjoib3R0byJ9LCJkZXN0aW5hdGlvbiI6bnVsbCwiaGVhZGVycyI6ZmFsc2V9.RLCaAR4BBjEs4k2P_X2p3JhfBiflIc0Bog9KgPCN6u8/l01.dp.sooka.my/601/linear/index.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 11" tvg-id="os10.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 10" tvg-id="os1.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d351e7b4a296a261243ae646ddb96a:36edaf1750bb8a3463ff286ea1aae808
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport10/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 9" tvg-id="os9.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64827c38def88121250c7c721edd39d0:37c1da53782224020fa8160ccdd92472
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport9/xbtss/drm/avc/dash/plain/manifest.mpd/
+
+#EXTINF:-1 tvg-name="Optus Sport 8" tvg-id="os8.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 7" tvg-id="os7.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sport 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 6" tvg-id="os6.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 6 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 5" tvg-id="os5.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 3" tvg-id="os3.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b2c1aa0db912dbbcd5d0dc12821e10:ed03a87a8910e7737db55b164e7f0351
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 2" tvg-id="os2.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b53c1b0da6767644880f1fb643816e:4f6f753134fa24314e611973432e124d
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-name="Optus Sport 1" tvg-id="os1.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
+https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 -------BEINSPORS------
 
