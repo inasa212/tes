@@ -321,35 +321,35 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
 <======================== Premium Movies ==========================>
 
-#EXTINF: -1 tvg-id="hbohd.macan" tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="Premium Movies", HBO (A10+)
+#EXTINF:-1 tvg-name="ID:HBO" tvg-id="HBO.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO (TRV-A10) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
-https://cdnjkt913.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjMwMjg5NDciLCJyZWZyZXNoX3Rva2VuIjoibEpQQmx4MWpNcDdVczFIcHVhUnNLcVVYWU4xK20yUWpreEhmcDZES1RNeGhxcnROeDl6TEswQ2dpa1Z2SDhaS2haMWNkZ1pCbGFTOFwvTVVkYTNTN3pobVFJSTZUeW11d3l4amZzOWRFYVZoSFRGUjlnZGYxZ1pGdGlJbThMRnArMTM3ODdLRzVhbVZNQXp4SnVyYTVLWkhMZjV1TEE4aWZVSG5TQXlOSkQwdHE0SWRLQlwvdmNzMWFjbTZad0lucTdENUxpNnpuYkVWdmRFUW4wUlM3VjJqV3BsMHR3bmlCdFZaK1VTblwvejhBUDBLbGY2YnJmTFY1OU1cLzRqMTRoYXBLTG93K25nV1AycFwvRENrNGgzZ3dJamRCUDJyeTYrXC94c0VobUlWeUNkTEdySWYrbTBnc3BjRVQxdTVLelRYSEVjSzU5SW1kUWxEMUtkZHJmbjVveTNIaXg0WFhhejdTeFIzVEM0d0wwSFY5akZPdWdLOFVmbkxIeENjUTNpZVJrcUVMZ2hJU0tPZnRKM05wbXoxcnJyMzliZldLZzdDeGtCb0hjWkxZenRKVT0ifQ==
 
-#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-logo="https://i.imgur.com/kQSeDk8.png" group-title="Premium Movies", HBO HITS (A10+)
+#EXTINF:-1 tvg-name="ID:HBO Hits" tvg-id="HBOHits.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d054fbf67379f/20190906064255.png",HBO Hits (TRV-A10) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
-https://cdnjkt913.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzYzNTQwODEiLCJyZWZyZXNoX3Rva2VuIjoiQ2VsNjJTWmFQaHJnWXR0OU1ZaTBOS2xkdVVDZ1I3NHdUUmExUDVOcVwvQ3VXaWJMMkVOb3BKYmRrY0g5SldqaXkzZlwveVYyZ3R6blNYbFFwcVdJTmszVzdqbGlBRTE1YUcxbENQSUxZSUd5K2NiNVJNcUFwYmN1QU43cG5OaFhQS08yR3VmMVVCcnI2bjNoc2xNc2tHQ2poeFdvcGRLRWdNTUFENTJ6QlRVRDRhcFBVSUhDQUl4Yjl5djNrUDVsK1loaytJTXViWXZpS0Jta200Rm9PSDZMWUlsS29OY05NbFJlS3JSbVwvRFpVT1lMVGZ3UFpvbWxSYXFxcWZwTVloMVFjOG5QMTFVY2NLMm1mZklMdkp0WTJBS1VIdktqb3h2RVZzc0pkQk1EY3VranRoUmNWQTVGeDBETmZNdUtid0J0c0xpMFVYVGI4Z2tGalN1aXRBaU5JeHY3am00Mmx4bVZNZWxqako1amNrV3FNU1ltcnJib0tUV3p5T2Q5XC92YUk0MHZaMFpvYU1jTjQwdFNvUjdUcnpQUUlQZ2t4QUp4VEVNblhkQUtPMmM9In0=
 
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-logo="https://i.imgur.com/qImLK59.png" group-title="Premium Movies", HBO SIGNATURE (A10+)
+#EXTINF:-1 tvg-name="ID:HBO Signature" tvg-id="HBOSignature.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/20190906064620.png",HBO Signature (TRV-A10) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
-https://cdnjkt913.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNTc0MTAzODIiLCJyZWZyZXNoX3Rva2VuIjoiNmZvNEVJQTNROW13YUNyZTlXbzdITk5Id1hVOEIwKzRcL2JPNVVEXC9OWmY5ZVY5R09DN29lRGRZTjc4ckpMaGl5MGVKYm81bkdIRWRFM0FieFkreGlIY2lyOGNCUU81clZjM3ZSdW00ZnFNK25jXC9jRnVaTjhGK09qQmh3UlFDXC9rRmgrUDdmVlNuZXd6ZERKdVZKd0FcL2FHM1lDcGZjWlhYQ2hXcFlkZmNnWVk4VlwvNTVJSm4rS0VVYkxhM2VtcUJJemoyeXRRSlFSd3VPdEl2TXB4Y0w1VktHQU4zeVwvNmoyTGl4MTkwR3VWRklJQ0w2R0ZGcGl3dkR3S1l3Q0dxKzdOT1lzaU80bFkxdGRyREtaMGN4TDZvdGI1NmJXMkxrcXBWaUdtVXdxclFCY1lrbFpNZkRBekI5Sm5Oclo1V3podWZBVXF1Z0FcLzQydWJjUXltZWlBUFVvMm9ZQk9yeGNcL2UzTjdhUmgzVUdkbEZqS2F5NTRVSFJjUXR2ejRubFdOMG5jaG9aQ09sVGdteGpJWWoxSVpIUkx0dmhkU0dMNmE5TmcydWJcL0tLNnc9In0=
 
-#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-logo="https://i.imgur.com/XQe9V9u.png" group-title="Premium Movies", HBO FAMILY (A10+)
+#EXTINF:-1 tvg-name="ID:HBO Family" tvg-id="HBOFamily.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d055927fe37a4/20190906065312.png",HBO Family (TRV-A10) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
-https://cdnjkt913.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMjkxMzc4NTAiLCJyZWZyZXNoX3Rva2VuIjoidzNScUZxb01FbVlkd2syU1pCYTlcL2ViUlkwb1pzakZoaU5WSWtWdVI2TFh4elU2Q3ZQeUwxTTBlM1didUNTcndPOEtTYkU3OU9EZVBYRnBXbTRtcnNtZks3bjBsZGM3V1RiWGZBemFzUk04dGhSRkE1am5lMTloTExKeHlsTGszRll5R0p5S3pLRVY2RDhoc0xHWWxvU1gzT2JPUTJmMXVVSW94RFQwOG02OGxRUmFYa3RPZm51VkpJZnJMa3pvbjdtdXVlS2h4VkdYSlB3MVQ1WGlPMzVTSFE4U0xaQVZsSk5cL0J0cTI3M05hcWY0NnVQZEExbElubE5KbHhLTCtwM0o1RmVmWDZSN2FZUWdNNzZMSkt4WU5VWjR5Z2xMMmthb2IyXC9QNUZLWDhKK0l5XC9OaFRGZVNmdzNYZVluWTVSbHN1MGcxdEwzRW51ampZNzZuQ0lxRHNtYzBjQ1VKS0ZkbjcxT1VXRmZMNlVTdmdGQVFHVVlHamlwd3RhaHJYcDVaXC9zODR3cnJ2dUViYjl0R3JQRVVUaHRoYVNiUCtoNnZwdm05YWZYcVc0PSJ9
 
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-logo="https://i.imgur.com/ehjkdEA.png" group-title="Premium Movies", CINEMAX (A10+)
+#EXTINF:-1 tvg-name="ID:Cinemax" tvg-id="Cinemax.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax (TRV-A10) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/cubmu/drm_cubmu.php?token=95566788
-https://cdnjkt913.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODMwOTI3MTQiLCJyZWZyZXNoX3Rva2VuIjoiWFlmbmthTStcL3FsWHp4THRcL2lWTlwvZHhhSHdxSzI3XC9oVXJEVmQ5TnNtbFR0MW1nUHFrRkRaejl4d0pJTGxHVXI3eHhGNzc0eG1cLzFJV2lyb2UwRXNZdzQ2aWtHdTI0MkdRXC9nR1A2TVlDNUw4dThoUzF4YXBtdjVkdThRUVFQbjdDdmZPYjFKUzY2MUpEbHdDUnZORjVLbU1MSldhM0JUS3Vzcjh0c0RqeEZGRkVlNWhkd3U0c2Fud2xSRENqRVk5N1kxN0JhV1RmMEZsWktwU0RmdHJIbWtcL3FWb2ZtQXVBSTZRQ3ljbkhLeXVtZmVYOGdpWUpsc0VMRndWRCsybG5xR2djUW50dDZUUkY3M0hSbm1xaXdvQkFQZ0ttSFpjZTRTTFluRGxrODFwbkt3WDBIZDgrVXZqVHR6RGl3NElwc1wvQ29uWTV2SlhBVkJWVTNzdjE2aGUrQzFtZFBrZ2ZTWkNBTjgzQ0hDUnFiRjl0dGZKWXpNTElvNHBoODNYZXZ4Y1Ezb1hTUkxMd3BqRmV2OWRZQTBXZFEzMXc5S2swc1wvZHNlQUlPa1ZNQT0ifQ==
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
