@@ -9,10 +9,10 @@
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",KAUMLOWO CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels", https://t.me/inasa212
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",PREMIUM CHANNEL
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",https://t.me/inasa212
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",t.me/inasa212
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1127,30 +1127,6 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 
 ------------EPL--------------
 
-#EXTINF:-1 tvg-name="Astro Premier League" tvg-id="" group-title="Liga Inggris - EPL" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9f7c88AstroPremierLeague_2024_IVP_LAND_1280x720.jpg",Astro Premier League (SOOKA)
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0MTk2MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDk3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.5w7EeTW5kXZnW2dvsRGHxUiicXLCzq-gqm92uCjMyH4"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-https://cors.renotv.my.id/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQ0Mzc2MDUsImRhdGEiOnsiYWNjZXNzIjoiQmVhcmVyIiwiaXNzIjoib3R0byJ9LCJkZXN0aW5hdGlvbiI6bnVsbCwiaGVhZGVycyI6ZmFsc2V9.LcMf5QXRuiI6024JOFS5-Dx4vxBmNPUWBwDP8fwo4lo/l01.dp.sooka.my/601/linear/index.mpd
-
-#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-id="" group-title="Liga Inggris - EPL" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ef8895AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg",Astro Premier League 2 (SOOKA)
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0MTk2MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDk3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.5w7EeTW5kXZnW2dvsRGHxUiicXLCzq-gqm92uCjMyH4"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-https://cors.renotv.my.id/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQ0Mzc2MDUsImRhdGEiOnsiYWNjZXNzIjoiQmVhcmVyIiwiaXNzIjoib3R0byJ9LCJkZXN0aW5hdGlvbiI6bnVsbCwiaGVhZGVycyI6ZmFsc2V9.LcMf5QXRuiI6024JOFS5-Dx4vxBmNPUWBwDP8fwo4lo/l02.dp.sooka.my/2104/linear/index.mpd
-
-#EXTINF:-1 tvg-name="Astro Premier League 3" tvg-id="" group-title="Liga Inggris - EPL" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fb1c85AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg",Astro Premier League 3 (SOOKA)
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0MTk2MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NDk3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.5w7EeTW5kXZnW2dvsRGHxUiicXLCzq-gqm92uCjMyH4"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"88e55aef52264843b604798677f6e007":"e543e2f3e1b5363477be5289606541ec","8c1a6746f400473e8abf307c0d23af12":"41b6609cf8133668679975bc8a9bcf50"}
-https://cors.renotv.my.id/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQ0Mzc2MDUsImRhdGEiOnsiYWNjZXNzIjoiQmVhcmVyIiwiaXNzIjoib3R0byJ9LCJkZXN0aW5hdGlvbiI6bnVsbCwiaGVhZGVycyI6ZmFsc2V9.LcMf5QXRuiI6024JOFS5-Dx4vxBmNPUWBwDP8fwo4lo/l03.dp.sooka.my/5108/linear/index.mpd
-
 #EXTINF:-1 tvg-name="Optus Sport 11" tvg-id="os10.optus" group-title="Liga Inggris - EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0y3i5G-s0n0lCncHuPtA5vFouBCA1rSOpg&s",Optus Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referer=https://pulsesoftware.com&origin=https://pulsesoftware.com
@@ -1252,14 +1228,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 
-#EXTINF:-1 tvg-name="Bein Sports 2 MY" tvg-id="" group-title="BEIN SPORT" tvg-logo="http://linear-poster.astro.com.my/prod/poster/beINSPORTS2_IVP_LAND_288x162.jpg",Bein Sports 2 MY (AST)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
-
 #EXTINF:-1 tvg-name="Bein Sports MY" tvg-id="" group-title="BEIN SPORT" tvg-logo="http://linear-poster.astro.com.my/prod/poster/beINSPORTS_2022_IVP_LAND_288x162.jpg",Bein Sports MY (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
@@ -1267,6 +1235,11 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kqsC4o.jpg" tvg-id="kosong" tvg-name="beIN Sports MENA Premium 2" group-title="BEIN SPORT",beIN Sports MENA Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
 --------------LIVE 24--------------
 
@@ -2088,6 +2061,13 @@ https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU5MzgyNDEiLCJyZWZyZXN
 #KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17639&type=drm
 https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDM2NTg3OTQiLCJyZWZyZXNoX3Rva2VuIjoiRHowUkFXVXViSHJ0RHpSMVp3VWtnTzdSTVwvNVVWSzE5RTlOcDNOR28rMHdqVlpnSklrSEFuU0o1aUh6UUZvQmozSXF4czZSTnVidiswQ2dwVkVPWFBWYnZCYnZnODZCV2JOK2ZlbkVMWUlFTlUzSnNVMkh6ZXB2dzNta0R0M1NLQjJxdUw2ZURDdmtKaVYwNHFCRnY0Z0hUUXNkQ0kwVXpIaEcwdnhOanFHb1JLdVhqcG9lSzNrVUFkN1dTYm9PMlROaDBOTno3bFpuU1ZrV0dzMmZqK0hFbEFvemRReVVFV3NWM2ZTekJ0ZWtUeTJcLzdWaUwyS01iWGRqQmpHamRORzgwVDFcL2t1SUxoOFA5alBYb3pxYUNhT2xpTVl4XC9pRkZsNkMyOVNvRWw3YUFPSTBpTHo5Tk95RDJaNGI2WDZSc3lubWJFTWF6dDFjZUFjV21rMm42aTF0RDFFcjg3Y2FNR1NSdytpZjVBODNSXC9oODhUeFJGKzBnbG5KalhpSnIifQ==
 
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/536/359536-SNAPSHOT-l.jpg" group-title="LIVE-JADWAL", 12-04-2025 * Moto3 : Qatar Airways GP of Qatar - Free Practice 2 (17:25 WIB - 18:05 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.lala.biz.id/drm/vis/STND4274341473008268/058062195373512684980442
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiODUyNjcxNDMiLCJyZWZyZXNoX3Rva2VuIjoicnF2NVJXMzhobWhqOVdGNDdHQXJZWGZcL2htQ3NGK01ZWEJCSlVmSlBTWFBBSTlDaXVOc3dVMWlMd05HUkpNbkRuS1MyRXlMSjRrVkI1UkFTeEZGYk5LNkppYjU4cVgxVE9ZNkJHb2NNXC9tQ2QxWTFqSjVVNlJGS0daSWRzM2RlTjNNemJiMmwyNXRlMnR2MERla0JFNXpjeFVNNktlTDZ2Q0d4RzRzd0JGcHFLcmVtSTNQTElmaEVXMG5PcXNHRk1nSDF2K2J0U24yT01iUk9LMEtBK1RsNVRMU2luSVcrMjBUZkthaENtOU5Ca2orcXVyZjBmdW1MdzhQcktvdGllNzU0VDJranI5ZmNVNTlFQ3VZTmlIRkVNMExJXC8wWGpYVjJMUEU1MmtsOFV4QURFSnd0ekdFTDhUQmI3SzF0TEZrbEkybXFKOW8xRmtTd0NJSWd5bVBoXC95Y2l5NUNONUtiQmZGZ3lpV2tGZnplV0xWSDRkWmRCU0Q4b1lNeW5ETUhScE9rQituNUUzd3E5U2c3N3d0ZUE9PSJ9
+
 --------------
 
 #EXTINF:-1 tvg-name="ARENA 1 HD" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000363_IVP_LAND_288x162.jpg",ARENA 1 HD (AST)
@@ -2162,6 +2142,124 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dash
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
+#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_288x162.jpg",Astro Grandstand (AST)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9f7c88AstroPremierLeague_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League" group-title="Astro Sports",Astro Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ef8895AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League 2" group-title="Astro Sports",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png" tvg-id="kosong" tvg-name="Arena Sport 1 Premium" group-title="Astro Sports",Arena Sport 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png" tvg-id="kosong" tvg-name="Arena Sport 2 Premium" group-title="Astro Sports",Arena Sport 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png" tvg-id="kosong" tvg-name="Arena Sport 3 Premium" group-title="Astro Sports",Arena Sport 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Astro Sports",Arena Sport 1 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 2 Croatia" group-title="Astro Sports",Arena Sport 2 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nnqoda1643205755.png" tvg-id="kosong" tvg-name="Arena Sport 3 Croatia" group-title="Astro Sports",Arena Sport 3 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6oo0y71643205763.png" tvg-id="kosong" tvg-name="Arena Sport 4 Croatia" group-title="Astro Sports",Arena Sport 4 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
+
+=========LIVE MOTO GP-TENNIS-UFC==============
+
+#EXTINF:0 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 1 (SKY)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+https://cors.svaren.dev/https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master_stereo.mpd
+
+#EXTINF:0 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 2 (VID)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1744553062~acl=%2Fdrm%2Fdash%2F17139*~id=156207120~data=hdntl~hmac=0937ef3e34f7d7a5275ab737b064932b41edbce8c2f3c63a361429ad06aa1bc9
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDM5Mjg2NTAiLCJyZWZyZXNoX3Rva2VuIjoiUURkU1hvb0owMFh1Tjg1U1pwWUVMQVBkS3RaOVBGVXR2eTRyUUhBU2Q2WG0xMU5FRGt4SlhNS0w3N3huSndYSEdDVnhhbjNoUFFhMDcreUhJV3NKdit0ZmJRWFwvYzNMODR5SlUyTVU1R0M5TDFZdUFaOTI1SHd4WVF2eExLTFwvdXFBOFBqKzFFejRoUUN4dHM0ZHB5MWp3V1c0eVIreUg3Mm56UGlublRmNjRHZnRMU1o5YTNjdnJRZWdxZGJ1QjNmTWhWRHluVGVxVFRMVkc2WENsd2xkSnRmdXhIV2daNFRESVwvQzJpakhDRUEwQTBZRXNnWDcxWHR4dW1XRHA2cTBkaXNseDVrR0xOOXY0OThZV2xiS0RkSks5YlwvXC83VTVUY2U1Z25QVjhuZ0IzYXNCalwvaTllSlJFOENYN2hCblVcL0dabVwvVnpQVzNCTWJCR1JOa0JvcXZ1RW0wSit4WXY5YmR1K1I4Q21odm5raWlrd0UzZEdyVWJOVUdpWkloNVoifQ==
+
+#EXTINF:0 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png", Live 4 (GO3)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://v4-vno-u120-cdn-02.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1  tvg-id="daznf1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNZX1N3l_Occia2QTBnhZQ_8O92wEpmIaqMj5ae4DYw&s" group-title="Live | MOTOGP|TENNIS|UFC|F1",  Live 1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1  tvg-id="daznf1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNZX1N3l_Occia2QTBnhZQ_8O92wEpmIaqMj5ae4DYw&s" group-title="Live | MOTOGP|TENNIS|UFC|F1",  Live 2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://cors.svaren.dev/https://linear307-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
+
+#EXTINF:-1  tvg-id="daznf1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNZX1N3l_Occia2QTBnhZQ_8O92wEpmIaqMj5ae4DYw&s" group-title="Live | MOTOGP|TENNIS|UFC|F1",  Live 3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://cors.svaren.dev/http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+
+#EXTINF:-1 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2py0xh_ma-iI6yOunFc3_-VsUv1RJTDnXw&usqp=CAU",2. Live Tennis 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://bit.ly/3fpIVjj",1.UFC Live Only
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd/
+
+#EXTINF:-1 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://bit.ly/3fpIVjj",2.UFC Live Only
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://a148aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
+#EXTINF:-1 group-title="Live | MOTOGP|TENNIS|UFC|F1" tvg-logo="https://bit.ly/3fpIVjj",4.UFC Live Only
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 
