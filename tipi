@@ -1900,7 +1900,7 @@ https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_st
 #KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
 https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1744569248~acl=%2Fdrm%2Fdash%2F17139*~id=164786223~data=hdntl~hmac=f5a2bb5e21606baa03c8b7d68441b3c1f72658d1f3903e3f29ca2683abc58e9e
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6gAv5vdP2DhoIMdIEHJzGlGnY58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211951/70faf3.jpg" group-title="Liga & Volley",BEIN SPORT VID
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6gAv5vdP2DhoIMdIEHJzGlGnY58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211951/70faf3.jpg" group-title="LIVE | JADWAL",BEIN SPORT VID
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
