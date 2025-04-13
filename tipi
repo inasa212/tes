@@ -1838,7 +1838,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 
 ================LIVE-JADWAL===============
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rGVF6xy24PW3Gu4BKcUrz0wOveM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211958/1f790a.jpg" group-title="LIVE | JADWAL",(14-04-2025-01.45 WIB-Lazio vs Roma - Serie A 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="LIVE | JADWAL",CHAMPIONS 1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1847,10 +1847,67 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17938&type=drm
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17938_stream.mpd?hdntl=exp=1744558482~acl=%2Fdrm%2Fdash%2F17938*~id=164786223~data=hdntl~hmac=658b6d09c96b3a015ad03f0d10c7c6cf8b7dee4e07a507b17ff8c35c3a1ed701
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gd6cQov53E3KtKEFIfMF3_HRJDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4208048/55aedf.jpg" group-title="LIVE | JADWAL",VIDIO LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=9182&type=drm
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/9182_stream.mpd?hdntl=exp=1744567866~acl=%2Fdrm%2Fdash%2F9182*~id=156207373~data=hdntl~hmac=9960ca794db0de6ef63f65475f4ebdaefa61cfa2790f1899758b017f5f9ecc76
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="LIVE | JADWAL",CHAMPIONS 3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6786&type=drm
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdntl=exp=1744567722~acl=%2Fdrm%2Fdash%2F6786*~id=156207120~data=hdntl~hmac=ad4b6d9733fff543c5d239f59e6ebeb4e1a8707c7dedbb4339635f73ae2d16fc
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="LIVE | JADWAL",CHAMPIONS 2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17939&type=drm
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-5G0wWhsiUismPqBGfSiCHTYF4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211953/477e41.jpg" group-title="LIVE | JADWAL",BEINSPORTS VID
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6317&type=drm
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdntl=exp=1744568978~acl=%2Fdrm%2Fdash%2F6317*~id=167961383~data=hdntl~hmac=f3ac923ce36160d85ae7d48e484575deac15db6a1811c0a8c9a055c49c1c2663
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7dek4OfvCsXwLj5nR10W4pM54DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211955/6ec379.jpg" group-title="LIVE | JADWAL",SPOTV LIVE VID 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1744569121~acl=%2Fdrm%2Fdash%2F17139*~id=164786223~data=hdntl~hmac=c088d86012ac261bdad084abaf429ce9b66365b3677972b86c4e7095d71facb5
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Glq6PatTnCv_tm7yKOH2F4bRORM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211956/0bd9fd.jpg" group-title="LIVE | JADWAL",SPOTV LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=17139&type=drm
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1744569248~acl=%2Fdrm%2Fdash%2F17139*~id=164786223~data=hdntl~hmac=f5a2bb5e21606baa03c8b7d68441b3c1f72658d1f3903e3f29ca2683abc58e9e
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6gAv5vdP2DhoIMdIEHJzGlGnY58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4211951/70faf3.jpg" group-title="Liga & Volley",BEIN SPORT VID
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://player-vidio.city-vision.workers.dev/index.mpd?id=6317&type=drm
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdntl=exp=1744569447~acl=%2Fdrm%2Fdash%2F6317*~id=164786223~data=hdntl~hmac=3ec609bd875ee5cf0b9e08ff2c210ac8a41e9b565dcb6b7ce356e6f0e1be4dc7
 
 --------------ASTRO--------------
 
