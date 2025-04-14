@@ -990,9 +990,15 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="sportstar3" tvg-name="SPORTSTAR 3" tvg-name="SPORTSTAR " tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR3.png" group-title="SPORTS",Sportstars 3 (LIVE)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok/drm.php
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm.php
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:0 tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR3.png" group-title="SPORTS",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.brass.my.id/visionplus/30460221008fb59d68070ec16651b14b87528520c848a6a388e8d9839f4f9dfd3637a9fda3022100d0e53e65f2015e13fe52c50b5425b9ac00492683177fc7c471847f342231ace4/drm/114
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzA5MTMyODUiLCJyZWZyZXNoX3Rva2VuIjoicEJITERoOUdrZkVLQk4xckFDbHVpcHlqV1M2bVwvQjNla1E4T0dqczdxZnlMaGhGQ0dQOUxIcXFDdmlhRUQxXC9IN2ZDbHBFZWxzeEdGblwvTkxVTU92Q1l1WnV0MUIzRmxwZFA1ZnhHOVZ3bWs5cm5Cc1crU3ZOUVIzVE9vTDlzQkhsUVpOQzhGM0diR1NQb2ZpcWt4SVVuc1c5NTFoek5GbXRPME5HNFJBNWw4RnNZMW1kRmp3MzkzR3kxYzdWSjVoS0RtTDZBbzl4bmpNN29hcXNMa3NGZjBiV0JBeGYwQlBJTWg1eEg4Nlo4V0x5dTZRUkRmamZySFBGYmZvWkJKSm5hdHQwNmlCZng3Z2hDVGVLeWtSMlY4TDVqbk1VcXM0UVdEVjVtVk9zcXZSUUVcLzViU3hiNEVmd0tvV2xFTVgwZ3NSOFwvdEI5TVVIRnBCWFM0aWJocFdFVkVIV3ZjeGFoa2hjZFwvUmdFaU1FRUFHc2ZWOHdFaTdxSmpPRHh3NmVvaCtcL2ZcL1B2Um1UU2dveWtBMUEzSjFValhOQVQ2Mm5OdVUrSUt1V1cyMXFXZ2Z5alBXbzl1UGFCM2NjSVEweDE2SitnWmhlS1Rud01mM243QWJDU2NTbjVQTkIyM0tuR1ZPRlBDZ3dRdW9nNGxVXC9IRDFDSExldGN0U2J0SEtYRWFtSEM3SDE0WmRhOVwvckM3OW1QYTJvczZ4Z09zZ21TejZHNkNWV1dxYTl3OD0ifQ==
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1006,7 +1012,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="sportstar3" tvg-name="SPORTSTAR 4" tvg-name="SPORTSTAR " tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR4.png" group-title="SPORTS",Sportstars 4 (LIVE)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok/drm2.php
+#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm2.php
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
@@ -1022,8 +1028,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS", CHAMPIONS TV 2
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" group-title="Sports",V+ LIVE	
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.brass.my.id/visionplus/3045022100fc5a6c1a5a7e921150363ab1a585d6eba3f43eded1f0f2c49d06adde3a7c55a5022039ca97160a04fa659155d07a2c379074e7c027e42bc045ed081b03d75e74e522/drm/1002
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
