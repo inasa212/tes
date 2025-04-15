@@ -965,6 +965,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 <============================ Sports ========================>
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS",IPTV KAUMLOWO UPDATE 15 APRIL 16:37
+https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1197,6 +1200,9 @@ https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport2/
 https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 -------BEINSPORS------
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="BEIN SPORT",IPTV KAUMLOWO UPDATE 13 APRIL 03:37
+https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="BEIN SPORT",BEIN SPORT 1 (INDO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2131,6 +2137,10 @@ https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDAxMjU4MzciLCJyZWZyZXN
 #EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-in-the-lost-lands-2025-lk21-d21.jpg.webp", In the Lost Lands (2025)
 https://cloud.hownetwork.xyz/xxx/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
+
+
+
+
 
 
 
