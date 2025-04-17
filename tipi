@@ -961,30 +961,30 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 <============================ Sports ========================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS",IPTV KAUMLOWO UPDATE 15 APRIL 16:37
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS",IPTV KAUMLOWO UPDATE 17 APRIL 11:33
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="112" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/953/49953-SNAPSHOT-l.png" ch-number="112" group-logo="",Sportstars 1 (WV) 
+#EXTINF:-1 tvg-name="ID:Sportstars" tvg-id="Sportstars.id" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/953/49953-SNAPSHOT-l.png",Sportstars
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="113" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png" ch-number="113" group-logo="",Sportstars 2 (WV)
+#EXTINF:-1 tvg-name="ID:Sportstars 2" tvg-id="Sportstars2.id" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="SPORTS",Sportstars 2 (LIVE)
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index_3.m3u8
+
+#EXTINF:-1 tvg-name="ID:Sportstars 3" tvg-id="Sportstars3.id" group-title="SPORTS" tvg-logo="http://ottoprie.serv00.net/vision/logo/SPORTSTARS3.png",Sportstars 3 (VIS) 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="sportstar3" tvg-name="SPORTSTAR 3" tvg-name="SPORTSTAR " tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR3.png" group-title="SPORTS",Sportstars 3 (LIVE)
@@ -993,19 +993,10 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:0 tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR3.png" group-title="SPORTS",Sportstars 3
+#EXTINF:-1 tvg-name="ID:Soccer Channel" tvg-id="SoccerChannel.id" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png",Soccer Channel
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.brass.my.id/visionplus/30460221008fb59d68070ec16651b14b87528520c848a6a388e8d9839f4f9dfd3637a9fda3022100d0e53e65f2015e13fe52c50b5425b9ac00492683177fc7c471847f342231ace4/drm/114
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
-https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzA5MTMyODUiLCJyZWZyZXNoX3Rva2VuIjoicEJITERoOUdrZkVLQk4xckFDbHVpcHlqV1M2bVwvQjNla1E4T0dqczdxZnlMaGhGQ0dQOUxIcXFDdmlhRUQxXC9IN2ZDbHBFZWxzeEdGblwvTkxVTU92Q1l1WnV0MUIzRmxwZFA1ZnhHOVZ3bWs5cm5Cc1crU3ZOUVIzVE9vTDlzQkhsUVpOQzhGM0diR1NQb2ZpcWt4SVVuc1c5NTFoek5GbXRPME5HNFJBNWw4RnNZMW1kRmp3MzkzR3kxYzdWSjVoS0RtTDZBbzl4bmpNN29hcXNMa3NGZjBiV0JBeGYwQlBJTWg1eEg4Nlo4V0x5dTZRUkRmamZySFBGYmZvWkJKSm5hdHQwNmlCZng3Z2hDVGVLeWtSMlY4TDVqbk1VcXM0UVdEVjVtVk9zcXZSUUVcLzViU3hiNEVmd0tvV2xFTVgwZ3NSOFwvdEI5TVVIRnBCWFM0aWJocFdFVkVIV3ZjeGFoa2hjZFwvUmdFaU1FRUFHc2ZWOHdFaTdxSmpPRHh3NmVvaCtcL2ZcL1B2Um1UU2dveWtBMUEzSjFValhOQVQ2Mm5OdVUrSUt1V1cyMXFXZ2Z5alBXbzl1UGFCM2NjSVEweDE2SitnWmhlS1Rud01mM243QWJDU2NTbjVQTkIyM0tuR1ZPRlBDZ3dRdW9nNGxVXC9IRDFDSExldGN0U2J0SEtYRWFtSEM3SDE0WmRhOVwvckM3OW1QYTJvczZ4Z09zZ21TejZHNkNWV1dxYTl3OD0ifQ==
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="115" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" ch-number="115" group-logo="",Soccer Channel (LIVE)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=115&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=115&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
