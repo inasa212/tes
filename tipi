@@ -2021,6 +2021,48 @@ https://a148aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+=============DAZN SPORTS==========
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 1 Bar DE" group-title="DAZN Sports Premium",DAZN 1 Bar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 2 Bar DE" group-title="DAZN Sports Premium",DAZN 2 Bar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 1 Spain" group-title="DAZN Sports Premium",DAZN 1 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 2 Spain" group-title="DAZN Sports Premium",DAZN 2 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 3 Spain" group-title="DAZN Sports Premium",DAZN 3 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN 4 Spain" group-title="DAZN Sports Premium",DAZN 4 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN F1 ES" group-title="DAZN Sports Premium",DAZN F1 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrrlpVj.jpg" tvg-id="kosong" tvg-name="DAZN LaLiga" group-title="DAZN Sports Premium",DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+
 ==========
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",Spider-Man Across The Spider-Verse (Spider-Man Across The Spider-Verse - Part One) (Joaquim Dos Santos) (2023)
