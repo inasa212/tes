@@ -350,8 +350,15 @@ http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/221948.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/197055.ts
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="ID:Cinemax" tvg-id="Cinemax.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax (TRV-A10) 
-
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -382,15 +389,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/wrVFgOT.png" group-title="Premium Movies",Galaxy Premium 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/wrVFgOT.png" group-title="Premium Movies",Galaxy Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
+#EXTINF:0 tvg-logo="https://i.imgur.com/wrVFgOT.png" group-title="Premium Movies",Galaxy Premium
+https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2099,19 +2102,24 @@ https://storage.dewanonton.online/hls/5f4abb0c-9f98-4e68-9678-471c6d7ca4bd.mp4/i
 https://storage.dewanonton.online/hls/b50db482-4cad-40ec-85e8-6f12a7b5448d.mp4/index.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Fast X (Fast & Furious 10) (Louis Leterrier) (2023)
-https://vip.ottotv.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNTM4OTQwMjciLCJyZWZyZXNoX3Rva2VuIjoiZnl0eUs4TGdiWmpxK1NcL1o5eWpONGxKSkdWR0hKSTY4b1l6UHhEZndtbmg4WTIrQkFcL1o3c05qRStBWVwvV2c3OHB4VHFkZTcyM3l6bWtrV1BZeGJmV0N6NEVRYXl3M3RHQmpVVmNYdksyU2cyNTdJUitDbEdqZjA1aWxqdGlcL1RSQVRETE1pcGd0N2liMUlkWmRVdFY0d1pBZjNaNnVORTVKRmY1QlB6eFhxRmkrdjFQWWpqNElVU1VKNW9qTjJHQnhLNlg2OXNWSlhUU1ppd2c0bjdLaXoybkNCdjdBM1k3SzR0b0hFeWJmUFBmeUlIMk1NZmF6bWdVTEYrdmFLbWFKK0NsMXc5REJaa3RJeTlIVzN5NGtRU01ndEkxYkJONzFydk5pSGxCQTk3c21yV2duaTVjR0M5ZjJzUXB6ZVVCa3VyREJIXC9DWFwvampQMmk5dkdMeHU2S0ROQmRTc3ZjdzlpMU95MSttN1YrMUl3MnZxWjdaQkF3OHViUSszaG9SNXM3a1BIYis4SmhEZDFXclwvZVplYUE9PSJ9
+https://cloud.hownetwork.xyz/xxx/f7ffd4aef0d41487929b660c2e949a94/1/480.m3u8
+https://cloud.hownetwork.xyz//yyy/f7ffd4aef0d41487929b660c2e949a94/1/480.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/original/nAbpLidFdbbi3efFQKMPQJkaZ1r.jpg",Guardians Of The Galaxy Vol. 3 (Guardians Of The Galaxy Volume 3) (James Gunn) (2023)
-https://vip.ottotv.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzk4NTAyNDYiLCJyZWZyZXNoX3Rva2VuIjoidHpna1hqV3JhS01QWG1xaThpWG9ZM2hoYnVaRWVPMEtJaTVzbGhYWXpiWUNpT21sQkY3cms2RW9KMTlmYzhScEFGMldDbzErWTJzWWJibkU2UEY2VklvZTR0VytVRVRjUlk4dlpKVFpGc2o0bVhRTWttbDN0aVVYUWZiaXcyMGlDSEtvSm9KT01ldlhLRitOM3lxb1BhWGJ2SDJXTnJcL2U2bHhiVnVaZnRsam5lYWVreFBmVGJTVlF3Y1A1T0cxaUVtenA5aHlOQXZoa0l0dTZBS2FWaUxRS3Q3XC85eW5GbUg1SEJVVXdMeTZNRTV1eXBiS2hkSmtDc3BVT01cL2pOTHVZZThsTmNjbFF3enBXbWtHVTh1ZzluQ3phXC91NHFBenNyKysrV0Y3Z3pidDJlUkhQZzdLSlhcLzZGWmJPMDNYOTZ2MXQwQlZ2cnZEQUs1eldQK1l0cVlNWitsaFFqcTY5aG1aREdzM3U3bFF2Z1wvdEZCekFSY3VGYStzMlRLTzU2N0hiclwvRXZXVjRKcmc1TVJ5QkErbVE9PSJ9
+https://cloud.hownetwork.xyz//yyy/d67e79ec9b38c7f0606c199d21506aad/31/480.m3u8
+https://cloud.hownetwork.xyz/xxx/d67e79ec9b38c7f0606c199d21506aad/31/480.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNmNWNiMjUtZmYyMC00OWVhLThmMTItNjkxYzU4Yzk2NTdlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_SX300.jpg",Hypnotic (Ben Affleck) (Robert Rodriguez) (2023)
-https://vip.ottotv.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTYwMjc4NTkiLCJyZWZyZXNoX3Rva2VuIjoiXC9WOEhYMDl3YVRjR2VuZTVGa0ZkWVhNa0hCQWJXaVwvRzVtNzRUcUF5dUthYWt6Y3pCWFNCUUY1amtubExyVGJ1bXBRT3FQRE11ZW9tTGJmV1I4Z1ZPQ0s5czd1VVUzQkc4SlNBUGUySjlNYjU1aGprNmxOS3FwalwvVEdGaExxaFJtN2M2RlJma0xZUFI5SDh3Y2kxV0RDbForazV2d2w2VzdtNEIrUDVYejc0NTBPV2RpT3RPWlExVHduQksrSHhFeURlTnBFK3VcL0J5YVhZQ296UUpuXC9NcEdmQWFTS3dGMVR5Q2lzNmwzaXFOQmhrbkFiRmQzdE43T3U1VFM2bXZcL01ZenNBWmE1bUQ5OXBSZXBXODlCZWNvV3ZocHBqdHgwVXRVZGJWUWhBVlRCYWhxc3RYNWJmQ1lGb3NGYnB5clUrUTNoZGQybU83XC9MR1hiU293K1VaR0dKeTBtUEplN0RrRVwvd2dtaUM1U0RSRnNaNkMrV0xGSjBKTHgraE1cL1g3NGVyenl5a0NzdGlTTlNzU25hNExxUT09In0=
+https://cloud.hownetwork.xyz//yyy/1752b612a8bea13e80a3b6648bbc69e7/1/480.m3u8
+https://cloud.hownetwork.xyz/xxx/1752b612a8bea13e80a3b6648bbc69e7/1/480.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_SX300.jpg",Ghosted (Dexter Fletcher) (2023)
-https://vip.ottotv.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTkzNDA3NTYiLCJyZWZyZXNoX3Rva2VuIjoiNHFpMjhzXC80SnhSVitXSWhHeUlQdmM5eW5LZTlQRnd5aTJGUGp2ajJjOHdFTE5JUTVBR1wvSm9Vc1RCTTVOem9paktZQlQwZXd4TjE1YkZtUDk0d3ZJcTd3N1RYNmZ0UnE4c3ZNTHdGYmhqdzZCQjJCeGFuNUZ6aVNxcjF0cUNQSUR3b3RiZ2g2dWdHM2g2UXBETHAwRkFaek1Ec2pUZVRjMWJCc2s4Rjl6d1pibXNpWE1yeWtKRVlPK29heU9DVVVGVmVLSWFUbVJMdURVR2dDUmZzNVFjMGRtYU84dHl2N045RnluZ3BDaWpyWDFVbGNVWEdZU0J3YmRxRGJWZUhaZ0M2cDFLXC9SQzFId0x0dERnSnY4OWlocGFXTjc2TUFlSVlKdGcxcks3MU9MOERIN3duRHpCemU2bEl3NGkzOGZNWTJMeldCcmpNa2pBS2daMzFTamNLOGZHdytQUytYUk9YaVVQc2p0NFwvRHJyOTJxd2g3S3FHeVQ2QzZSdjVvXC9MYjZCVU8rRjhtcGNoZGVrd1FuMmpBPT0ifQ==
+https://cloud.hownetwork.xyz/xxx/4d33c47ab3f1d4493022c38b7531df79/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/4d33c47ab3f1d4493022c38b7531df79/31/480.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://image.tmdb.org/t/p/original/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",The Last Kingdom: Seven Kings Must Die (Edward Bazalgette) (2023)
-https://vip.ottotv.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzE3MjgwNTkiLCJyZWZyZXNoX3Rva2VuIjoiNFdKM2MwRThKZjFUV2pKRllyNExNMlBod3RIaExxdHNBc01GeWxpZHN1czdxZ3h0R0dNazJFXC9XbjFXTWZoWDVTVE41b2Z0TUQwZXRRM2Q5a2RxSTRiZllDN3FJcWE3end3bjhqN25yT1pQTFRNeXM2SnEwQVBDWk1YRnlcL3c3SVNlNE1pb2dWMWFIKzl4eDlkSDEwS0ZGSXBsNVVXUGVhS0dMNHQ3d1wvc2FxKzNMTVpKT3VOYnc4WkNid0JCWmFsVDVEcm1HTDZGZFdTSVZ5TWdkZDdVTmlcL1FROXFyM2M3aGE4OXI4cXptQUxCMFp0Snl2cThxeHZqYVRFVHVjVU94VGwwd3F3V052RHRWSjIrTEEzQ0lKMXVuNEtxbloraTJKanBJdEp0em5kdGtoVXZvZXcwbitYSlRQSk5IRldWbFdHS3d6aU9kRFFxRXhmTUJoZFZsaWxzeFBYVWE5cVRPRERcLzZ5VTNvRHdaNUswbmVoakN0SHZpUXNRa3dZSXlHSXNwcU8wejh2ZVhYQ2h3T3V1anl3PT0ifQ==
+https://cloud.hownetwork.xyz//yyy/b0364e42e810a2975d30ede1709ae7b2/10/480.m3u8
+https://cloud.hownetwork.xyz/xxx/b0364e42e810a2975d30ede1709ae7b2/10/480.m3u8
 
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-alarum-2025-lk21-d21.jpg",Alarum (2025)
 https://cloud.hownetwork.xyz//yyy/4dc06f0f2e56e45fe535bf013836348d/26/480.m3u8
@@ -2157,12 +2165,6 @@ https://cloud.hownetwork.xyz/xxx/4b220218a687f9976f55c6b5df80e206/2/480.m3u8
 https://cloud.hownetwork.xyz//yyy/0a18a68f2632ae522618a47a5adfb4a0/5/480.m3u8
 https://cloud.hownetwork.xyz/xxx/0a18a68f2632ae522618a47a5adfb4a0/5/480.m3u8
 
-#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/e53aa986-caa2-3445-82d5-0cd1d62d61df.jpeg", The Lord of the Rings: Return of the King: Extended Edition
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0100b49c364bb5b410e4e1fd976adb28": "dd8d9117fbf9908d9a45d80b4727bd46", "0101711990687e175fcff4a97183d640": "b00b33c58993433d0cc2d8ad210fb640", "0102d8114526be8a68ea0d37af2939aa": "f8e27427c473e7559b6dc824345d77ce", "01057d20247eda7d4e0b6dbacf891890": "a7e7791f8eed4c3e9a5d24b9781d1376", "01034da04f51117014c9de90ebf4b46d": "aed587bfac05a95e8181ea2d48da7b9b"}
-https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDAxMjU4MzciLCJyZWZyZXNoX3Rva2VuIjoibyt6T0M1TVVZUUYxNk4rTGgzd2JDdGNyN0g3cGs1RWw3eVwvT2srUFlxXC9ydXc3OENUbmtkdGoxNloxRlN0QjBEbTBSdkd6MlR4ZmFtYmUwN1daMnpUZjJFVmJkQmtkZGwrY2FwMnZWaFRTUlNLZlNIRFNJeVN3MlVtTVRMWjI0Y0VcL3d0SnI1VlFkXC8xV2VJRE56SVwvUHFEUTBGQ1BUdnMybnZhMERSQVk3YzJ6S0JcL2s5V3daUk81S1dYRXJXNE1MSkpkT2RoVytjemRsZjYzRHhPV1wvcXJ0VmZBT2JkZWdCRDRCSFd5a0NFcGlCRGFkNnBESkw1R2prVENNUUlCYkZiamFrYjlsaHdGUVJcL1ppTXgxVE91b1p4SHdseFZ4YktUZzZIdjJzUVdOaG9MRGtxWFBtUVZHUEh2RjdwYk42MGIzb1lcL0MzUVJSSzFXalRCUkU2VmRhd0crb3FcL2Ztc1pYSUFHb2p2Nm1WTEtjRDgxWmlxV0NmUWxMa0ZzMXpTZSJ9
-
 #EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-in-the-lost-lands-2025-lk21-d21.jpg.webp", In the Lost Lands (2025)
 https://cloud.hownetwork.xyz/xxx/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
@@ -2175,14 +2177,29 @@ https://cloud.hownetwork.xyz//yyy/c7d8aee98848bab0ff32a96a702b2c68/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-g20-2025-lk21-d21.jpg.webp",G20 (2025)
+https://cloud.hownetwork.xyz/xxx/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-overlord-the-sacred-kingdom-2024-lk21-d21.jpg.webp",Overlord|The Sacred Kingdom (2024)
+https://cloud.hownetwork.xyz/xxx/8abb392aa893fd49da10d491540f8da2/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/8abb392aa893fd49da10d491540f8da2/31/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/03/film-mickey-17-2025-lk21-d21.jpg.webp",Mickey 17 (2025)
+https://cloud.hownetwork.xyz/xxx/809b13488e01e8c348f949128d837a63/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/809b13488e01e8c348f949128d837a63/31/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg.webp",Transformers One (2024)
+https://cloud.hownetwork.xyz//yyy/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
+https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/11/film-gladiator-ii-2024-lk21-d21.jpg.webp",Gladiator II (2024)
+https://cloud.hownetwork.xyz/xxx/d87ae9128d827f9714d0b97095456450/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/d87ae9128d827f9714d0b97095456450/31/480.m3u8
 
-
-
-
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp",Alien | Romulus (2024)
+https://cloud.hownetwork.xyz//yyy/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
+https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
 
 
 
