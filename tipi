@@ -9,7 +9,7 @@
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",KAUMLOWO CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",UPDTATE 16 APRIL 11:19
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",UPDTATE 19 APRIL 18:39
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Indonesia Channels",t.me/inasa212
@@ -32,7 +32,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png",SCTV (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -52,7 +52,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia Channels",RCTI (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 #EXTINF:-1  tvg-logo="http://images.indihometv.com/box/assets/logo_rcti_hd.png" tvg-id="RCTI" group-title="Indonesia Channels",RCTI (LIVE)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://liveplus.rctiplus.id/RTMP-IN.m3u8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
@@ -69,23 +70,19 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=5&type=drm&token=g9tZfKv8HA
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -240,26 +237,18 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://mui.siar.us/mui/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 
 #EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",AlQuran Kareem
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 
 #EXTINF:-1 tvg-id="88" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6HkVCbffvJBQ0Yxsdor45vsqrrchk9nsMTgMOSpuquj_jWmuhDfhZcpf&s=10" group-title="Indonesia Channels", Sunna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -292,11 +281,9 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wtvSeyi.png",DHOHO TV KEDIRI
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://i.imgur.com/xsMjz1y.png", HANACARAKA TV
-http://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
 
 #EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/qcdL7sc.png" group-title="Indonesia Channels",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
