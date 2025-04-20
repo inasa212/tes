@@ -9,7 +9,7 @@
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",KAUMLOWO CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 19 APRIL 18:39
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 20 APRIL 16:07
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="1.INDONESIA IPTV 🇮🇩",t.me/inasa212
@@ -877,7 +877,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 <============================ Sports ========================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 17 APRIL 11:33
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 20 APRIL 15:57
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
 #EXTINF:-1 tvg-name="ID:Sportstars" tvg-id="Sportstars.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/953/49953-SNAPSHOT-l.png",Sportstars
@@ -2128,7 +2128,7 @@ https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 https://cloud.hownetwork.xyz/xxx/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
 
-#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-overlord-the-sacred-kingdom-2024-lk21-d21.jpg.webp",Overlord|The Sacred Kingdom (2024)
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-overlord-the-sacred-kingdom-2024-lk21-d21.jpg.webp",Overlord: The Sacred Kingdom (2024)
 https://cloud.hownetwork.xyz/xxx/8abb392aa893fd49da10d491540f8da2/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/8abb392aa893fd49da10d491540f8da2/31/480.m3u8
 
@@ -2144,13 +2144,17 @@ https://cloud.hownetwork.xyz/xxx/8665ae13517f4c4059edc0df0c5463bd/25/480.m3u8
 https://cloud.hownetwork.xyz/xxx/d87ae9128d827f9714d0b97095456450/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/d87ae9128d827f9714d0b97095456450/31/480.m3u8
 
-#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp",Alien | Romulus (2024)
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp",Alien: Romulus (2024)
 https://cloud.hownetwork.xyz//yyy/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
 https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
 
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2021/08/film-snake-eyes-g-i-joe-origins-2021-lk21.jpg.webp",Snake Eyes (2021)
+https://cloud.hownetwork.xyz/xxx/008f5d56b4c64059e298722ec0865324/31/480.m3u8
+https://cloud.hownetwork.xyz//yyy/008f5d56b4c64059e298722ec0865324/31/480.m3u8
 
-
-
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2021/11/film-no-time-to-die-2021-d21.jpg.webp",No Time to Die (2021)
+https://cloud.hownetwork.xyz//yyy/73e2211b8069af640d0ed87e5f7d06bc/11/480.m3u8
+https://cloud.hownetwork.xyz/xxx/73e2211b8069af640d0ed87e5f7d06bc/11/480.m3u8
 
 
 
