@@ -9,11 +9,11 @@
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",KAUMLOWO CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 20 APRIL 16:07
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 21 APRIL 19:43
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="1.INDONESIA IPTV 🇮🇩",t.me/inasa212
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV45 (LOCAL ONLY)
+rtsp://CCTV45:Gangempat5@10.30.30.46:554/live/ch00_0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -2108,9 +2108,17 @@ https://cloud.hownetwork.xyz/xxx/cd6b1963321650f4b209fab8a2ad80e7/5/480.m3u8
 https://cloud.hownetwork.xyz//yyy/4b220218a687f9976f55c6b5df80e206/2/480.m3u8
 https://cloud.hownetwork.xyz/xxx/4b220218a687f9976f55c6b5df80e206/2/480.m3u8
 
+#EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg.webp",F9 Fast and Furious 9 : The Fast Saga (2021)
+https://cloud.hownetwork.xyz/xxx/6bbcb25d23cf4f6d28a9340bd5fa9e4e/5/480.m3u8
+https://cloud.hownetwork.xyz//yyy/6bbcb25d23cf4f6d28a9340bd5fa9e4e/5/480.m3u8
+
 #EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-the-fast-and-the-furious-2001.jpg.webp",The Fast and the Furious (2001) 
 https://cloud.hownetwork.xyz//yyy/0a18a68f2632ae522618a47a5adfb4a0/5/480.m3u8
 https://cloud.hownetwork.xyz/xxx/0a18a68f2632ae522618a47a5adfb4a0/5/480.m3u8
+
+#EXTINF:-1 group-title="VOD ON DEMAND" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-furious-7-2015.jpg.webp",Furious 7 (Furious Seven) (2015)
+https://cloud.hownetwork.xyz//yyy/ec08fec52cc958b3a6c5607b6deb220d/5/480.m3u8
+https://cloud.hownetwork.xyz/xxx/ec08fec52cc958b3a6c5607b6deb220d/5/480.m3u8
 
 #EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-in-the-lost-lands-2025-lk21-d21.jpg.webp", In the Lost Lands (2025)
 https://cloud.hownetwork.xyz/xxx/40c1cf0fb72e07befd93cf8194a4796f/31/480.m3u8
@@ -2155,6 +2163,17 @@ https://cloud.hownetwork.xyz//yyy/008f5d56b4c64059e298722ec0865324/31/480.m3u8
 #EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2021/11/film-no-time-to-die-2021-d21.jpg.webp",No Time to Die (2021)
 https://cloud.hownetwork.xyz//yyy/73e2211b8069af640d0ed87e5f7d06bc/11/480.m3u8
 https://cloud.hownetwork.xyz/xxx/73e2211b8069af640d0ed87e5f7d06bc/11/480.m3u8
+
+#EXTINF:0 group-title="VOD ON DEMAND" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/12/film-spectral-2016.jpg.webp",Spectral (2016)
+https://cloud.hownetwork.xyz/xxx/fac464704d45ce31af84b43ac76308a0/8/480.m3u8
+https://cloud.hownetwork.xyz//yyy/fac464704d45ce31af84b43ac76308a0/8/480.m3u8
+
+
+
+
+
+
+
 
 
 
