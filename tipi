@@ -13,7 +13,7 @@ https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV45 (LOCAL ONLY)
-rtsp://CCTV45:Gangempat5@10.30.30.46:554/live/ch00_0
+#rtsp://CCTV45:Gangempat5@10.30.30.46:554/live/ch00_0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -858,7 +858,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 <============================ Sports ========================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 20 APRIL 15:57
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 22 APRIL 10:19
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
 #EXTINF:-1 tvg-name="ID:Sportstars" tvg-id="Sportstars.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/953/49953-SNAPSHOT-l.png",Sportstars
@@ -940,6 +940,59 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=1013&type=drm&token=g9tZfKv8HA
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="SPORTS 🇮🇩",TVRI Sports
+http://210.210.155.37/uq2663/h/h238/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="SPORTS 🇮🇩",ChampionsTV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS 🇮🇩", CHAMPIONS TV 1
+http://203.77.246.14:8001/udp/239.1.2.240:5000
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="SPORTS 🇮🇩",ChampionsTV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="SPORTS 🇮🇩",ChampionsTV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS 🇮🇩", CHAMPIONS TV 2
+http://203.77.246.14:8001/udp/239.1.2.242:5000
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="SPORTS 🇮🇩", CHAMPIONS TV 3
+http://203.77.246.14:8001/udp/239.1.2.252:5000
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="SPORTS 🇮🇩",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="SPORTS 🇮🇩",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 🇮🇩",UseeSports
+http://tvkuonline.my.id:25461/riyad/riyad/419
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/n3g3fxd2gude2fo/useesports.png" group-title="SPORTS 🇮🇩",UseeSports 2
+http://tvkuonline.my.id:25461/riyad/riyad/420
 
 ===================
 
