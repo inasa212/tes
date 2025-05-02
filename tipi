@@ -864,43 +864,34 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 02 MEI 23:58
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTS 🇮🇩",Sportstars 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm2.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=112&type=drm&token=g9tZfKv8HA
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-name="ID:Sportstars 2" tvg-id="Sportstars2.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm2.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=113&type=drm&token=g9tZfKv8HA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-name="ID:Sportstars 3" tvg-id="Sportstars3.id" group-title="SPORTS 🇮🇩" tvg-logo="http://ottoprie.serv00.net/vision/logo/SPORTSTARS3.png",Sportstars 3 (VIS) 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm2.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm&token=g9tZfKv8HA
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="sportstar3" tvg-name="SPORTSTAR 3" tvg-name="SPORTSTAR " tvg-logo="https://api.ottotv.my.id/logo/SPORSTAR3.png" group-title="SPORTS 🇮🇩",Sportstars 3 (LIVE)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm.php
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=115&type=drm&token=g9tZfKv8HA
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -910,12 +901,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS 🇮🇩",SpoTV
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=119&type=drm&token=g9tZfKv8HA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS 🇮🇩",SpoTV 2
