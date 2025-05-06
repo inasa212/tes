@@ -813,12 +813,6 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 <======================= Music ==========================>
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
-#https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
 #EXTINF:-1 tvg-id="MTV90s" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="Music",MTV 90's
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -830,6 +824,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#EXTINF:-1 group-title="Music"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_mtvlive_ver1.png",MTV (indi)
+https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+
+#EXTINF:-1 group-title="Music"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS (indi)
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-1  tvg-id="" group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaPUwVhanhjY-QCFdybPwKaAzSc6-WP79WA&usqp=CAU",Pop Musik Indonesia
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
@@ -859,7 +859,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 <============================ Sports ========================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 02 MEI 23:58
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 06 MEI 22:46
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTS 🇮🇩",Sportstars 
@@ -884,7 +884,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm.php
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
@@ -914,29 +914,29 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS 🇮🇩",Fight Sports (V+) 
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 
-#EXTINF:-1 tvg-name="ID:V+ LIVE" tvg-id="V+LIVE.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/154/107154-SNAPSHOT-l.png",V+ LIVE (VIS) 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=1002&type=drm&token=g9tZfKv8HA
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS 🇮🇩",BEIN SPORT 1 (INDO)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-name="ID:V+ Sports" tvg-id="V+Sports.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/064/137064-SNAPSHOT-l.png",V+ Sports (VIS) 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=1011&type=drm&token=g9tZfKv8HA
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS 🇮🇩",BEIN SPORT 2 (INDO)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-name="ID:V+ LIVE 3" tvg-id="V+LIVE3.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/532/133532-SNAPSHOT-l.png",V+ LIVE 3 (VIS) 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=1012&type=drm&token=g9tZfKv8HA
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
-
-#EXTINF:-1 tvg-name="ID:V+ LIVE 4" tvg-id="V+LIVE4.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/533/133533-SNAPSHOT-l.png",V+ LIVE 4 (VIS) 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=1013&type=drm&token=g9tZfKv8HA
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122" group-title="SPORTS 🇮🇩",BEIN SPORT 3 (INDO)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="SPORTS 🇮🇩",TVRI Sports
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
@@ -1158,58 +1158,6 @@ https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport2/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
 https://sw-prod.ada.edu.au/https://linear-a.akamai.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
-
--------BEINSPORS------
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="BEIN SPORT",IPTV KAUMLOWO UPDATE 26 APRIL 08:57
-https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="BEIN SPORT",BEIN SPORT 1 (INDO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN SPORT",BEIN SPORT 2 (INDO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_170_122" group-title="BEIN SPORT",BEIN SPORT 3 (INDO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Apple.png" group-title="BEIN SPORT",bein sports 5 (vision+)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://canvas-lb.tubitv.com/opts/cs3V1ba7IyKvwQ==/9c76af2d-3dba-4956-b98a-87491a9e91f3/CNIHEMAEOgUxLjEuNg==" group-title="BEIN SPORT",beIN Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-
-#EXTINF:-1 tvg-name="Bein Sports MY" tvg-id="" group-title="BEIN SPORT" tvg-logo="http://linear-poster.astro.com.my/prod/poster/beINSPORTS_2022_IVP_LAND_288x162.jpg",Bein Sports MY (AST)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2kqsC4o.jpg" tvg-id="kosong" tvg-name="beIN Sports MENA Premium 2" group-title="BEIN SPORT",beIN Sports MENA Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="BEIN SPORT",beIN Sports 2 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://xextreamplay.xyz", "Referer": "https://xextreamplay.xyz/"}
-https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
 
 --------------LIVE 24--------------
 
