@@ -1066,11 +1066,6 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 
 ------------EPL--------------
 
-#EXTINF:-1 group-title="Liga Inggris - EPL" tvg-logo="https://neo.toda.my.id/logo/event.png",Premier League
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_1/index.m3u8?googlekey=f5739b59a827247f5d046020c82ee7d81a8f551f50a87bd9081650a3d6240aa7&keyhash=f5739b59a827247f5d046020c82ee7d81a8f551f50a87bd9081650a3d6240aa7&ref=https://beesport.net/
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?googlekey=f5739b59a827247f5d046020c82ee7d81a8f551f50a87bd9081650a3d6240aa7&keyhash=f5739b59a827247f5d046020c82ee7d81a8f551f50a87bd9081650a3d6240aa7&ref=https%3A%2F%2Fbeesport.net%2F
-
 #EXTINF:-1  tvg-logo="https://api.ottotv.my.id/logo/epl_logo.png" group-title="Liga Inggris - EPL", 00.00 Jadwal EPL Peacock TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1201,11 +1196,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
 #EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
@@ -1213,20 +1203,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
 #EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-10
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d0170d70-8952-11ef-8353-f70668e6a0ea&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81c0c5ee-095f-4c79-94e3-b24647048b62&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-10
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/4193wOv" group-title="SPORTS | 3",24-11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1268,9 +1246,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-#EXTINF:-1 group-title="SPORTS | 3" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Apple.png",24-17
-https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
 
 #EXTINF:-1 group-title="SPORTS | 3" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1 
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
@@ -1713,30 +1688,6 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 6
-#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 7
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_01/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 8
-#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 9
-#KODIPROP:inputstream.adaptive.license_key=bcf11c369f95ebb81da7a311ef619021:b17546666fe86fc2647f3a7d50445d12
-https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow01/index.mpd?hdntl=exp=1744424396~acl=%2F*~id=AST_FvM7h61PNly4Ks99aFmSBytz3kgE~data=hdntl~hmac=061d3ea18ae343fd088aa32db043c03298f9268fcaf73335c5cc135d08b8dca7
 
 #EXTINF:-1 tvg-name="Liga UCL 1" tvg-id="" group-title="Liga Champions UEFA (UCL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s",Liga UCL 1 (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
