@@ -283,7 +283,7 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 
 <======================== Premium Movies ==========================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Premium Movies",UPDTATE 06 MEI
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Premium Movies",UPDTATE 08 MEI
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -343,6 +343,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="ID:Cinemax" tvg-id="Cinemax.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax (TRV-A10) 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Premium Movies",Originals (V+)
+http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -423,7 +426,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi_action.png" group-title="Premium Movies",Cinemachi Action HD
-#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="Premium Movies",Cineedge (V+)
+http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Premium Movies",Uniques (V+)
+http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Premium Movies",Superrix (V+)
+http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -516,7 +527,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 group-title="PREMIUM IPTV 🇮🇩" tvg-id="flik.id" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",Flik
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -810,6 +821,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w669828819_qRF
 
 #EXTINF:-1, tvg-id="IndiKids" tvg-name="IndiKids" group-title="KIDS 👶" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="KIDS 👶",Buddy Star (V+)
+http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
 <======================= Music ==========================>
 
@@ -2081,6 +2095,12 @@ https://pixeldrain.com/api/file/g6o2uQvK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/gO33EBU7JHd6xBjT62XMt61KoqX-60x90.jpg",Last Bullet (2025 action crime thriller)
 https://pixeldrain.com/api/file/CJxvSzaq
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",The Gardener (2025 action comedy)
+https://cloud.hownetwork.xyz/xxx/46e08a992733136f93acc49dfc111897/25/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Gardener.2025.mp4/tracks-v1a1/mono.m3u8
+https://cdn.turboviplay.cc/data1/67a869341f5b1/67a869341f5b1720.m3u8
 
 ============
 
