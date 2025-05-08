@@ -1930,7 +1930,7 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
 https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 
-==========
+==========VOD=========
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",Thunderbolts* (HDCAM 2025 action marvel)
@@ -1944,6 +1944,11 @@ https://www.googleapis.com/drive/v3/files/1_L53bhH809vI23CsN4t3lujAsjOk_3C3?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2025/05/dS2S5lpfgRIRQOb7LDCjNsQqKjp-146x218.jpg",Drop (2025 drama mystery thriller) Review AlbumFilm yt
 https://seneng.org/v/driveid-199491-webrip-1080-terbit21-com-drop-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2025/04/hHPovtU4b96LHcoeEwRkGHI5btw-60x90.jpg",Black Bag (2025 drama mistery thriller)
+https://q7k6ad0empwu.cdn-centaurus.com/hls2/01/09657/2z2l1inhx4hf_,l,n,h,.urlset/master.m3u8?t=KgNHEJu9c-N35oOoY54VxcEg6ADKn9Ft83MxwPL9DP4&s=1746711961&e=129600&f=48288167&srv=rup99sdwt652&i=0.4&sp=500&p1=rup99sdwt652&p2=rup99sdwt652&asn=7713
+https://q7k6ad0empwu.cdn-centaurus.com/hls2/01/09657/2z2l1inhx4hf_,l,n,h,.urlset/index-f1-a1.m3u8?t=KgNHEJu9c-N35oOoY54VxcEg6ADKn9Ft83MxwPL9DP4&s=1746711961&e=129600&f=48288167&srv=rup99sdwt652&i=0.4&sp=500&p1=rup99sdwt652&p2=rup99sdwt652&asn=7713
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2025/04/5Oz39iyRuztiA8XqCNVDBuy2Ut3-150x225.jpg",Ash (2025 horror scifi thriller)
@@ -2054,7 +2059,8 @@ https://gdriveplayer.to/hlsnew2.php?type=360&id=Q0R2U0dGRHhWZWRJZDBsQlZWWUxBUEpP
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2025/03/jRdxyW5ZmhD3ycStlb7gwOewTuE-150x225.jpg",The Electric State (2025 action advanture comedy)
-https://seneng.org/v/driveid-198296-webrip-1080-terbit21-com-the-electric-state-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://flashbang.sh/dl/aRReUIzSqXDbkQ2_oxYJ9vojrUv-uXIwqitBH_KqqxTVGJJItvXTel2UJdVWlMFHAdcGCF-7OqKn8HFqFivPr3CYNE8zIwiAOO3mW45GVE7pcljHnfbjjgHXTA_6HvC9Rq2_fAsUD17rL1V1_S2VxLpVgvABFkvl?v=1746710923-BTnqTNx4CBpwS0o1HPRPFPXt8UF%2Fw6H4mAYiif1bP5o%3D
+https://seneng.org/v/driveid-198296-webrip-1080-terbit21-com-the-electric-state-2025.m3u8
 https://gdriveplayer.to/hlsplaylist.php?idhls=bHhVeFhyc1pzNXBtRTVWWnBicWpoT0xzeEEybUJIZ0JreXhlZjFROFZSeFduVVBwZ2d4c3hFWW5pNkdBY010RQ==.m3u8
 https://gdriveplayer.to/hlsnew2.php?type=360&id=bHhVeFhyc1pzNXBtRTVWWnBicWpoT0xzeEEybUJIZ0JreXhlZjFROFZSeFduVVBwZ2d4c3hFWW5pNkdBY010RQ==.m3u8&name=file.m3u8
 
@@ -2070,11 +2076,10 @@ https://cdn1.turboviplay.com/data1/67fb99a6791a7/67fb99a6791a7720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/oLxWocqheC8XbXbxqJ3x422j9PW-60x90.jpg",Snow White (2025 CAM family fantasy gagal)
 https://pixeldrain.com/api/file/g6o2uQvK
-https://cdn.turboviplay.com/data/681a8211366b5/681a8211366b5.m3u8
+https://pixeldrain.com/api/file/g6o2uQvK
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/gO33EBU7JHd6xBjT62XMt61KoqX-60x90.jpg",Last Bullet (2025 action crime thriller)
-https://cdn2.turboviplay.com/data/681b5ed749ccd/681b5ed749ccd.m3u8
 https://pixeldrain.com/api/file/CJxvSzaq
 
 ============
