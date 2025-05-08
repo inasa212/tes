@@ -2466,10 +2466,36 @@ https://flashbang.sh/dl/6VGi3cnnL-FGtUJH5ZjDIvIMnWQ3iR7q4s0jQ1gmf21vqB3oViuV-t4r
 
 ===============TES==============
 
-#EXTINF:-1 group-title="BeeSport Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
-#KODIPROP:inputstream.adaptive.stream_headers=initiator=https://p.m82xg4z0cdbz7.com&authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Reqable/2.4.0
-https://neo.toda.my.id/beesport/stream.php?id=TNT_Sports_1&token=8a4611ce3962c8e5000a47e5c54b6f8966fa6f0ead57a35b423f31741d69b6f7
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_1/index.m3u8?googlekey=4953524c18ca38a5d40e6c69f62f8bda2205bc0ff7d2f5fd93063c23f919dbfe&keyhash=4953524c18ca38a5d40e6c69f62f8bda2205bc0ff7d2f5fd93063c23f919dbfe&ref=https://beesport.net/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (TES)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 6
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1746755393~acl=%2f*~id=39466874~data=hdntl,fp%3d1~hmac=b2b7aee434d2e65df53d0f3dc7d36b5c14c8583f07f999a6da6a9caeeed033e3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (TES)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 7
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_01/index.mpd?hdntl=exp=1746755393~acl=%2f*~id=39466874~data=hdntl,fp%3d1~hmac=b2b7aee434d2e65df53d0f3dc7d36b5c14c8583f07f999a6da6a9caeeed033e3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (TES)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 8
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+https://apac-live.akamaized.net/ehyrzisobs/indo_bein_sports_03/index.mpd?hdntl=exp=1746755393~acl=%2f*~id=39466874~data=hdntl,fp%3d1~hmac=b2b7aee434d2e65df53d0f3dc7d36b5c14c8583f07f999a6da6a9caeeed033e3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Liga Champions UEFA (TES)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s", LIVE 9
+#KODIPROP:inputstream.adaptive.license_key=bcf11c369f95ebb81da7a311ef619021:b17546666fe86fc2647f3a7d50445d12
+https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow01/index.mpd?hdntl=exp=1746755393~acl=%2f*~id=39466874~data=hdntl,fp%3d1~hmac=b2b7aee434d2e65df53d0f3dc7d36b5c14c8583f07f999a6da6a9caeeed033e3
+
+
+
+
+
+
+
 
 
 
