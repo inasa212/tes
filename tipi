@@ -1240,7 +1240,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
-#EXTINF:-1 group-title="SSky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY SPORTS MAIN EVENT
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY SPORTS MAIN EVENT
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 
 ------------EPL--------------
@@ -2313,9 +2313,6 @@ https://seneng.org/v/driveid-197664-webrip-1080-terbit21-com-11-rebels-2024.m3u8
 https://pixeldrain.com/api/file/dyZVuRJ3
 https://pixeldrain.com/api/file/dyZVuRJ3
 
-
-
-
 ==============QURAN==============
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="Quran ALKARIM ☪️",---Amazing short Recitations---
@@ -2439,9 +2436,6 @@ https://pixeldrain.com/api/file/G6vJA6aH
 #EXTINF:-1 type="" group-title="VOD 🇮🇩" tvg-logo="http://146.19.173.142/wp-content/uploads/2024/10/mfZmaNJonng2yv6ZynxI1ZEhYtW-60x90.jpg",Temurun (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://pixeldrain.com/api/file/TN9DGKyo
-
-
-
 
 =============================VOD ASIA=======================
 
@@ -2691,21 +2685,60 @@ https://vip.ottotv.my.id/play.php?ch=eyJ1c2VyX3Rva2VuIjoiMDYzNzkxODIiLCJyZWZyZXN
 
 =============SKY CINEMA===========
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PcivzC2.jpg" tvg-id="kosong" tvg-name="SKY CINEMA" group-title="Movies",Sky Cinema Premiere UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcivzC2.jpg" tvg-id="kosong" tvg-name="SKY CINEMA" group-title="SKY CINEMA",Sky Cinema Premiere UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
 https://alfa.lala.biz.id/dedi/671/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ud0nOVD.jpg" tvg-id="kosong" tvg-name="Sky Cinema Select UK" group-title="SKY CINEMA",Sky Cinema Select UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/672/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZryrdM.jpg" tvg-id="kosong" tvg-name="Sky Cinema Hits UK" group-title="SKY CINEMA",Sky Cinema Hits UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/673/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Greats UK" group-title="SKY CINEMA",Sky Cinema Greats UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/674/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Animation UK" group-title="SKY CINEMA",Sky Cinema Animation UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/675/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Family UK" group-title="SKY CINEMA",Sky Cinema Family UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/676/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Action UK" group-title="SKY CINEMA",Sky Cinema Action UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/677/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Thriller UK" group-title="SKY CINEMA",Sky Cinema Thriller UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/679/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27mwbwF.jpg" tvg-id="kosong" tvg-name="The Hallmark" group-title="SKY CINEMA",The Hallmark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/678/058062195373512684980442
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Sci-Fi Horror UK" group-title="SKY CINEMA",Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/681/058062195373512684980442
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9hJ8dO.jpg" tvg-id="kosong" tvg-name="Sky Cinema Collection Italy" group-title="Movies",Sky Cinema Collection Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/859/058062195373512684980442
 
 
 
