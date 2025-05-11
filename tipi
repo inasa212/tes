@@ -2597,43 +2597,6 @@ https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow01/index.mpd?hdntl=e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://local.myteve.my.id/vid/play.php?id=17624&type=drm
-https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDcwMzY4NTIiLCJyZWZyZXNoX3Rva2VuIjoiZWRcL3JLdytsaUx6a1NjdkoxRkVrZnByeGhmdmxqK1lEZWhMc2lwQU9HWFJrbE9CNnJyR1lER0xIREVZN1NybmJWSHFQemI4U2s3Mjk3QjFzZTRLYzFneUxHMGlJTnZLdlpcL21SRkl6VFhNZXRIZkNIaEFYY1ZCbkorQnU0eGlMcTloQnlLcERFN3RpSWlTTVg5RG9ZR3JnMjljYzd0Z09SOEUyVmxFT00wYXkwXC9vcGlqRFp2SlZKTmNRb203ZVBHRW0rQ1JIOG9mVTJcL3A3THdlbXRUWFlnWTdaV1hSeUIwaTRcL2VSWVNlTDRMRXhQTkllUHJVM05pNTN1YllwaEJOVUtQQnoxc0YwZzFaeGRLKzduamxUZmJpNWNmQW9tb1FrNzUyYk1PTzFPQUMrSWsxTWdsXC90dit3RFR1b2lZSVQwYjY1eUFQUTZQSmxQZ2MwUDlUVUp0UDJ4K2x0Rm8xZGsxcVNxN1UxcTF3PSJ9
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",9 May 2.00 AM Chelsea vs Djurgardens IF | UEFA Europa Conference League
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_3/index.m3u8?googlekey=f44921dfbe1744fe5bd484a367164f386628db76ce54d62d6290a2b28faf7f2f&keyhash=f44921dfbe1744fe5bd484a367164f386628db76ce54d62d6290a2b28faf7f2f&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",10 May 1.45 AM AC Milan vs Bologna | Serie A
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com//index.m3u8?googlekey=f7dd49e3c56951f81777c7fc7f9af6beb90204c3d69a4de0918be1de23e32cae&keyhash=f7dd49e3c56951f81777c7fc7f9af6beb90204c3d69a4de0918be1de23e32cae&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",10 May 9.00 PM Southampton vs Manchester City | Premier League
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com//index.m3u8?googlekey=3e2229c41f8dabf9f342c684c7c1c2a2914c364461eebb8d9be078f1315deae7&keyhash=3e2229c41f8dabf9f342c684c7c1c2a2914c364461eebb8d9be078f1315deae7&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",10 May 11.00 PM Lazio vs Juventus | Serie A
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com//index.m3u8?googlekey=3c503e443f7f9affc3961a0380908ad9d876e3426348c03cd6f1553f851cc0f7&keyhash=3c503e443f7f9affc3961a0380908ad9d876e3426348c03cd6f1553f851cc0f7&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",10 May 11.30 PM Bayern Munich vs Borussia Monchengladbach | Bundesliga
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=f23099ab7450f928948c678c64d15a9bc55439fedca2f9f10ecec93d2618f357&keyhash=f23099ab7450f928948c678c64d15a9bc55439fedca2f9f10ecec93d2618f357&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",11 May 2.00 AM Montpellier vs Paris Saint Germain | Ligue 1
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=d10727a778cc8482f7371f0e3d1c0eee37a2927edd9641bc89f9b32c8725bf5c&keyhash=d10727a778cc8482f7371f0e3d1c0eee37a2927edd9641bc89f9b32c8725bf5c&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",11 May 2.00 AM Atletico Madrid vs Real Sociedad | La Liga
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=7c6f3d785dfada01ade1d5c894ac035b0f17bf7f13f6a4c55beda5ca7a489220&keyhash=7c6f3d785dfada01ade1d5c894ac035b0f17bf7f13f6a4c55beda5ca7a489220&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",11 May 6.00 PM Newcastle vs Chelsea | Premier League
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=e6d801908394ee1b2b4995ff847073ac7975dd65fe0c7b200ebbc542e4601521&keyhash=e6d801908394ee1b2b4995ff847073ac7975dd65fe0c7b200ebbc542e4601521&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",11 May 8.15 PM Manchester United vs West Ham | Premier League
-#KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=be4dcad59f63988871fd5c5c7c2b62f4ccdc0cfc745940fe956f0b1b4c132d92&keyhash=be4dcad59f63988871fd5c5c7c2b62f4ccdc0cfc745940fe956f0b1b4c132d92&ref=https://beesport.net/
 
 #EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",11 May 8.15 PM Tottenham vs Crystal Palace | Premier League
 #KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
