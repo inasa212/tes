@@ -1796,9 +1796,13 @@ https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 ==========VOD=========
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",Thunderbolts* (HDCAM 2025 action marvel)
-https://enzhr6cj500t.acek-cdn.com/hls2/01/04743/gjpv3t074r6h_n/master.m3u8?t=PRhi_LfHd_cQfITW78JbW0vIC8_OinI5mLH2ithXs7I&s=1746231975&e=129600&f=23716900&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
-https://enzhr6cj500t.acek-cdn.com/hls2/01/04743/gjpv3t074r6h_n/index-v1-a1.m3u8?t=PRhi_LfHd_cQfITW78JbW0vIC8_OinI5mLH2ithXs7I&s=1746231975&e=129600&f=23716900&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
+#EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",Thunderbolts* (2025 action marvel)
+https://ye0r0rrinu.cdn-centaurus.com/hls2/01/10289/wcni2yg99w4r_n/index-v1-a1.m3u8?t=z-x9hJHyj7k48V9CgANg06fDtqnqoEkPE7F_TmoTlLU&s=1746981489&e=129600&f=51447830&srv=lv859igrmeby&i=0.4&sp=500&p1=lv859igrmeby&p2=lv859igrmeby&asn=7713
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",Thunderbolts* (2025 action marvel).
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://acefile.co/
+https://www.googleapis.com/drive/v3/files/1n2uWjrQ4kYgGlnyaYdTNr48J-9ZJiLnd?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/kMDUS7VmFhb2coRfVBoGLR8ADBt-60x90.jpg",The Accountant² (2025 action)
