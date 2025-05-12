@@ -914,6 +914,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 
+
+
+
+
+
 <============================ Sports ========================>
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 10 MEI 
@@ -1242,6 +1247,15 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SKY SPORTS MAIN EVENT
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
 
 ==============CCTVKOTA BATU==================
 
@@ -1626,7 +1640,7 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m
 
 --------------ASTRO--------------
 
-#EXTINF:-1 tvg-name="ARENA 1 HD" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000363_IVP_LAND_288x162.jpg",ARENA 1 HD (AST)
+#EXTINF:-1 tvg-name="ARENA 1 HD" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000363_IVP_LAND_288x162.jpg",ARENA 1 HD (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1634,7 +1648,7 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-name="ARENA 2 HD" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroArena2_IVP_LAND_288x162.jpg",ARENA 2 HD (AST)
+#EXTINF:-1 tvg-name="ARENA 2 HD" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroArena2_IVP_LAND_288x162.jpg",ARENA 2 HD (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1642,7 +1656,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dash
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-name="SPOTV2 " tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg",SPOTV2  (AST)
+#EXTINF:-1 tvg-name="SPOTV2 " tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg",SPOTV2  (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1650,7 +1664,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dash
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_288x162.jpg",Astro Football (AST)
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_288x162.jpg",Astro Football (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1658,7 +1672,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2506/default_ott.mpd
 
-#EXTINF:-1 tvg-name="W-Sport" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/W-Sport_V1_IVP_LAND_288x162.jpg",W-Sport (AST)
+#EXTINF:-1 tvg-name="W-Sport" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/W-Sport_V1_IVP_LAND_288x162.jpg",W-Sport (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1666,7 +1680,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dash
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
-#EXTINF:-1 tvg-name="SPOTV" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg",SPOTV (AST)
+#EXTINF:-1 tvg-name="SPOTV" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg",SPOTV (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1674,7 +1688,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
-#EXTINF:-1 tvg-name="EUROSPORT HD" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_288x162.jpg",EUROSPORT HD (AST)
+#EXTINF:-1 tvg-name="EUROSPORT HD" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_288x162.jpg",EUROSPORT HD (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1682,7 +1696,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#EXTINF:-1 tvg-name="ARENA BOLA 1" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroArenaBola_IVP_LAND_288x162.jpg",ARENA BOLA 1 (AST)
+#EXTINF:-1 tvg-name="ARENA BOLA 1" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroArenaBola_IVP_LAND_288x162.jpg",ARENA BOLA 1 (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1690,7 +1704,7 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/line
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-name="ASTRO UHD" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroSuperSportEURO_IVP_LAND_288x162.jpg",ASTRO UHD (AST)
+#EXTINF:-1 tvg-name="ASTRO UHD" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroSuperSportEURO_IVP_LAND_288x162.jpg",ASTRO UHD (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
@@ -1698,58 +1712,100 @@ http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/dash
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 http://194.233.76.136:5000/https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_288x162.jpg",Astro Grandstand (AST)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; DV8110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c73dd1AstroGrandstand_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Grandstand" group-title="Sports Premium",Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/123/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9f7c88AstroPremierLeague_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League" group-title="Astro Sports",Astro Premier League
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9f7c88AstroPremierLeague_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League" group-title="Sports Premium",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ef8895AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League 2" group-title="Astro Sports",Astro Premier League 2
+#EXTINF:-1 tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ef8895AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg" tvg-id="kosong" tvg-name="Astro Premier League 2" group-title="Sports Premium",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
 https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png" tvg-id="kosong" tvg-name="Arena Sport 1 Premium" group-title="Astro Sports",Arena Sport 1 Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 1 Premium" group-title="Sports Premium",Arena Sport 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/134/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png" tvg-id="kosong" tvg-name="Arena Sport 2 Premium" group-title="Astro Sports",Arena Sport 2 Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 3 Premium" group-title="Sports Premium",Arena Sport 3 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/139/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png" tvg-id="kosong" tvg-name="Arena Sport 3 Premium" group-title="Astro Sports",Arena Sport 3 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Astro Sports",Arena Sport 1 Croatia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Astro Sports",Arena Sport 1 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 2 Croatia" group-title="Astro Sports",Arena Sport 2 Croatia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 2 Serbia" group-title="Sports Premium",Arena Sport 2 Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/430/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nnqoda1643205755.png" tvg-id="kosong" tvg-name="Arena Sport 3 Croatia" group-title="Astro Sports",Arena Sport 3 Croatia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 4 Serbia" group-title="Sports Premium",Arena Sport 4 Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/581/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6oo0y71643205763.png" tvg-id="kosong" tvg-name="Arena Sport 4 Croatia" group-title="Astro Sports",Arena Sport 4 Croatia
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Sports Premium",Arena Sport 1 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/432/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" tvg-id="kosong" tvg-name="Arena Sport 2 Croatia" group-title="Sports Premium",Arena Sport 2 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/433/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 3 Croatia" group-title="Sports Premium",Arena Sport 3 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/434/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GkFk36G.jpg" tvg-id="kosong" tvg-name="Alkass One" group-title="Sports Premium",Alkass One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/781/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TAQHokX.jpg" tvg-id="kosong" tvg-name="Abu Dhabi Sports 1 UAE" group-title="Sports Premium",Abu Dhabi Sports 1 UAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/600/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWrwkZ9.jpg" tvg-id="kosong" tvg-name="Abu Dhabi Sports 2 UAE" group-title="Sports Premium",Abu Dhabi Sports 2 UAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/601/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TAQHokX.jpg" tvg-id="kosong" tvg-name="Abu Dhabi Sports 1 Premium" group-title="Sports Premium",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/609/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlhRfQm.jpg" tvg-id="kosong" tvg-name="TNT 1 UK" group-title="Sports Premium",TNT 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/31/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ZhD9Hb.jpg" tvg-id="kosong" tvg-name="TNT 2 UK" group-title="Sports Premium",TNT 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/32/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJA1oDT.jpg" tvg-id="kosong" tvg-name="TNT 3 UK" group-title="Sports Premium",TNT 3 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/33/058062195373512684980442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrPxncJ.jpg" tvg-id="kosong" tvg-name="TNT 4 UK" group-title="Sports Premium",TNT 4 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/34/058062195373512684980442
 
 =============DAZN SPORTS==========
 
@@ -1793,6 +1849,18 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTHTTP:{"Origin": "https://xtreaweb.top", "Referer": "https://xtreaweb.top/"}
 https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 
+===============BEINSPORTS------------
+
+
+
+
+
+
+
+
+
+
+
 ==========VOD=========
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -1811,6 +1879,10 @@ https://www.googleapis.com/drive/v3/files/1_L53bhH809vI23CsN4t3lujAsjOk_3C3?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2025/05/dS2S5lpfgRIRQOb7LDCjNsQqKjp-146x218.jpg",Drop (2025 drama mystery thriller) Review AlbumFilm yt
 https://seneng.org/v/driveid-199491-webrip-1080-terbit21-com-drop-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/04/qWTfHG8KdXwr0bqypYbNZLenh0J-60x90.jpg",Exterritorial (2025 action thriller)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+https://cdn3.turboviplay.com/data/681232ed50eaf/681232ed50eaf.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2025/04/hHPovtU4b96LHcoeEwRkGHI5btw-60x90.jpg",Black Bag (2025 drama mistery thriller)
@@ -2314,6 +2386,10 @@ https://flashbang.sh/dl/6VGi3cnnL-FGtUJH5ZjDIvIMnWQ3iR7q4s0jQ1gmf21vqB3oViuV-t4r
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
 #EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/02/film-bodyguard-3-2025-lk21-d21.jpg",Bodyguard 3 (2025)
 https://cdn.turboviplay.cc/data1/67a8334b90dcd/67a8334b90dcd.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/04/qkTKtOHK9JEEOHgPQZ0dFtzs5ML-60x90.jpg",Bullet Train Explosion (2025 Action Crime Drama Thriller)
+https://cdn3.turboviplay.com/data/68093df779082/68093df779082.m3u8
 
 ============LIVE KAUMLOWO=============
 
