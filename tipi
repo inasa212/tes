@@ -2501,6 +2501,31 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
 https://alfa.lala.biz.id/dedi/558/058062195373512684980442
 
+#EXTINF:-1 tvg-name="SG: Hub Premier 3" tvg-id="HubPremier3.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
+
+#EXTINF:-1 tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 1
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" group-title="Live | KaumLowo" tvg-logo="http://images.indihometv.com/box/logo_indosiar_ver3.png",Indosiar (LIVE ONLY)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.10.1-WITH_ADS
+http://103.165.207.118:9088/play/a01e/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://images.indihometv.com/box/assets/logo_rcti_hd.png" tvg-id="RCTI" group-title="Live | KaumLowo",RCTI (LIVE ONLY)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://liveplus.rctiplus.id/RTMP-IN.m3u8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kqsC4o.jpg" tvg-id="kosong" tvg-name="beIN Sports MENA Premium 1" group-title="Live | KaumLowo",beIN Sports MENA Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
+https://alfa.lala.biz.id/dedi/98/058062195373512684980442
+
 #EXTINF:-1 group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",13 May 1.00 AM Al Akhdoud vs Al-Nassr | Pro League
 #KODIPROP:inputstream.adaptive.stream_headers=authority=vipgoodlive-tvs.starcdn.live&origin=https://p.m82xg4z0cdbz7.com&referer=https://p.m82xg4z0cdbz7.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/index.m3u8?googlekey=1c12a10f216ec46acaf9f716e8c7e27171b4703339fc04a6bdeada3d9b699dcd&keyhash=1c12a10f216ec46acaf9f716e8c7e27171b4703339fc04a6bdeada3d9b699dcd&ref=https://beesport.net/
@@ -2573,6 +2598,107 @@ https://alfa.lala.biz.id/dedi/681/058062195373512684980442
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
 https://alfa.lala.biz.id/dedi/859/058062195373512684980442
+
+======================HBO=============
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/012694X0-portrait.jpg",2 Fast 2 Furious 2003
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nG+pS4gXunI5cVia5BXTWA","kid":"bYo4XRGFVx2OSXOIk5Fz3w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fab803ae366782ad9a688_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/014216X0-portrait.jpg",Abduction 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KSTIutuJRrl2oN4eYvTJJg","kid":"y3pJMRrFot+C5yD7rlgtWQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d1c016d940521074c4beb4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/037588X0-portrait.jpg",Ambulance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TC/o6CnUGL/X1N7Su8TXpQ","kid":"omMT5D8rNuZBEb1fIPgqiw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/018593X0-portrait.jpg",Annabelle 2014
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PNX1mVDwOddkKCXJ3+iySw","kid":"Lip4EndCX6aVxYSEet/93Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7736963ae366782ad8d419_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/021340X0-portrait.jpg",Annabelle: Creation 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o/KxnDxumhFgbb1aqAavrg","kid":"mOLGZX+lUn6kJgNn+p7Ttg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kfEKwVuRoef9XiJpD0BQhg","kid":"U08nIum5WcO1RinbbU/b2Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/012964X0-portrait.jpg",Bangkok Dangerous 2008
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b5RQk/SuMVEApatnqi6DAw","kid":"npLn5NYfWpKM1E4fUGcXBA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc882c96d048943f76bd6c7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 2016
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"znj/+HN9BnnHnRlOeQkRBQ","kid":"ANSeEXliWZGMNEBQ/gB6+Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/039484X0-portrait.jpg",Beast 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+xNnLG8o5SmjSSarMdclA","kid":"ORSCBbgwfbQjRSC3yFkz2A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/039381X0-portrait.jpg",Black Adam 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1SWGnREdcNbqooa6iyu4uQ","kid":"bS19bRS/UR/bW5KCVSByfw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c0170e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/023982X0-portrait.jpg",Doa: Dead Or Alive 2007
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ammn6GcJHV5yAFUPySMUHw","kid":"I2uSrNt7USSYWCUq3iGuuw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f86fb4f6d048943f765cd1d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://hbogoprod-vod.akamaized.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6ZQIeLQaO+CUB7+GER/DwQ","kid":"ySVsIxm+4RVesasF3bKEjA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+
+
+
+
+
+
+
 
 
 
