@@ -1737,7 +1737,7 @@ https://alfa.lala.biz.id/dedi/134/058062195373512684980442
 #EXTHTTP:{"Origin": "https://caq21harderv991gpluralplay.xyz", "Referer": "https://caq21harderv991gpluralplay.xyz/"}
 https://alfa.lala.biz.id/dedi/139/058062195373512684980442
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Astro Sports",Arena Sport 1 Croatia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" tvg-id="kosong" tvg-name="Arena Sport 1 Croatia" group-title="Sports Premium",Arena Sport 1 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://kisskissplay.cfd", "Referer": "https://kisskissplay.cfd/"}
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
@@ -1864,6 +1864,11 @@ https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 ==========VOD=========
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/ctZ9bjmCYyfFt3cUepc9axr0zHs-60x90.jpg",Wick Is Pain (2025 documentary)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://pixeldrain.com/u/eoNBG52p?embed
+https://pixeldrain.com/api/file/eoNBG52p
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Thunderbolts%2A_poster.jpg",Thunderbolts* (2025 action marvel)
 https://ye0r0rrinu.cdn-centaurus.com/hls2/01/10289/wcni2yg99w4r_n/index-v1-a1.m3u8?t=z-x9hJHyj7k48V9CgANg06fDtqnqoEkPE7F_TmoTlLU&s=1746981489&e=129600&f=51447830&srv=lv859igrmeby&i=0.4&sp=500&p1=lv859igrmeby&p2=lv859igrmeby&asn=7713
 
@@ -1888,6 +1893,11 @@ https://cdn3.turboviplay.com/data/681232ed50eaf/681232ed50eaf.m3u8
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2025/04/hHPovtU4b96LHcoeEwRkGHI5btw-60x90.jpg",Black Bag (2025 drama mistery thriller)
 https://q7k6ad0empwu.cdn-centaurus.com/hls2/01/09657/2z2l1inhx4hf_,l,n,h,.urlset/master.m3u8?t=KgNHEJu9c-N35oOoY54VxcEg6ADKn9Ft83MxwPL9DP4&s=1746711961&e=129600&f=48288167&srv=rup99sdwt652&i=0.4&sp=500&p1=rup99sdwt652&p2=rup99sdwt652&asn=7713
 https://q7k6ad0empwu.cdn-centaurus.com/hls2/01/09657/2z2l1inhx4hf_,l,n,h,.urlset/index-f1-a1.m3u8?t=KgNHEJu9c-N35oOoY54VxcEg6ADKn9Ft83MxwPL9DP4&s=1746711961&e=129600&f=48288167&srv=rup99sdwt652&i=0.4&sp=500&p1=rup99sdwt652&p2=rup99sdwt652&asn=7713
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/o5ugZxTNHFFm1gAt4eYJbFVKsBK-60x90.jpg",Queen of the Ring (2025 DRAMA)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://pixeldrain.com/u/RAF1gpue
+https://pixeldrain.com/api/file/RAF1gpue
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2025/04/5Oz39iyRuztiA8XqCNVDBuy2Ut3-150x225.jpg",Ash (2025 horror scifi thriller)
@@ -2013,12 +2023,12 @@ https://cloud.hownetwork.xyz/xxx/JQ0nPSkQGSYnIwRhcQBkbW8PLCwhFSgZHTBPKXcBZDl1/32
 https://cdn1.turboviplay.com/data1/67fb99a6791a7/67fb99a6791a7720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/oLxWocqheC8XbXbxqJ3x422j9PW-60x90.jpg",Snow White (2025 CAM family fantasy gagal)
+#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://139.59.226.78/wp-content/uploads/2025/05/oLxWocqheC8XbXbxqJ3x422j9PW-170x255.jpg",Snow White (2025 CAM family fantasy gagal)
 https://pixeldrain.com/api/file/g6o2uQvK
 https://pixeldrain.com/api/file/g6o2uQvK
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.142/wp-content/uploads/2025/05/gO33EBU7JHd6xBjT62XMt61KoqX-60x90.jpg",Last Bullet (2025 action crime thriller)
+#EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://139.59.226.78/wp-content/uploads/2025/05/qycPITRqXgPai7zj1gKffjCdSB5-152x228.jpg",Last Bullet (2025 action crime thriller)
 https://pixeldrain.com/api/file/CJxvSzaq
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -2283,6 +2293,10 @@ https://pixeldrain.com/api/file/G6vJA6aH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://pixeldrain.com/api/file/TN9DGKyo
 
+#EXTINF:-1 type="movie" group-title="VOD 🇮🇩" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2025/05/jwgtbrhucxKnnRKjLrRQoQzZZyq-60x90.jpg",Ambyar Mak Byar (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://flashbang.sh/dl/HZXKK91Nd39K6c--lTS9gwLuC4dxOoDaoQBKb8a_toW8aSIab3b1mxy13VdSviidm0WFdoEtdTFyPT9E3_-gsJC5eBEAboeEB5UL6fYnke_q6FXTrR5zHeW0iDbxOXOoL59jylnf2lLt7yBqFCd-azTD3qfF?v=1747116368-iIZesrcTpXhPciWwP5e8vR56Ae0H1OLPXH9nYeH0gwU%3D
+
 =============================VOD ASIA=======================
 
 #EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2018/06/film-ruroni-kenshin-densetsu-no-saigo-hen-2014-150x104.jpg",Rurôni Kenshin Densetsu no saigo-hen (2014)
@@ -2391,15 +2405,15 @@ https://cdn.turboviplay.cc/data1/67a8334b90dcd/67a8334b90dcd.m3u8
 #EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/04/qkTKtOHK9JEEOHgPQZ0dFtzs5ML-60x90.jpg",Bullet Train Explosion (2025 Action Crime Drama Thriller)
 https://cdn3.turboviplay.com/data/68093df779082/68093df779082.m3u8
 
-============LIVE KAUMLOWO=============
+===========================tes======================
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Live | KaumLowo",11-05-2025 - 15.30 WIB - Arema FC vs Persik Kediri - BRI Liga 1 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://local.myteve.my.id/vid/play.php?id=17624&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="hide" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/ctZ9bjmCYyfFt3cUepc9axr0zHs-60x90.jpg",Wick Is Pain (2025 documentary)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+https://cdn4.turboviplay.com/data/6813235e9118a/6813235e9118a.m3u8
+
+
+============LIVE KAUMLOWO=============
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Live | KaumLowo", 00.00 Jadwal EPL Peacock TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
