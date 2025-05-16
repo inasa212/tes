@@ -2370,6 +2370,16 @@ https://cdn.turboviplay.cc/data1/67a8334b90dcd/67a8334b90dcd.m3u8
 #EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/04/qkTKtOHK9JEEOHgPQZ0dFtzs5ML-60x90.jpg",Bullet Train Explosion (2025 Action Crime Drama Thriller)
 https://cdn3.turboviplay.com/data/68093df779082/68093df779082.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/x1xHVv5rdvvCjF5wmGhtbHrlUgo-60x90.jpg",The Match (2025 drama)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://pixeldrain.com/api/file/fRpeJ7bE
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/inZcs1MDsDaCv9P6rryrHMMWH6J-60x90.jpg",Invitation Only (2009 horror)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://cdn4.turboviplay.com/data/68167a954d0aa/68167a954d0aa.m3u8
+
 ===========================tes======================
 
 
