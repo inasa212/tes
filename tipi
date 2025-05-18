@@ -931,6 +931,7 @@ http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
 =============================================================
 =========================FMX====================================
+==============================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="FirstMedia-X", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1147,19 +1148,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 <============================ Sports ========================>
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 10 MEI 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="SPORTS 🇮🇩",IPTV KAUMLOWO UPDATE 18 MEI 
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTS 🇮🇩",Sportstars 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=112&type=drm&token=g9tZfKv8HA
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=112&type=dash&token=749038197353282920486651
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-name="ID:Sportstars 2" tvg-id="Sportstars2.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=113&type=drm&token=g9tZfKv8HA
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=113&type=dash&token=749038197353282920486651
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
@@ -1169,7 +1170,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-name="ID:Sportstars 3" tvg-id="Sportstars3.id" group-title="SPORTS 🇮🇩" tvg-logo="http://ottoprie.serv00.net/vision/logo/SPORTSTARS3.png",Sportstars 3 (VIS) 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm&token=g9tZfKv8HA
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=114&type=dash&token=749038197353282920486651
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
@@ -1184,12 +1185,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://neo.toda.my.id/vision/drm_thok_thil/drm2.php
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=115&type=drm&token=g9tZfKv8HA
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=115&type=dash&token=749038197353282920486651
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1202,7 +1203,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS 🇮🇩",SpoTV
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=119&type=drm&token=g9tZfKv8HA
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=119&type=dash&token=749038197353282920486651
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS 🇮🇩",SpoTV 2
@@ -1210,6 +1211,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS 🇮🇩",SpoTV 2 (vis)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1&referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.mpd?id=119&type=dash&token=749038197353282920486651
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS 🇮🇩",Fight Sports (V+) 
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
@@ -1312,7 +1319,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 =============================================
 ==============================================
-================sports
+================sports=====================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="SPORTS",TNT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -1489,7 +1496,7 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 
 
 
-
+=============================================
 ==============CCTVKOTA BATU==================
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Rumah Dinas Walikota Batu
@@ -1871,7 +1878,11 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Gadang Arah Selatan
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m3u8?token=null
 
+
+
+==================================
 --------------ASTRO--------------
+=================================
 
 #EXTINF:-1 tvg-name="ARENA 1 HD" tvg-id="" group-title="Sports Premium" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000363_IVP_LAND_288x162.jpg",ARENA 1 HD (AST)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2041,8 +2052,9 @@ https://alfa.lala.biz.id/dedi/33/058062195373512684980442
 https://alfa.lala.biz.id/dedi/34/058062195373512684980442
 
 
-
+=================================
 ==============QURAN==============
+=================================
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="Quran ALKARIM ☪️",---Amazing short Recitations---
 https://Qurango.net/radio/tarateel
@@ -2083,8 +2095,9 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
 
 
-
-==========VOD=========
+==========================================
+===================VOD====================
+==========================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="http://146.19.173.45/wp-content/uploads/2025/05/ctZ9bjmCYyfFt3cUepc9axr0zHs-60x90.jpg",Wick Is Pain (2025 documentary)
@@ -2319,8 +2332,8 @@ https://pixeldrain.com/api/file/q4SMNvST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="VIDEO ON DEMAND (VOD)🎞" tvg-logo="",
 
-
-==============================VOD INDO==================
+=======================================================================
+==============================VOD INDO=================================
 
 #EXTINF:-1 type="movie" group-title="VOD 🇮🇩" tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_60/https://www.ijcasonline.com/wp-content/uploads/2025/05/3QacSRFWBtyiSNxa4mB7jLcGSON-60x90.jpg",Janji Darah (2025)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://smoothpre.com/embed/rdiivgb9qeyx
@@ -2421,7 +2434,8 @@ https://flashbang.sh/dl/HZXKK91Nd39K6c--lTS9gwLuC4dxOoDaoQBKb8a_toW8aSIab3b1mxy1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://buzzheavier.com/
 https://flashbang.sh/dl/zhl8vGaV7F9h8N8a6XkhIQBmz8xCkOCpIY_t25lov4oZQok1R6E-DFNOgsS3tuq0bR9nguhWXzRk4T6vDNDPLD99KJk5_mFQzE56uq-CEI60a55n_zlyKnRbPk192U_QutPYqPw3LuHq1IicH-vOmdSGc1VGHCaY-ICMQWN3xxWM?v=1747119341-%2B3wEjbvbj0NvA3FHEtMSYdNsg4GrQLstPVTJi7qvaug%3D
 
-=============================VOD ASIA=======================
+=====================================================================
+=============================VOD ASIA================================
 
 #EXTINF:-1 type="movie" group-title="VOD ASIA" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2018/06/film-ruroni-kenshin-densetsu-no-saigo-hen-2014-150x104.jpg",Rurôni Kenshin Densetsu no saigo-hen (2014)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -2539,11 +2553,12 @@ https://pixeldrain.com/api/file/fRpeJ7bE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://cdn4.turboviplay.com/data/68167a954d0aa/68167a954d0aa.m3u8
 
-===========================tes======================
 
 
 
-============LIVE KAUMLOWO=============
+=====================================================
+==================LIVE KAUMLOWO======================
+=====================================================
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Live | KaumLowo", 00.00 Jadwal EPL Peacock TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2672,6 +2687,8 @@ https://a148aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+
+==================================
 =============SKY CINEMA===========
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcivzC2.jpg" tvg-id="kosong" tvg-name="SKY CINEMA" group-title="SKY CINEMA",Sky Cinema Premiere UK
