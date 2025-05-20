@@ -14,7 +14,9 @@ https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV45 (LOCAL ONLY)
-#rtsp://CCTV45:Gangempat5@10.30.30.46:554/live/ch00_0
+rtsp://CCTV45:Gangempat5@10.30.30.46:554/live/ch00_0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTVRT17 (LOCAL ONLY)
+rtsp://POTOK:Cctvrt17@10.10.10.183:554/live/ch00_0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
