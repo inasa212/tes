@@ -328,7 +328,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
                Premium Movies
 <==================================================>
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Premium Movies",UPDTATE 10 MEI
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Premium Movies",UPDTATE 5 JUNI
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-name="ID:HBO" tvg-id="HBO.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO (FMD) 
@@ -346,7 +346,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ID:HBO" tvg-id="HBO.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO (transcorp)
+#EXTINF:-1 tvg-name="ID:HBO" tvg-id="HBO.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO (transcorp A10+)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -358,7 +358,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ID:HBO Hits" tvg-id="HBOHits.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d054fbf67379f/20190906064255.png",HBO Hits (transcorp)
+#EXTINF:-1 tvg-name="ID:HBO Hits" tvg-id="HBOHits.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d054fbf67379f/20190906064255.png",HBO Hits (transcorp A10+)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -370,7 +370,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ID:HBO Signature" tvg-id="HBOSignature.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/20190906064620.png",HBO Signature (transcorp)
+#EXTINF:-1 tvg-name="ID:HBO Signature" tvg-id="HBOSignature.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/20190906064620.png",HBO Signature (transcorp A10+)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -382,7 +382,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ID:HBO Family" tvg-id="HBOFamily.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d055927fe37a4/20190906065312.png",HBO Family (transcorp)
+#EXTINF:-1 tvg-name="ID:HBO Family" tvg-id="HBOFamily.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d055927fe37a4/20190906065312.png",HBO Family (transcorp A10+)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -392,11 +392,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="ID:Cinemax" tvg-id="Cinemax.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax (TRV-A10) 
+#EXTINF:-1 tvg-name="ID:Cinemax" tvg-id="Cinemax.id" group-title="Premium Movies" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax (TRV-A10+) 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Premium Movies",Originals (V+)
-http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/398/273398-SNAPSHOT-l.png" tvg-id="Cinemachi.id" tvg-name="ID: Cinemachi" group-title="Premium Movies",Originals (MAC)
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -415,20 +419,31 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png" group-title="Premium Movies",Rock Action
 https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN
-https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
+#EXTINF:-1 tvg-name="ID:AXN" tvg-id="AXN.id" group-title="Premium Movies" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png",AXN (VIS)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=79&type=drm&token=670881953623094224907817
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+#EXTINF:-1 tvg-logo="https://images.ott.biz.id/logo/movies/axn.png" group-title="Premium Movies" tvg-id="",AXN HD (FMD)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 99) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
+https://atemeshield1-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:0 tvg-logo="https://i.imgur.com/wrVFgOT.png" group-title="Premium Movies",Galaxy Premium
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="http://images.indihometv.com/box/logo_galaxy_small.png?v=2.0.0.13" tvg-id="Galaxy.id" tvg-name="ID: Galaxy" group-title="Premium Movies",Galaxy (MAC)
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="http://images.indihometv.com/box/logo_galaxypremium_small.png" tvg-id="GalaxyPremium.id" tvg-name="ID: Galaxy Premium" group-title="Premium Movies",Galaxy Premium (MAC)
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -436,10 +451,22 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
+#EXTINF:-1 tvg-name="ID:Thrill" tvg-id="Thrill.id" group-title="Premium Movies" tvg-logo="http://images.indihometv.com/box/logo_thrill_small.png",Thrill (VIS)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=41&type=drm&token=670881953623094224907817
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg" group-title="Premium Movies", Thrill (DENS)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.dens.tv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=9nxxale737w&chname=Thrill
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="http://images.indihometv.com/box/logo_thrill_small.png" tvg-id="Thrill.id" tvg-name="ID: Thrill" group-title="Premium Movies",Thrill (MAC)
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://legacy-global-cdn.visionplus.id/live/eds/Thrill/sa_dash/Thrill.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -459,85 +486,42 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/990/49990-SNAPSHOT-l.png" group-title="Premium Movies",MyCinema
+#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg" group-title="Premium Movies",MyCinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi.png" group-title="Premium Movies",Cinemachi HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-name="ID:Studio Universal" tvg-id="StudioUniversal.id" group-title="Premium Movies" tvg-logo="https://www.visionplus.id/images/repository/422/345422-SNAPSHOT-l.png",Studio Universal (VIS)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=54
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png" group-title="Premium Movies" ,Studio Universal
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=54&type=drm&token=670881953623094224907817
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=36
-#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="Premium Movies",ORIGINALS
-https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=37
-#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="Premium Movies",Buddy Star 
-https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=40
-#EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="Premium Movies",Cineedge
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=38
-#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="Premium Movies",Uniquest
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=39
-#EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="Premium Movies",SUPERRIX
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="http://images.ott.biz.id/logo/movies/cinemachi_xtra.png" group-title="Premium Movies",Cinemachi Xtra HD
-#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
-#https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-#EXTINF:-1  group-title="Premium Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 99) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/404/273404-SNAPSHOT-l.png" tvg-id="CinemachiKids.id" tvg-name="ID: Cinemachi Kids" group-title="Premium Movies",Buddy Stars (MAC)
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/403/273403-SNAPSHOT-l.png" tvg-id="CinemachiAction.id" tvg-name="ID: Cinemachi Action" group-title="Premium Movies",Cineedge (MAC)
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/402/273402-SNAPSHOT-l.png" tvg-id="CinemachiMax.id" tvg-name="ID: Cinemachi Max" group-title="Premium Movies",Superrix (MAC)
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" tvg-logo="https://www.visionplus.id/images/repository/401/273401-SNAPSHOT-l.png" tvg-id="CinemachiXtra.id" tvg-name="ID: Cinemachi Xtra" group-title="Premium Movies",Uniques (MAC)
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -577,7 +561,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Premium Movies",KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://i.imgur.com/NxAuRN6.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Premium Movies",KBS WORLD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
@@ -585,10 +569,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Korean_Broadcasting_System-text_only.svg/1024px-Korean_Broadcasting_System-text_only.svg.png" group-title="Premium Movies",KBS Korea
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="Premium Movies",KBS Korea
 https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="Premium Movies"  tvg-id="cjenm.kr" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/3/36/CJ_E%26M_logo.png/",CJ E&M
+#EXTINF:-1 group-title="Premium Movies"  tvg-id="cjenm.kr" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USBB2900001P9_20210824T091331.png",CJ E&M
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
@@ -598,7 +582,7 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="451" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Premium Movies",Warner TV
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Premium Movies",Hits Now
+#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="http://linear-poster.astro.com.my/prod/poster/HITSNOW_IVP_LAND_288x162.jpg" group-title="Premium Movies",Hits Now
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
@@ -899,43 +883,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
-
-=============================================
-==============================================
-================sports=====================
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="SPORTS",TNT SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="SPORTS", BELLATOR MMA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sidekickboxing.co.uk/wp-content/uploads/2022/01/Why-Glory-is-the-best-kickboxing-promotion-1024x538-1.webp",GLORY KICKBOXING
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-name="BOXINGTV" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1xemxec25qpl917erpqn0oxtra_image-header_pRow_1715780112000" group-title="SPORTS",BOXINGTV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.wrestlezone.com/wp-content/uploads/sites/8/2021/04/impact-wrestling-2021.jpg",IMPACT! WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/TuW7G3DP35wkq5LQWAGchG-1200-80.jpg" group-title="SPORTS", FIGHT NETWORK
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="unifi" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",Unifi Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
-https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
 =================================
 =========SKY SPORTS==============
 =================================
@@ -1076,7 +1023,7 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/t
 ==================LIVE KAUMLOWO======================
 =====================================================
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Live | KaumLowo", 00.00 Jadwal EPL Peacock TV
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="Live | KaumLowo",Jadwal EPL (UPDATE 5 JUNI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
@@ -1119,12 +1066,18 @@ https://proxy.siswamedia.com/l02.dp.sooka.my/5113/linear/index.mpd
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 https://cors-now-jz4t.onrender.com/https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@aljqswdlfbk04g2evguppsafnpykcuu3avv15oda/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Live | KaumLowo",Hub Premier 1 FHD (AIRMAX VIP)
+https://a1xs.vip/1100041
+
 #EXTINF:-1 tvg-name="SG: Hub Premier 2" tvg-id="HubPremier2.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 2 UHD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
 https://cors-now-jz4t.onrender.com/https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@0ngunxsrzqw30ikazge1cmi1ovptbn1v0h32cbba/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Live | KaumLowo",Hub Premier 2 FHD (AIRMAX VIP)
+https://a1xs.vip/1100042
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 2" tvg-id="HubPremier2.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 2 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
@@ -1196,6 +1149,11 @@ https://proxy.siswamedia.com/linearjitp-playback.astro.com.my/dash-wv/linear/270
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
 https://proxy.siswamedia.com/linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
+
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+ VIP
+https://abcc.yallashooot.store:8181/bein2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 
 =============================================
 ==============CCTVKOTA BATU==================
