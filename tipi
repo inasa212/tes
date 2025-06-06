@@ -735,19 +735,27 @@ https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=112&type=drm&token=856413081279254073725603
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-name="ID:Sportstars 2" tvg-id="Sportstars2.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 (VIS)
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=113&type=drm&token=856413081279254073725603
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SPORTS 🇮🇩",Sportstars 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-name="ID:Sportstars 3" tvg-id="Sportstars3.id" group-title="SPORTS 🇮🇩" tvg-logo="http://ottoprie.serv00.net/vision/logo/SPORTSTARS3.png",Sportstars 3 (VIS)
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/picion/mult1_drm.php?id=114&type=drm&token=856413081279254073725603
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-name="ID:Soccer Channel" tvg-id="SoccerChannel.id" group-title="SPORTS 🇮🇩" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png",Soccer Channel (VIS)
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.5 (1.2403231120) Vision+ ExoPlayerLib/2.18.7&origin=https://www.visionplus.id&referrer=https://www.visionplus.id/
@@ -833,14 +841,14 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SPORTS 🇮🇩",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="SPORTS 🇮🇩",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -848,21 +856,21 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SPORTS 🇮🇩",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS 🇮🇩",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
 
