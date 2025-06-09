@@ -888,38 +888,38 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwODg4MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.YZpF0oNiVgDK-YWi9csXpdY6sA-VDU-xvKTe_fXMKjc","referer":"https://proxy.siswamedia.com/","origin":"https://proxy.siswamedia.com","user-agent":"com.astro.sott/25.01.13 (Linux;Android 10) AndroidXMedia3/1.4.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-https://proxy.siswamedia.com/l01.dp.sooka.my/601/linear/index.mpd
+#https://proxy.siswamedia.com/l01.dp.sooka.my/601/linear/index.mpd
 
 #EXTINF:-1 tvg-name="Astro Premier League 2" tvg-id="" group-title="Live | KaumLowo" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ef8895AstroPremierLeague2_2024_IVP_LAND_1280x720.jpg",Astro Premier League 2 (SOOKA VIP)
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwODg4MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.YZpF0oNiVgDK-YWi9csXpdY6sA-VDU-xvKTe_fXMKjc","referer":"https://proxy.siswamedia.com/","origin":"https://proxy.siswamedia.com","user-agent":"com.astro.sott/25.01.13 (Linux;Android 10) AndroidXMedia3/1.4.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-https://proxy.siswamedia.com/l02.dp.sooka.my/2104/linear/index.mpd
+#https://proxy.siswamedia.com/l02.dp.sooka.my/2104/linear/index.mpd
 
 #EXTINF:-1 tvg-name="Astro Premier League 3" tvg-id="" group-title="Live | KaumLowo" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fb1c85AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg",Astro Premier League 3 (SOOKA VIP)
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwODg4MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.YZpF0oNiVgDK-YWi9csXpdY6sA-VDU-xvKTe_fXMKjc","referer":"https://proxy.siswamedia.com/","origin":"https://proxy.siswamedia.com","user-agent":"com.astro.sott/25.01.13 (Linux;Android 10) AndroidXMedia3/1.4.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"88e55aef52264843b604798677f6e007":"e543e2f3e1b5363477be5289606541ec","8c1a6746f400473e8abf307c0d23af12":"41b6609cf8133668679975bc8a9bcf50"}
-https://proxy.siswamedia.com/l03.dp.sooka.my/5108/linear/index.mpd
+#https://proxy.siswamedia.com/l03.dp.sooka.my/5108/linear/index.mpd
 
 #EXTINF:-1 tvg-name="Astro Premier League 4" tvg-id="" group-title="Live | KaumLowo" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2324d2AstroPremierLeague4_2024_IVP_LAND_1280x720.jpg",Astro Premier League 4 (SOOKA VIP)
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwODg4MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.YZpF0oNiVgDK-YWi9csXpdY6sA-VDU-xvKTe_fXMKjc","referer":"https://proxy.siswamedia.com/","origin":"https://proxy.siswamedia.com","user-agent":"com.astro.sott/25.01.13 (Linux;Android 10) AndroidXMedia3/1.4.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"75418b717d0b42db9654375c8508e660":"5c3ef8664e8c7a1c8dd18f6de1ab4515","964bc441d4ba4607894b8568e09e0cb8":"cd29d188e0a90ded468fabe9999537c1"}
-https://proxy.siswamedia.com/l04.dp.sooka.my/5111/linear/index.mpd
+#https://proxy.siswamedia.com/l04.dp.sooka.my/5111/linear/index.mpd
 
 #EXTINF:-1 tvg-name="Astro Premier League 5" tvg-id="" group-title="Live | KaumLowo" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e32763AstroPremierLeague5_2024_IVP_LAND_1280x720.jpg",Astro Premier League 5 (SOOKA NEW)
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkwODg4MDUsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MTYyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJmZjQwMGYtZGQ4NS00ZTJiLThhMGEtNDJhMGE5NzU1NmMwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.YZpF0oNiVgDK-YWi9csXpdY6sA-VDU-xvKTe_fXMKjc","referer":"https://proxy.siswamedia.com/","origin":"https://proxy.siswamedia.com","user-agent":"com.astro.sott/25.01.13 (Linux;Android 10) AndroidXMedia3/1.4.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"038b2e1703f147679b4ea4182cbef3b7":"09898f5ae58cc4eff52c67587843e9b4","49441e51c289401996f6cc3d3cb503ae":"7c1948d5731f59cb88ee0e4cf7344b7d"}
-https://proxy.siswamedia.com/l02.dp.sooka.my/5113/linear/index.mpd
+#https://proxy.siswamedia.com/l02.dp.sooka.my/5113/linear/index.mpd
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 1 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@aljqswdlfbk04g2evguppsafnpykcuu3avv15oda/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@aljqswdlfbk04g2evguppsafnpykcuu3avv15oda/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Live | KaumLowo",Hub Premier 1 FHD (AIRMAX VIP)
 https://a1xs.vip/1100041
@@ -929,7 +929,7 @@ https://a1xs.vip/1100041
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@0ngunxsrzqw30ikazge1cmi1ovptbn1v0h32cbba/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@0ngunxsrzqw30ikazge1cmi1ovptbn1v0h32cbba/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Live | KaumLowo",Hub Premier 2 FHD (AIRMAX VIP)
 https://a1xs.vip/1100042
@@ -939,35 +939,35 @@ https://a1xs.vip/1100042
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://bks03.starhubgo.com:443/bpk-token/2aa@qgv0fs05ukxikleqysgpukvlevujvoruqgzskeba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://bks03.starhubgo.com:443/bpk-token/2aa@qgv0fs05ukxikleqysgpukvlevujvoruqgzskeba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 3" tvg-id="HubPremier3.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 3 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@pzwpkcib14jjazewovoqln5ueylw3tsaphwnd0aa/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@pzwpkcib14jjazewovoqln5ueylw3tsaphwnd0aa/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 4" tvg-id="HubPremier4.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 4 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@0rxbbf1c4geu250u2a310pdck4o2niiz0dmhotaa/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@0rxbbf1c4geu250u2a310pdck4o2niiz0dmhotaa/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 5" tvg-id="HubPremier5.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 5 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@1jt3n0dcnwxj5tq1rwszkg11u5o0mpt41b51cmaa/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@1jt3n0dcnwxj5tq1rwszkg11u5o0mpt41b51cmaa/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-name="SG: Hub Premier 6" tvg-id="HubPremier6.sg" group-title="Live | KaumLowo" tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg",STARHUB PREMIER 6 HD (EPL)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.starhubtvplus.com&user-agent=Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 https://cors-now-jz4t.onrender.com/https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
-https://cors-now-jz4t.onrender.com/https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@bhkrfgdvifwy2qexks2nxuclmgyrkmrzbftmgtca/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
+#https://cors-now-jz4t.onrender.com/https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@bhkrfgdvifwy2qexks2nxuclmgyrkmrzbftmgtca/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawxryKtraZdxQYVoZSOW0EBkxsXZXoMxM1EVFrfr-230ybLTf7kLkud0dPho&s" group-title="Live | KaumLowo",LIVE 1 Liga Champions UEFA (UCL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
