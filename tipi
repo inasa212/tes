@@ -8,8 +8,12 @@
 
 ========= Indonesia========
 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://x.com/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",KA-EL CHANNEL
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
+https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/640x360/LiR8Y6e1gI4MiRkD.m3u8
+https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/mp4a/64000/gsy32WdZVfdpXawP.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 7 JULI
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
