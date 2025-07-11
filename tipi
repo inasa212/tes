@@ -1378,7 +1378,15 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Karate_Kid_Legends_Poster.jpg",Karate Kid-Legends (2025) 
+https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=RzUwb3daSjc0dWZBRnZiL0RTdkhWcmV1RHBsTDlmQ2tqaGc0WlppQ1k1UmtLNUxseEhwc0gvWTNkWW1QZDhtag==.m3u8
+https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=RzUwb3daSjc0dWZBRnZiL0RTdkhWcmV1RHBsTDlmQ2tqaGc0WlppQ1k1UmtLNUxseEhwc0gvWTNkWW1QZDhtag==.m3u8&name=file.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg",M3GAN 2.0 (2025)
+https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=ektLOGtKeENpNU5HYTZ1V1B4T09KVmJrYncyQmxWeTZOSXY4RzF5ZFdhb3FsaktJVGFROXBnZUN3YURXTi9vYQ==.m3u8
+https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=ektLOGtKeENpNU5HYTZ1V1B4T09KVmJrYncyQmxWeTZOSXY4RzF5ZFdhb3FsaktJVGFROXBnZUN3YURXTi9vYQ==.m3u8&name=file.m3u8
 ===========================================
 ======================HBO==================
 ===========================================
