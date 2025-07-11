@@ -1282,101 +1282,6 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 ===================VOD====================
 ==========================================
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
 
 #EXTVLCOPT:http-referrer=https://movearnpre.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -1401,10 +1306,11 @@ https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/05480/485jh4mxyzvh_n/index-v1-a1.m3
 https://pfabiwmfmeza.ovaltinecdn.com/hls2/01/03777/pga3mgdld3p8_n/master.m3u8?t=lBMpH40ZzM0Fqt3GOW8kLUyQypiRgK5-8B6SqO3Cdhc&s=1752260623&e=129600&f=27233988&srv=enY15gPiekKV&i=0.4&sp=500&p1=enY15gPiekKV&p2=enY15gPiekKV&asn=45305
 https://pfabiwmfmeza.ovaltinecdn.com/hls2/01/03777/pga3mgdld3p8_n/index-v1-a1.m3u8?t=lBMpH40ZzM0Fqt3GOW8kLUyQypiRgK5-8B6SqO3Cdhc&s=1752260623&e=129600&f=27233988&srv=enY15gPiekKV&i=0.4&sp=500&p1=enY15gPiekKV&p2=enY15gPiekKV&asn=45305
 
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://movearnpre.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Karate_Kid_Legends_Poster.jpg/250px-Karate_Kid_Legends_Poster.jpg",Karate Kid-Legends (2025)
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/05069/po3e3usdgjk2_n/master.m3u8?t=ifnODWDC6ppEbhtRyY_yNkc7eAUfHQnDArLHn3ag4sQ&s=1752261014&e=129600&f=27233548&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=45305
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/05069/po3e3usdgjk2_n/index-v1-a1.m3u8?t=ifnODWDC6ppEbhtRyY_yNkc7eAUfHQnDArLHn3ag4sQ&s=1752261014&e=129600&f=27233548&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=45305
 
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
