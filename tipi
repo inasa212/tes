@@ -843,10 +843,17 @@ https://proxy.siswamedia.com/linearjitp-playback.astro.com.my/dash-wv/linear/505
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://proxy.siswamedia.com/linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
-#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -0+ VIP
-https://abcc.yallashooot.store:8181/bein2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -1
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -2
+https://shawkat-zebari.short.gy/Gewher.m3u8
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -03
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Live | KaumLowo" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -03+
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+
 
 =============================================
 ==============CCTVKOTA BATU==================
@@ -1283,11 +1290,11 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 ==========================================
 
 
-#EXTVLCOPT:http-referrer=https://hgplaycdn.com/e/pwmbqck35cqq
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQHh9fEkTeA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Ice_Road%2C_Vengeance_poster.jpeg",Ice Road-Vengeance (2025)
-https://hgplaycdn.com/stream/k0F85eEW9_xRQ_AteiRwzw/kjhhiuahiuhgihdf/1752348359/53988296/master.m3u8
-https://hgplaycdn.com/stream/k0F85eEW9_xRQ_AteiRwzw/kjhhiuahiuhgihdf/1752348359/53988296/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz//yyy/KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQHh9fEkTeA/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/KxssYzcWFiVvJxIiJFU3NiEdZHx1S0JsNTQVKC9vDgcnQHh9fEkTeA/33/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/M3GAN_2.0_Official_Poster.jpg",M3GAN 2.0 (2025)
@@ -1342,21 +1349,23 @@ https://hgplaycdn.com/stream/16cjIaKtFA9xnUuuVWwkWg/kjhhiuahiuhgihdf/1752348999/
 https://movearnpre.com/stream/RAvK_TT-PGB7q0a0wSpyiA/hjkrhuihghfvu/1752349223/26495464/master.m3u8
 https://movearnpre.com/stream/RAvK_TT-PGB7q0a0wSpyiA/hjkrhuihghfvu/1752349223/26495464/index-v1-a1.m3u8
 
-#EXTVLCOPT:http-referrer=https://movearnpre.com/embed/zqit9h9agr85
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Ballerina_%282025_film%29_poster.jpg",Ballerina (2025)
-https://movearnpre.com/stream/Gtn0aVthIHqx3woa2n7VBw/hjkrhuihghfvu/1752349379/27326662/master.m3u8
-https://movearnpre.com/stream/Gtn0aVthIHqx3woa2n7VBw/hjkrhuihghfvu/1752349379/27326662/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz//yyy/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
 
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=IAogLS5URXFwZFo7JlIyNB0gFn58GxJwJDIR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-brick-2025-lk21-d21.jpg.webp",Brick (2025)
+https://cloud.hownetwork.xyz//yyy/IAogLS5URXFwZFo7JlIyNB0gFn58GxJwJDIR/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/IAogLS5URXFwZFo7JlIyNB0gFn58GxJwJDIR/33/480.m3u8
 
-
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Dora_and_the_Search_for_Sol_Dorado_logo.jpg",Dora and the Search for Sol Dorado (2025)
+https://cloud.hownetwork.xyz//yyy/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
 
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
