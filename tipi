@@ -1379,10 +1379,11 @@ https://cloud.hownetwork.xyz/xxx/I1U-ITcSHi8lfBotLR1kaHBNZCwpDAUgOw4vEyYGbj0mGXE
 https://cloud.hownetwork.xyz//yyy/NhAsYyQUFjUnJAVhcQBkbW8PLCwhFSgZHWZCLXYDNWpy/33/480.m3u8
 https://cloud.hownetwork.xyz/xxx/NhAsYyQUFjUnJAVhcQBkbW8PLCwhFSgZHWZCLXYDNWpy/33/480.m3u8
 
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=4d538a4820ea54b3ca0dec9b969642f2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",
-
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Battle_Los_Angeles_Poster.jpg",Battle Los Angeles (2011)
+https://cloud.hownetwork.xyz//yyy/4d538a4820ea54b3ca0dec9b969642f2/1/480.m3u8
+https://cloud.hownetwork.xyz/xxx/4d538a4820ea54b3ca0dec9b969642f2/1/480.m3u8
 
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
