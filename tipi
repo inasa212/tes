@@ -2073,17 +2073,31 @@ https://sfjf2b79nx.guardstorage.net/hls_3/AqPfh2cJxHeHNc9brs7dthfP-jbM7i2c2tVRcw
 https://b4x3vslslk.guardstorage.net/hls_3/KXxaRvlwoIz1E_ZG_NTTJvkdhrY5ApVQJGctxOpnEd6YtMO6MItBtmkeqFJHUML71VKxf0X_VjygQi30aeVQLqMItWvU5SKU-jlfaK9lrq9xNlO9M39n01JSQmfHoPC3vkNDiQNrkEKPpjCUMeUArfz3Hfz0nbpg6vzU1wnzqsIZGbCJN7k7imj6OjX5VyMHK9ffzZee8uopmZQwFtpj0g/master.m3u8?sig=ZiLwUTEt3TaIzi69Vq3sfw&expires=1753725763
 https://b4x3vslslk.guardstorage.net/hls_3/KXxaRvlwoIz1E_ZG_NTTJvkdhrY5ApVQJGctxOpnEd6YtMO6MItBtmkeqFJHUML71VKxf0X_VjygQi30aeVQLqMItWvU5SKU-jlfaK9lrq9xNlO9M39n01JSQmfHoPC3vkNDiQNrkEKPpjCUMeUArfz3Hfz0nbpg6vzU1wnzqsIZGbCJN7k7imj6OjX5VyMHK9ffzZee8uopmZQwFtpj0g/index-f1-v1-a1.m3u8?sig=ZiLwUTEt3TaIzi69Vq3sfw&expires=1753725763
 
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w185/vEzfdKhp52rD8W3MPV7HpRsgeiV.jpg",SIKSA KUBUR
-https://ovyupmbb4t.guardstorage.net/hls_3/h6sisodauCszaNojiYL9zlu7AUYvsKkNGo5ayAMGjwbY8YMczPEn_q7GnctLAAMRIL08ypi11pXNtJj_npmLkQ/master.m3u8?sig=x7SSCciB1Zj_a7vOWpNE8Q&expires=1753726164
-https://ovyupmbb4t.guardstorage.net/hls_3/h6sisodauCszaNojiYL9zlu7AUYvsKkNGo5ayAMGjwbY8YMczPEn_q7GnctLAAMRIL08ypi11pXNtJj_npmLkQ/index-f1-v1-a1.m3u8?sig=x7SSCciB1Zj_a7vOWpNE8Q&expires=1753726164
-
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w185/um0ezs2daaKr9zW3weK2z2oNUT8.jpg",PENGANTIN IBLIS (2025)
-https://a7pmc6uwtn.guardstorage.net/hls_3/eeJxoMEZgkg-sP6Xqi4OjnircTlFiXD5bzei5CUd-g3Xw_l01WL8RgAnk9KnvnQfi9BtJaJ5gUWQX7SCf33bVA/master.m3u8?sig=OuJgDz8fDD6cN_-OjlFd9A&expires=1753726425
-https://a7pmc6uwtn.guardstorage.net/hls_3/eeJxoMEZgkg-sP6Xqi4OjnircTlFiXD5bzei5CUd-g3Xw_l01WL8RgAnk9KnvnQfi9BtJaJ5gUWQX7SCf33bVA/index-f1-v1-a1.m3u8?sig=OuJgDz8fDD6cN_-OjlFd9A&expires=1753726425
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w185/um0ezs2daaKr9zW3weK2z2oNUT8.jpg",Pengantin Iblis (2025)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://listeamed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://x0zsvvb0j0.guardstorage.net/hls_3/eeJxoMEZgkg-sP6Xqi4OjnircTlFiXD5bzei5CUd-g3-1xx6N01mJ1EZYl1iniMDyG9Q4Jq3NsW6OPNkqo4i1Q/index-f1-v1-a1.m3u8?sig=2_ds2Tbkr8Y6gT9hACHT-A&expires=1753811761
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="",OBSESYON (2025)
 https://8e9wjw5bk1.guardstorage.net/hls_3/Fm-UVwTDtcpNjGl5ofdi43uWRLpumpaX9XbTPX0Pu7uMArtHVp0zFWTfGXqOvUgtvNhgKr2IS1eArfdR_iEeWGbxVqKA13wDC11Vc0LfUmOsxqKOW13QA0K9LWCjgk1Z0UtVowrXCMrTZ9w5MQuPbmD-uuH0WYd2iQ_mgR0WFagHHt5I3vTLX8sUgaPlyUllOim1BchR1rov3JIZPIbZhg/master.m3u8?sig=DRgByN7TSQqkOBQJklVvNw&expires=1753727238
 https://8e9wjw5bk1.guardstorage.net/hls_3/Fm-UVwTDtcpNjGl5ofdi43uWRLpumpaX9XbTPX0Pu7uMArtHVp0zFWTfGXqOvUgtvNhgKr2IS1eArfdR_iEeWGbxVqKA13wDC11Vc0LfUmOsxqKOW13QA0K9LWCjgk1Z0UtVowrXCMrTZ9w5MQuPbmD-uuH0WYd2iQ_mgR0WFagHHt5I3vTLX8sUgaPlyUllOim1BchR1rov3JIZPIbZhg/index-f1-v1-a1.m3u8?sig=DRgByN7TSQqkOBQJklVvNw&expires=1753727238
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-plague-2024-lk21-d21.jpg.webp",Plague (2024)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://cloud.hownetwork.xyz/video.php?id=MhQoKTAcWnNyY0NhFHUUHA4nEREhQRUnJ2VHeg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://cloud.hownetwork.xyz//yyy/MhQoKTAcWnNyY0NhFHUUHA4nEREhQRUnJ2VHeg/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/MhQoKTAcWnNyY0NhFHUUHA4nEREhQRUnJ2VHeg/33/480.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-plague-2024-lk21-d21.jpg.webp",Siksa Kubur (2024)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://listeamed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://otnfip7097.guardstorage.net/hls_3/h6sisodauCszaNojiYL9zlu7AUYvsKkNGo5ayAMGjwbY8YMczPEn_q7GnctLAAMRIL08ypi11pXNtJj_npmLkQ/master.m3u8?sig=mnaPbdtVobzVPL5MvBX9DA&expires=1753811061
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-culpa-mia-2023-lk21-d21.jpg.webp",Culpa mia (my fault) (2023)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://cloud.hownetwork.xyz/video.php?id=949eba62d35187cda7caabd02a50fc99
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://cloud.hownetwork.xyz//yyy/949eba62d35187cda7caabd02a50fc99/1/480.m3u8
+https://cloud.hownetwork.xyz/xxx/949eba62d35187cda7caabd02a50fc99/1/480.m3u8
 
 ===========================================
 ======================HBO==================
