@@ -9,12 +9,12 @@
 ========= Indonesia========
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",KA-EL CHANNEL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",SCRIPT DISUSUN & DIHIMPUN OLEH KA-EL.NET (INASA)
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/640x360/LiR8Y6e1gI4MiRkD.m3u8
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/mp4a/64000/gsy32WdZVfdpXawP.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 19 NOVEMBER
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDTATE 20 NOVEMBER
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV45 (LOCAL ONLY)
@@ -24,7 +24,7 @@ https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV21 (LOCAL ONLY)
 #rtsp://MON3:Monitor3@10.30.30.57/live/ch00_0
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA IPTV 🇮🇩",Indosiar  
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA IPTV 🇮🇩",Indosiar (LIVE BOLA SILAHKAN BUKA RBTV)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
@@ -249,10 +249,60 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO
-http://203.77.246.58:4500/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO (A10+)
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO HITS (A10+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO SIGNATURE (A10+)
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO FAMILY (A10+)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="INDONESIA IPTV 🇮🇩",CINEMAX (A10+)
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="INDONESIA IPTV 🇮🇩", beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="INDONESIA IPTV 🇮🇩", beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="INDONESIA IPTV 🇮🇩",beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
 
 ===================================================
                  RELIGI
