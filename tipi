@@ -27,7 +27,8 @@ https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA IPTV 🇮🇩",Indosiar (LIVE BOLA SILAHKAN BUKA RBTV)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA IPTV 🇮🇩",Indosiar 🇮🇩
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="INDONESIA IPTV 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png",SCTV (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
