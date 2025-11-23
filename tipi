@@ -861,11 +861,15 @@ https://cdn2.turboviplay.com/data3/68c88cda92390/68c88cda92390.m3u8
 #EXTHTTP:{"Origin": "https://listeamed.net", "Referer": "https://listeamed.net/"}
 https://pdct1bvv0d.guardstorage.net/hls_3/VCBxvED1QY6uL7jOjYaS7iN-Y4FPnvgsIrAYVRf82r15RUf_5bRvHVBY4L3BUHDws_RhtrmWpQABR4FNZsi0rQ/master.m3u8?sig=mhJ_oYyvv6ASdkrhsGV-RA&expires=1763778159
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-frankenstein-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO",Frankenstein (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=JAooIC4cGTI2NB4ibgJmandVHgsHPTseGg5AL3YCYD13QQ"}
+https://cloud.hownetwork.xyz/xxx/JAooIC4cGTI2NB4ibgJmandVHgsHPTseGg5AL3YCYD13QQ/29/480.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-safe-house-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO",Safe House (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MRkvK2gRGDQxNFp-cwJjdRU9CwoJJi8edWcWenAFZms"}
+https://cloud.hownetwork.xyz/xxx/MRkvK2gRGDQxNFp-cwJjdRU9CwoJJi8edWcWenAFZms/27/480.m3u8
 
 
 
