@@ -380,6 +380,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ==============CCTVKOTA BATU==================
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",CCTV (Dishub) Pintu Masuk Dau Batu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "stream.batukota.go.id", "Referer": "https://stream.batukota.go.id/WebRTCApp/play.html?id=03rZ8eUb0IAb8Fn41735010648573"}
 https://stream.batukota.go.id/WebRTCApp/streams/03rZ8eUb0IAb8Fn41735010648573_adaptive.m3u8
 
 
