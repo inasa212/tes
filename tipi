@@ -379,102 +379,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 =============================================
 ==============CCTVKOTA BATU==================
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Rumah Dinas Walikota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/csC0gk1uL2aCzbWM1710472601306.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",CCTV (Dishub) Pintu Masuk Dau Batu
+https://stream.batukota.go.id/WebRTCApp/streams/03rZ8eUb0IAb8Fn41735010648573_adaptive.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo)Depan Pertigaan sumbergondo
-https://stream.batukota.go.id/WebRTCApp/streams/JvvohCsOIgnpsxMQ1707188028701.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/JvvohCsOIgnpsxMQ1707188028701_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Kecamatan Bumiaji
-https://stream.batukota.go.id/WebRTCApp/streams/KazZfIfHMUWV5kki1707187117457.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/KazZfIfHMUWV5kki1707187117457_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Depan Balai desa Sidomulyo
-https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan BPBD Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/k5D5M6dYYUZHTqJt1707186773648.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/k5D5M6dYYUZHTqJt1707186773648_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",(Kominfo) Rest Area Sidomulyio 2
-https://stream.batukota.go.id/WebRTCApp/streams/TrJUb2ncd1m6QuWN1705741508167.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Balai Desa Sidomulyo Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pos Polisi 1 Alun alun Batu
-https://stream.batukota.go.id/WebRTCApp/streams/gB1wuwYv6T5S3yoU1705741644304.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/gB1wuwYv6T5S3yoU1705741644304_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pertigaan Rumah Sakit Hasta Brata Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/0dqG59fEZofnBv5e1705576204511.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/0dqG59fEZofnBv5e1705576204511_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Perempatan Kelurahan ngaglik
-https://stream.batukota.go.id/WebRTCApp/streams/e0WVYhI5Xxc27tQ81705741940984.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/e0WVYhI5Xxc27tQ81705741940984_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan masjid at-Taqwa
-https://stream.batukota.go.id/WebRTCApp/streams/TeRncISLj1TzfzTk1705741753162.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/TeRncISLj1TzfzTk1705741753162_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Oleh – Oleh Brawijaya – Alibaba Store
-https://stream.batukota.go.id/WebRTCApp/streams/CuK4jcmlGBZfu29Z1707188340657.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/CuK4jcmlGBZfu29Z1707188340657_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Taman Hutan Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Taman Hutan Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/JlQbEWs0zbR0qcQL1705635638961_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan LVRI
-https://stream.batukota.go.id/WebRTCApp/streams/SoJLzeACxyIKUxmk1707187671972.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/SoJLzeACxyIKUxmk1707187671972_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Depan Koramil Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/5YKgN7qGPKAkEii61707187408256.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/5YKgN7qGPKAkEii61707187408256_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pintu Keluar Pasar – Pintu Masuk Terminal Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/hoi0iYhOFqXJ0M4I1705741691115.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/hoi0iYhOFqXJ0M4I1705741691115_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kominfo Pintu Masuk Pasar Timur Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/OcBbqXNaFb3QaTjl1705741703633_adaptive.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/OcBbqXNaFb3QaTjl1705741703633.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pertigaan Pasar Induk Among Tani
-https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pertigaan Jl. Arumdalu Songgoriti Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/OwEvIav57cFnFDyS1705741607441.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/OwEvIav57cFnFDyS1705741607441_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Perempatan Songgokerto Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/3JMIVASLoA2GBwLc1705741429398.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/3JMIVASLoA2GBwLc1705741429398_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub TMP arah abdulgani Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/QB9mQq8KhAmeIbeJ1705741144498.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/QB9mQq8KhAmeIbeJ1705741144498_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Depan Museum Angkut Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/VUmF69E51bD8DslM1705741330230.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/VUmF69E51bD8DslM1705741330230_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀", Dishub Batu Town Square Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741_adaptive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Dishub Pos Polisi Pendem 1 Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/wOCPjH5g75BuXfR21705741624673.m3u8
-https://stream.batukota.go.id/WebRTCApp/streams/wOCPjH5g75BuXfR21705741624673_adaptive.m3u8
 
 ================LOWOKWARU==========================
 
@@ -817,17 +724,6 @@ https://cloud.hownetwork.xyz/xxx/MgosKiQNGDNvMxYoL1E4PDFVe353TFoJBhI2ARxoCWskHH1
 https://cloud.hownetwork.xyz/xxx/Khc-YzEWWjUwMB4ibkk5LTBVLTwkHhgvb2NHfnYdAR0APAURHSZPeXUyRSh1BA/33/1080.m3u8
 https://cloud.hownetwork.xyz/zzz/Khc-YzEWWjUwMB4ibkk5LTBVLTwkHhgvb2NHfnYdAR0APAURHSZPeXUyRSh1BA/33/1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9CcoGiWNxOKDxc1L0NmyytjHPdH.jpg" group-title="BIOSKOP KAUMLOWO",Assalamualaikum Baitullah (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://listeamed.net", "Referer": "https://listeamed.net/"}
-https://3ltqfx6qlj.guardstorage.net/hls_3/TfoznsFVitstnpqxOk7niHZc5iCagAHyjPYlrJ_Osp9JoCKJnMkvqK139VcFR_WqVEdn572PwlMsZp6Ez0o-9g/index-f2-v1-a1.m3u8?sig=QXooMf2xT5jvCEtAobgcJQ&expires=1763778606
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7rRdMUnLAEAE5JUuOfWqWjoC3xs.jpg" group-title="BIOSKOP KAUMLOWO",Selepas Tahlil (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "uasopt.com", "Referer": "https://uasopt.com/e/bpd7nevjabfq"}
-https://uasopt.com/stream/KpVcQk0TqTOplbT-DUSi7g/kjhhiuahiuhgihdf/1763794033/64751470/index-v1-a1.m3u8
-https://uasopt.com/stream/KpVcQk0TqTOplbT-DUSi7g/kjhhiuahiuhgihdf/1763794033/64751470/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8cCA4pKow6wxuwbpSAgIC2K7AGg.jpg" group-title="BIOSKOP KAUMLOWO",Jalan Pulang (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
@@ -841,20 +737,18 @@ https://live.streamcasthub.store/hls/Wcf8xcIltuuoVj-6JWENhA/6hp/j3tfq6od/camaba/
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/11/semFxuYx6HcrkZzslgAkBqfJvZk-60x90.jpg" group-title="BIOSKOP KAUMLOWO",The Family Plan 2 (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn161.hugebil.com/data/4/C8/69205c7900fc7/69205c7900fc7720.m3u8
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=JBkkJykAWjEuMBlhcR1kaHBNZBkAOzMNHQkoLyIEYjpwS3A"}
+https://cloud.hownetwork.xyz/xxx/JBkkJykAWjEuMBlhcR1kaHBNZBkAOzMNHQkoLyIEYjpwS3A/37/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/10/7JzOmJ1fIU43I3gLHYsY8UzNzjG-60x90.jpg" group-title="BIOSKOP KAUMLOWO",The Conjuring Last Rites (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn154.foudsea.com/data/B/39/691a87d6506fc/691a87d6506fc720.m3u8
-https://cdn2.turboviplay.com/data/691a87d6506fc/691a87d6506fc.m3u8
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=IRcnJDALHi8lfBstMER7KisMLD1oS0dzd3wgCQF0GgcaJysrckERIHpm"}
+https://cloud.hownetwork.xyz/xxx/IRcnJDALHi8lfBstMER7KisMLD1oS0dzd3wgCQF0GgcaJysrckERIHpm/34/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/09/wPLysNDLffQLOVebZQCbXJEv6E6-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Superman (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://g251.turbosplayer.com/file/d0c4ac27-eda3-4b20-9eb5-8d3cbaa72e58/master.m3u8
-https://cdn2.turboviplay.com/data3/68c88cda92390/68c88cda92390.m3u8
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MQ05KzcUFi9vY0d-dh0BHQA8BREdJk4jIWZAKXpR"}
+https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJk4jIWZAKXpR/34/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5c8iXGH5Vol8HfpdwXK5ptHKQ6R.jpg" group-title="BIOSKOP KAUMLOWO",Kitab Sijjin & Illiyyin (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -875,6 +769,18 @@ https://cloud.hownetwork.xyz/xxx/MRkvK2gRGDQxNFp-cwJjdRU9CwoJJi8edWcWenAFZms/27/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MhQoN2gdHjM2KFp-cwJjdRU9CwoJJi8ecWkUf3ZWMjs"}
 https://cloud.hownetwork.xyz/xxx/MhQoN2gdHjM2KFp-cwJjdRU9CwoJJi8ecWkUf3ZWMjs/34/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg.webp" group-title="BIOSKOP KAUMLOWO",The Fantastic Four First Steps (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA"}
+https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA/34/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wPxNdqsJ0JKhd3thBjJgFmbNc3M.jpg" group-title="BIOSKOP KAUMLOWO",Penjagal Iblis Dosa Turunan (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "dumbalag.com", "Referer": "https://dumbalag.com/e/4gcy0l5fqxt0"}
+https://dumbalag.com/stream/x7rcy2PPcFzGQvHS8gwRpg/kjhhiuahiuhgihdf/1764199149/63205997/index-v1-a1.m3u8
+
+
 
 
 
