@@ -251,36 +251,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO (A10+)
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO HITS (A10+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO SIGNATURE (A10+)
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="INDONESIA IPTV 🇮🇩",HBO FAMILY (A10+)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="INDONESIA IPTV 🇮🇩",CINEMAX (A10+)
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="INDONESIA IPTV 🇮🇩", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -374,68 +344,6 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCYSWhAYrVIebRJ8CwPRvt0Q
 
 #EXTINF:-1 tvg-country"ID" tvg-logo="https://i.ibb.co/zSgt2KP/mqtv.png" group-title="RELIGI",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-
-=============================================
-==============CCTVKOTA BATU==================
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://x.com/
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="CCTV KOTA BATU 👀",SCRIPT CREATED BY KA-EL.NET (INASA) 26 NOVEMBER 2025
-https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/640x360/LiR8Y6e1gI4MiRkD.m3u8
-https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/mp4a/64000/gsy32WdZVfdpXawP.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀", Pintu Masuk Dau Batu tes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "stream.batukota.go.id", "Referer": "https://stream.batukota.go.id/WebRTCApp/play.html?id=03rZ8eUb0IAb8Fn41735010648573"}
-https://stream.batukota.go.id/WebRTCApp/streams/03rZ8eUb0IAb8Fn41735010648573.m3u8
-
-https://stream.batukota.go.id/WebRTCApp/streams/03rZ8eUb0IAb8Fn41735010648573_adaptive.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Pertigaan sumbergondo
-https://stream.batukota.go.id/WebRTCApp/streams/JvvohCsOIgnpsxMQ1707188028701.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Kecamatan Bumiaji Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/KazZfIfHMUWV5kki1707187117457.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan BPBD Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/k5D5M6dYYUZHTqJt1707186773648.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Balai Desa Sidomulyo Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/i7pjl9Uk19butv991707187806006.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pos Polisi 1 Alun alun Batu
-https://stream.batukota.go.id/WebRTCApp/streams/gB1wuwYv6T5S3yoU1705741644304.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Perempatan Kelurahan ngaglik
-https://stream.batukota.go.id/WebRTCApp/streams/e0WVYhI5Xxc27tQ81705741940984.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan LVRI
-https://stream.batukota.go.id/WebRTCApp/streams/SoJLzeACxyIKUxmk1707187671972.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Koramil Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/5YKgN7qGPKAkEii61707187408256.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pintu Keluar Pasar Pintu Masuk Terminal Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/hoi0iYhOFqXJ0M4I1705741691115.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pintu Masuk Pasar Timur Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/OcBbqXNaFb3QaTjl1705741703633.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pertigaan Pasar Induk Among Tani
-https://stream.batukota.go.id/WebRTCApp/streams/dMxTt6oygf2nNNoR1705741067450.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Jatim Park 3 Arah Malang
-https://stream.batukota.go.id/WebRTCApp/streams/ABenDxGIM1te3qzH1705741109482.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Perempatan Songgokerto Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/3JMIVASLoA2GBwLc1705741429398.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",TMP arah abdulgani Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/QB9mQq8KhAmeIbeJ1705741144498.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Depan Museum Angkut Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/VUmF69E51bD8DslM1705741330230.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Batu Town Square Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/VKx7RDYIeFUXSkx31705740824741.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pertigaan Rest Area Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/dmslMjthUrn2dm5w1705636324165.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Pertigaan Rest Area Sidomulyo Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/TrJUb2ncd1m6QuWN1705741508167.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Jl Lesti Depan Arjuna Kota Batu
-https://stream.batukota.go.id/WebRTCApp/streams/Q0KNfIgIYyLJIHcK1705636177934.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",Taman Hutan Kota Bondas Jl. Sultan Agung
-https://stream.batukota.go.id/WebRTCApp/streams/c4umuPuVX9rYo8pJ1705741554912.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV KOTA BATU 👀",
 
 
 =================================
