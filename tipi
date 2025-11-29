@@ -472,9 +472,9 @@ https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnx
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/11/8cCA4pKow6wxuwbpSAgIC2K7AGg-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Jalan Pulang (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "auvexiug.com", "Referer": "https://auvexiug.com/e/xpcm1qy3w4ms"}
-https://auvexiug.com/stream/0MkRc3NRKGXJ0-MyOhOaGQ/kjhhiuahiuhgihdf/1764385219/63910853/index-v1-a1.m3u8
-https://auvexiug.com/stream/0MkRc3NRKGXJ0-MyOhOaGQ/kjhhiuahiuhgihdf/1764385219/63910853/master.m3u8
+#EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
+https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=dFlMYklENDJIeGl1SGZGYlVhc3BiaFZabXpwcnZiYnh1NFlWYlB3Q00wZFlvSHE2eHFlem5TK0xRcDQrL1hRQQ==.m3u8&name=file.m3u8
+https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=dFlMYklENDJIeGl1SGZGYlVhc3BiaFZabXpwcnZiYnh1NFlWYlB3Q00wZFlvSHE2eHFlem5TK0xRcDQrL1hRQQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/09/oEWtL2Rr5AuufFq57BjB7YZvLKv-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Norma Antara Mertua dan Menantu (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -482,21 +482,14 @@ https://auvexiug.com/stream/0MkRc3NRKGXJ0-MyOhOaGQ/kjhhiuahiuhgihdf/1764385219/6
 https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=M1NHWk02aHQrNXVKbnBPVHE5MTZ0NTU1cHpWS1dlV09WaldXd3Q1R3AvQ21mckwrYTU1a3VJM2Rpb0JyMGRGeQ==.m3u8&name=file.m3u8
 https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=M1NHWk02aHQrNXVKbnBPVHE5MTZ0NTU1cHpWS1dlV09WaldXd3Q1R3AvQ21mckwrYTU1a3VJM2Rpb0JyMGRGeQ==.m3u8
 
-#EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/09/oEWtL2Rr5AuufFq57BjB7YZvLKv-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Norma | Antara Mertua dan Menantu (2025)
+#EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Sugar Mill (Pabrik Gula) (2025) pixeldrain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn4.turboviplay.com/data3/68b51cb681101/68b51cb681101.m3u8
-https://g256.turbosplayer.com/file/6f94851c-6eca-4489-a391-9e73fffff18d/master.m3u8
+#EXTHTTP:{"Origin": "pixeldrain.com", "Referer": "https://pixeldrain.com/u/CAAPpoDq"}
+https://pixeldrain.com/api/file/CAAPpoDq
 
-#EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Sugar Mill | Pabrik Gula (2025)
+#EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/07/llZca2miwygKwuyWUpyONCL6VAR-60x90.jpg" group-title="BIOSKOP KAUMLOWO", (Singsot Siulan Kematian (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn2.turboviplay.com/data3/689bb5e92328d/689bb5e92328d.m3u8
-https://g254.turbosplayer.com/file/0e154148-854e-4124-8bef-c28fca742071/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/07/llZca2miwygKwuyWUpyONCL6VAR-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Singsot Siulan Kematian (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
+#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/t/687ba28cc6b49"}
 https://cdn4.turboviplay.com/data3/687ba28cc6b49/687ba28cc6b49.m3u8
 https://g238.turbosplayer.com/file/ea7559fd-6eb6-4932-bdce-f0765ec2a37a/master.m3u8
 https://g240.turbosplayer.com/file/c9bad161-6025-4766-ba93-343e87bea801/master.m3u8
@@ -504,20 +497,20 @@ https://g240.turbosplayer.com/file/c9bad161-6025-4766-ba93-343e87bea801/master.m
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/07/g9KetGLq90t2V11U21En5sPtRcZ-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Perayaan Mati Rasa (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn2.turboviplay.com/data3/687bbb3180884/687bbb3180884.m3u8
-https://g244.turbosplayer.com/file/c4b93887-2330-448d-b78c-8a138ccebf2f/master.m3u8
+#https://cdn2.turboviplay.com/data3/687bbb3180884/687bbb3180884.m3u8
+#https://g244.turbosplayer.com/file/c4b93887-2330-448d-b78c-8a138ccebf2f/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/07/6F4lGSjpB7pgushRYalgtWJdv1R-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Haunting of Mount Gede (Petaka Gunung Gede) (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn4.turboviplay.com/data3/687bc2c34042c/687bc2c34042c.m3u8
-https://g252.turbosplayer.com/file/5a9b3807-6267-4091-b427-8233a7fd71e7/master.m3u8
+#https://cdn4.turboviplay.com/data3/687bc2c34042c/687bc2c34042c.m3u8
+#https://g252.turbosplayer.com/file/5a9b3807-6267-4091-b427-8233a7fd71e7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/07/yiCM9ilagjqrfi6l8RhIHYfRcbl-60x90.jpg" group-title="BIOSKOP KAUMLOWO",The Miracle of a Woman’s Tears (Keajaiban Air Mata Seorang Wanita)(2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://cdn2.turboviplay.com/data3/687bcf8880e6c/687bcf8880e6c.m3u8
-https://g241.turbosplayer.com/file/6d93f73d-2a31-406e-8fb7-90ea7ab782ae/master.m3u8
+#https://cdn2.turboviplay.com/data3/687bcf8880e6c/687bcf8880e6c.m3u8
+#https://g241.turbosplayer.com/file/6d93f73d-2a31-406e-8fb7-90ea7ab782ae/master.m3u8
 
 
 
