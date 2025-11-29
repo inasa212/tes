@@ -583,8 +583,10 @@ https://anichin.rpmvid.com/hls/B-6gZf0nyBoDpwhoY6zqrw/ox/3awmtxtd/xbjjz/tt/maste
 https://anichin.rpmvid.com/hls/5sOWq0Es6WpxCvvLYWwWPQ/k5/dq8wraeh/psawn/tt/index-f2-v1-a1.m3u8?v=1763544385
 https://anichin.rpmvid.com/hls/5sOWq0Es6WpxCvvLYWwWPQ/k5/dq8wraeh/psawn/tt/master.m3u8?v=1763544385
 
-
-
+#EXTINF:-1 tvg-logo="https://i1.wp.com/anime4i.com/wp-content/uploads/2025/01/Battle-Through-The-Heavens-Season-5.jpg?resize=247,350" group-title="BIOSKOP KAUMLOWO DONGHUA",Battle Through The Heavens Season 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "anime1u.com", "Referer": "https://anime1u.com/embed/battle-through-the-heavens-season-5-ep-169-sub"}
+https://anime1u.com/playlist.m3u8?data=NmFLQUV6bXRlTEZqenhtWHF0bGxsWnJQc2QwOGErbkJxbWFwU3ZGQjR4ST06Omu5msSKg3FFzh3SWprL5eI%3D&url=U1JuS2lrQlJPUDNTODJHcmxCeFc4NFRnTjdwUDBNV3BkUysvQlZ6Z0dHUDc5S2JNUlFWemdkSHIxSy8xdm13bytEMlRqNG1FdHExeWI2N2Y2QjhPWEx2Ym1QZGR3MUxNNVlDZ3FXZWxhUzlIYzJpMHZPSHpZWUkvZ0JIZVB1TEhZZzBOeDBQNEYvK1FsUWJCYlZ2Z3ErMjQ5NnBqOHdxUzhwT0kxSHlzZ1dqcnJIUmVHYTJNcXAzWjJObDBXVVdBOjrxOUvy6ZZATPgJ402iMkXY&token=c2tGT3RQem5xS25md1NQL2VJZFJjZz09OjoipQs%252BeFWJSuUmRor%252BJAdz&live=false
 
 
 
