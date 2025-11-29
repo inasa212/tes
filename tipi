@@ -552,12 +552,12 @@ https://gdriveplayer.to/hlsplaylist.php?&s=MG0ydlVzWXBqeEpkSFU3UWRrblZxMm1FUUgrQ
 =================================================
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY0YWFiMTEtNDZjNi00ZWRlLWEzMzktMGNiMmYyZWRmYTY4XkEyXkFqcGc@._V1_.jpg" group-title="BIOSKOP KAUMLOWO DONGHUA",BTTH SEASON 1-4 (ep1) TES SRT id file srt m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY0YWFiMTEtNDZjNi00ZWRlLWEzMzktMGNiMmYyZWRmYTY4XkEyXkFqcGc@._V1_.jpg" group-title="BIOSKOP KAUMLOWO DONGHUA",BTTH SEASON 1-4 (ep1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "anichin.rpmvid.com", "Referer": "https://anichin.rpmvid.com/"}
-https://anichin.rpmvid.com/h4ZuokBs2yRlDnLqeyRVLQ/61/b6ikxz9g/t3sm3/7IFVHc.srt#id
 https://anichin.rpmvid.com/hls/sEarHKOcJw5K_kwgwMVfKA/61/iplnes8o/t3sm3/tt/index-f2-v1-a1.m3u8?v=1763544385
 https://anichin.rpmvid.com/hls/sEarHKOcJw5K_kwgwMVfKA/61/iplnes8o/t3sm3/tt/master.m3u8?v=1763544385
+https://anichin.rpmvid.com/h4ZuokBs2yRlDnLqeyRVLQ/61/b6ikxz9g/t3sm3/7IFVHc.srt#id
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY0YWFiMTEtNDZjNi00ZWRlLWEzMzktMGNiMmYyZWRmYTY4XkEyXkFqcGc@._V1_.jpg" group-title="BIOSKOP KAUMLOWO DONGHUA",BTTH SEASON 1-4 (ep2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
