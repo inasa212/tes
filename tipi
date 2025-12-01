@@ -560,17 +560,13 @@ https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=pixeldrain.com
-#EXTINF:-1 tvg-logo="https://i3.wp.com/gojodesu.com/wp-content/uploads/2025/10/124803.jpg?resize=247,350" group-title="BIOSKOP KAUMLOWO ANIMATION",Doupo Cangqiong(Yuanqi) EP2 pixeldrain
+#EXTINF:-1 tvg-logo="https://i3.wp.com/gojodesu.com/wp-content/uploads/2025/10/124803.jpg?resize=247,350" group-title="BIOSKOP KAUMLOWO ANIMATION",Doupo Cangqiong(Yuanqi) EP2
 https://pixeldrain.com/api/file/3jnod5Gb
 
-#EXTINF:-1 tvg-logo="https://i3.wp.com/gojodesu.com/wp-content/uploads/2025/10/124803.jpg?resize=247,350" group-title="BIOSKOP KAUMLOWO ANIMATION",Doupo Cangqiong(Yuanqi) EP3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/"}
-https://g238.turbosplayer.com/file/fad05e0c-e6a2-4113-8955-309823cc1933/master.m3u8
-https://cdn4.turboviplay.com/data3/68f3721fa8a91/68f3721fa8a91.m3u8
-
-
-
+#EXTVLCOPT:https://pixeldrain.com/u/F8Ji87ih
+#EXTINF:-1 tvg-logo="https://i3.wp.com/gojodesu.com/wp-content/uploads/2025/10/124803.jpg?resize=247,350" group-title="BIOSKOP KAUMLOWO ANIMATION",Doupo Cangqiong(Yuanqi) EP3 
+https://pixeldrain.com/api/file/F8Ji87ih
 
 
 
