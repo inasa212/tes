@@ -578,7 +578,7 @@ https://cloud.hownetwork.xyz/zzz/949eba62d35187cda7caabd02a50fc99/1/480.m3u8
 https://cloud.hownetwork.xyz/xxx/41cc70d46e18a4c07667a360cee3baf5/25/480.m3u8
 https://cloud.hownetwork.xyz/zzz/41cc70d46e18a4c07667a360cee3baf5/25/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Our_Fault_poster.jpg" group-title="BIOSKOP KAUMLOWO",Our Fault Culpa Nuestra (2025)
+#EXTINF:-1 tvg-logo="https://ubi.ac.id/wp-content/uploads/2025/10/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s-200x300.jpg" group-title="BIOSKOP KAUMLOWO",Our Fault Culpa Nuestra (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=IQ0lPiRUGTQnIgM-Ih1kaHBNZBkAOzMNHQkofXEJM2kkQX4"}
 https://cloud.hownetwork.xyz/xxx/IQ0lPiRUGTQnIgM-Ih1kaHBNZBkAOzMNHQkofXEJM2kkQX4/26/480.m3u8
@@ -616,15 +616,21 @@ https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYV
 
 #EXTINF:-1 tvg-logo="https://www.carolinescomedyschool.com/wp-content/uploads/2025/12/n4YGTt7Oju3MM91QxaArXMFOOu8-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Sihir Pelakor (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://dintezuvio.com/embed/2hdll1yf8pnc
-https://dintezuvio.com/stream/oKi3-MvIOTOnaxnamDJquA/hjkrhuihghfvu/1764967649/35321968/index-f1-v1-a1.m3u8
-https://dintezuvio.com/stream/oKi3-MvIOTOnaxnamDJquA/hjkrhuihghfvu/1764967649/35321968/master.m3u8
+#EXTVLCOPT:http-referrer=https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvVDRILWcyUS1RZDgtZ2VxL21hc3Rlci5tM3U4
+https://hls-bekop.layarwibu.com/drive/hls/T4H-g2Q-Qd8-geq/1920x1080.m3u8
+https://hls-bekop.layarwibu.com/drive/hls/T4H-g2Q-Qd8-geq/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.carolinescomedyschool.com/wp-content/uploads/2025/12/kJnd51QG9VEqHGzaCY4FVznhI1v-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Believe The Ultimate Battle (2025) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://dintezuvio.com/embed/4dmblaps6vrp
 https://dintezuvio.com/stream/KMdOreQlI9HB3ejixo545g/hjkrhuihghfvu/1764967954/35304813/index-f1-v1-a1.m3u8
 https://dintezuvio.com/stream/KMdOreQlI9HB3ejixo545g/hjkrhuihghfvu/1764967954/35304813/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://filmupdate.site/wp-content/uploads/2025/11/9CcoGiWNxOKDxc1L0NmyytjHPdH-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Assalamualaikum Baitullah (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://dintezuvio.com/embed/0yklv27v764h
+https://dintezuvio.com/stream/_rA73lMEkzKlP6lLtyzH0w/hjkrhuihghfvu/1764968910/35069265/index-v1-a1.m3u8
+https://dintezuvio.com/stream/_rA73lMEkzKlP6lLtyzH0w/hjkrhuihghfvu/1764968910/35069265/master.m3u8
 
 =================================================
 
