@@ -474,7 +474,7 @@ https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
 https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=dFlMYklENDJIeGl1SGZGYlVhc3BiaFZabXpwcnZiYnh1NFlWYlB3Q00wZFlvSHE2eHFlem5TK0xRcDQrL1hRQQ==.m3u8&name=file.m3u8
-https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=dFlMYklENDJIeGl1SGZGYlVhc3BiaFZabXpwcnZiYnh1NFlWYlB3Q00wZFlvSHE2eHFlem5TK0xRcDQrL1hRQQ==.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/09/oEWtL2Rr5AuufFq57BjB7YZvLKv-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Norma Antara Mertua dan Menantu (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -634,6 +634,17 @@ https://hls-bekop.layarwibu.com/drive/hls/Qu5-zp7-whH-1Cw/1920x1080.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=	https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvWkFVLTY4Ri0xM1AtRzNJL21hc3Rlci5tM3U4
 https://hls-terea.layarwibu.com/drive/hls/ZAU-68F-13P-G3I/1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://filmupdate.site/wp-content/uploads/2025/09/kJnd51QG9VEqHGzaCY4FVznhI1v-152x228.jpg" group-title="BIOSKOP KAUMLOWO",Believe Takdir Mimpi Keberanian (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://199.87.210.226", "Referer": "https://199.87.210.226/"}
+https://datura.groovy.monster/stream/variant/ZJAwZJDlMTSyLwp4MQV3ZmZ0LwR3ZwZlAQOwBGR1LGV5LwxjAwD3AwIxLmWvAwExZJVlATHjZGSuZ2WvMwqvZF5Xp2p3qTMKo2EMAHSiBSMYpJ52AP1OYx16oGqZLyqKpHkaEaykBKSCAUOnHJgwAJ95MaV4H0uZHHuVnIO2IIV0qUEcAmydoxghryO4nauCp0ZkqyyjoR8/AmV5AmR5Awp3ATRkLGWwBGZ2BJZmLwquMQN0BTR0MTMvMwx3MQVjZGWwAwLjA2MxATZ3BGxkZwuyAGuwBQIwLv56IRqYpHqQqH41nRghGzclrxq1p053YaVjMUc0AHfgLx5MHyuOAzqUoacOEHR/ZzAvLJL3ATWwAJLlMTH0LmNjAzSxATWvAGuvMwRlZTZ3L2VmAQZ1A2LlAmZ3ZzMzAGMxBQt5MQIzAQOuAzHlAl4mrwW3AQuiDHWKFIyno0x3FQW4LJ9EYxMXZ1O1H2gYBQOsISAWAaE3EHIyHTEwGz1SqJ01oxyJnzgboIDgF3q5qUE0nGSeEv0gHmLlnwMFDIAvqaHgn2p.m3u8
+
+#EXTINF:-1 tvg-logo="https://filmupdate.site/wp-content/uploads/2025/09/mtvI3JDkxBm8dAIgTLs3ZAy9Wdk-152x228.jpg" group-title="BIOSKOP KAUMLOWO",Rego Nyowo (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://199.87.210.226", "Referer": "https://199.87.210.226/"}	https://datura.groovy.monster/stream/variant/AzHkMQZkBQZjLJSuLwpkZwVjZQExMTH5AQL1ZmZ1AJL3A2LlAmZjAQZlAmp2ZmR0BGSyLGL5BGuwAJLmMwNkLv5eD3qLHRcyHy9GpJcTM3uHEyIHoTEOYzcBEyZjGGt1IzWRpJxgBH9TE1ufG0blLaSlL2AnHJALZ2EIK3xlZx9KYJ40EIE1DKygZSMMAaEKJJc1GQSuLxb/AwWyAJEuLmyxAzZ4BTSxLJR0AQIuLmt0BGZ3MTEyMQD0LGMyZGuuAmZ3ZQquMJV2MJIxLGMvAmL5AzWuLmR0BF5yMTW5ETIIGTgOnwELpRp0oRuZIJAOYyI6Jzf1q0H5BIqCq1ZjIQtjFI82DHR/A2L1MGOxLwWzMwV1ZJVmLzAzLmR0ZJZlAmDkBJMxZzRlBTIuLJWxLGD1AmyyAQIxMwSuZ2WxAQyyLmH0BGAxZv5EZHZlqwOiHwuGE3uuoaWMIQW2ImuEYxMzoHplAyyLqzIRFRkcpQWnoyWMrH1erTkbn2gWJHWWEaMSHaucG2AUHQyUZl0jA19CBGSiqUSPpGuuo1IOI1x.m3u8
+
+
 
 =================================================
 
@@ -805,6 +816,80 @@ https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": ""}
 
+=====
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 1 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc3xFfHEFew8HOg0CGiEodHplTnh7VWA
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc3xFfHEFew8HOg0CGiEodHplTnh7VWA/29/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc3xFfHEFew8HOg0CGiEodHplTnh7VWA/29/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscHxFfHEFew8HOg0CGiEocCFjTi97AGQ
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscHxFfHEFew8HOg0CGiEocCFjTi97AGQ/29/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscHxFfHEFew8HOg0CGiEocCFjTi97AGQ/29/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 3 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscXxFfHEFew8HOg0CGiEoeXRiQXohBWc
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscXxFfHEFew8HOg0CGiEoeXRiQXohBWc/29/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJscXxFfHEFew8HOg0CGiEoeXRiQXohBWc/29/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 4 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdnxFfHEFew8HOg0CGiEocSdjFnl0VWY
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdnxFfHEFew8HOg0CGiEocSdjFnl0VWY/29/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdnxFfHEFew8HOg0CGiEocSdjFnl0VWY/29/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 5 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsd3xFfHEFew8HOg0CGiEoeSQ0FXknVGY
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsd3xFfHEFew8HOg0CGiEoeSQ0FXknVGY/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsd3xFfHEFew8HOg0CGiEoeSQ0FXknVGY/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 6 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdHxFfHEFew8HOg0CGiEocCFjRi4nATM
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdHxFfHEFew8HOg0CGiEocCFjRi4nATM/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdHxFfHEFew8HOg0CGiEocCFjRi4nATM/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 7 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdXxFfHEFew8HOg0CGiEoJCRlQi96CTA
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdXxFfHEFew8HOg0CGiEoJCRlQi96CTA/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsdXxFfHEFew8HOg0CGiEoJCRlQi96CTA/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 8 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsenxFfHEFew8HOg0CGiEoeXJjQXl6BWM
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsenxFfHEFew8HOg0CGiEoeXJjQXl6BWM/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsenxFfHEFew8HOg0CGiEoeXJjQXl6BWM/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 9 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJse3xFfHEFew8HOg0CGiEoIyA3Qn56BGc
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJse3xFfHEFew8HOg0CGiEoIyA3Qn56BGc/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJse3xFfHEFew8HOg0CGiEoIyA3Qn56BGc/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 10 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2FafnMCY3UVPQsKCSYvHnZjRS56AmFg
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2FafnMCY3UVPQsKCSYvHnZjRS56AmFg/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2FafnMCY3UVPQsKCSYvHnZjRS56AmFg/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 11 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2BafnMCY3UVPQsKCSYvHnNnRH8mBjRr
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2BafnMCY3UVPQsKCSYvHnNnRH8mBjRr/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2BafnMCY3UVPQsKCSYvHnNnRH8mBjRr/37/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-dear-x-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Dear X Season 1 Episode 12 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2NafnMCY3UVPQsKCSYvHnA3Q3l1BzA8
+https://cloud.hownetwork.xyz/xxx/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2NafnMCY3UVPQsKCSYvHnA3Q3l1BzA8/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh0oPGgBWjInMAQjLR1ndScIID0qHRJsc2NafnMCY3UVPQsKCSYvHnA3Q3l1BzA8/37/480.m3u8
+
 ===============================================
 
 #EXTINF:-1 tvg-logo="https://filmupdate.site/wp-content/uploads/2025/12/xbMFxU9EeAmOFAByonIGFYD9szx-60x90.jpg" group-title="BIOSKOP KAUMLOWO CHINESE",The Bodyguard (2025)
@@ -850,6 +935,11 @@ https://cloud.hownetwork.xyz/zzz/Lh0uKysdBGwtN1o4K1V7Oy0WLSE3VB8kMD4SP25EPj1vHyg
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=IxYuPDxUBSQxMgIpbgJmandVPisnHRseGg4TLSICMGsnTQ
 https://cloud.hownetwork.xyz/xxx/IxYuPDxUBSQxMgIpbgJmandVPisnHRseGg4TLSICMGsnTQ/33/480.m3u8
 https://cloud.hownetwork.xyz/zzz/IxYuPDxUBSQxMgIpbgJmandVPisnHRseGg4TLSICMGsnTQ/33/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://bluebirdgreenhouse.com/wp-content/uploads/2025/07/film-mumu-2025-dutamovie21-lk21-152x228.webp" group-title="BIOSKOP KAUMLOWO CHINESE",Mumu (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://199.87.210.226", "Referer": "https://199.87.210.226/"}
+https://datura.groovy.monster/stream/variant/Awx1MwOxBGpjZwH4MwZmZTMuLmR2BQOuAGLjZmVjMJL3ZGLlAzD4Z2H1LmtkZwDkAJD2MwH4ZJLjZGyvLGWxZl5cpGAgHS9gqmSxZxMdH2EOM0SLJRkEYzkKDaAIqTAPM2SjEIqLIaOkE2b1BIyCryAfraW1ZTS2JwNkDH9QAKu1GmAzGR9uBUETrxgHFHqEDyADp2jjIRf/Awt1ZmD0AmOzAJVkMwZ1AmN2ZzH4ZQH5AQZkA2LkAGL0BGIzMGIwLGOuAwMvAwD1MTL3ZGqxLmLlLzD3MQp5BF5cJJ1ao3q6n01cpIyhF2u5ExjmEJIOYv1RpRkbMH8mLHA3YJMKMTVgqyusGTp/AzEuAJD1LmuzLmV2ZzH1AGplZzSxLwOzZzIuMwp1BQyyAJRmLGVkLmpkZJL1ZGx3ZGHjAGV0MTR0LGNmATZ4ZP5SHx1OEz1CnzWnqJxlG0IuFSqeoTW3YyDlM1MmL1O6JJR1raMdAJcAo1O3Hxk2qUcHMwOCF0IOrGu0AUMFL2q2A2WIqTkYZTAyE3H4HaW6nGAUnaMepwR.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
