@@ -399,6 +399,139 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="Quran ALKARIM ☪️", Juz 30 mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
+
+=================================>music<===============================
+
+#EXTINF:-1 tvg-id="INBC28000122W" tvg-name="9XM" tvg-logo="https://cdn4.mbahnunungonline.net/img/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9X Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://cdn4.mbahnunungonline.net/img/UelxJ7N.png?v=1.0.0.1" group-title="Music", Citra Dangdut 🟢
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music", K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="Maleo Channel" tvg-name="Maleo Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="Music", MIC
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://iili.io/JZIQ7Np.png" group-title="Music", MTV 90s 🟢
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1c47039932145ee82ffd5ba663fdf3f:b11a040f74a5e81b06b5f771cf1f7567
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://iili.io/JZIQ7Np.png" group-title="Music", MTV 90s 🔵
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd
+https://poc-cdn-flr.visionplus.id/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="Music", MTV Live 🟢
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92acc43956cf494fb989d30fe087364f:73bb4869e9f1e2cb9995ee225dda4b7a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="Music", MTV Live 🔵
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd
+https://poc-cdn-flr.visionplus.id/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="https://iili.io/JmnyccQ.png" group-title="Music", Music TV 🔵
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-name="Musik Indonesia" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="Music", Musik Indonesia 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" group-title="Music", New Kpop
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+
+#EXTINF:-1 tvg-id="POP Musik" tvg-name="POP Musik" tvg-logo="https://cdn4.mbahnunungonline.net/img/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-logo="https://cdn4.mbahnunungonline.net/img/eR3W6Vt.png?v=1.0.0.1" group-title="Music", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE106Pro7.png" group-title="Music",1mus
+#KODIPROP:inputstream.adaptive.stream_headers=referer=http://hz1.teleport.cc/HD.html//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_70s.png?raw=true" group-title="Music",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_80s.png?raw=true" group-title="Music",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/NOW_90s.png?raw=true" group-title="Music",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png" group-title="Music", Vevo '80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" group-title="Music", Vevo '90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" group-title="Music", Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="Music", Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241228T011432SQUARE.png" group-title="Music", Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20241112T001858SQUARE.png" group-title="Music", Vevo Pop
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png" group-title="Music", Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="Music", XITE 80s Flashback
+https://jmp2.uk/sam-USBB320000647.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="Music", XITE 90s Throwback
+https://jmp2.uk/sam-USBB3200007AK.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="Music", XITE Celebrates
+https://jmp2.uk/sam-USBD350003932.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="Music", XITE Hits
+ https://jmp2.uk/sam-USBD3300004RH.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music", XITE Rock x Metal
+https://jmp2.uk/sam-USBB2300004KV.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Clubland" tvg-logo="https://imgur.com/Ht9w3sL.png" group-title="Music",Clubland
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197575&extension=m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccb6b2930335ccf1de362b2dcfa53882:49854b26f0857b9eb491516793ac56b5
+#EXTINF:-1 tvg-id="kronehit1-x" tvg-name="KRONEHIT TV" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="Music",KRONEHIT TV
+https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd 
+
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="Music",M.net UHD
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
 ====================================BIOSKOP KAUMLOWO=======================================
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Jurassic World Rebirth (2025)
@@ -703,16 +836,17 @@ https://cloud.hownetwork.xyz/zzz/MRclIWgVEjcnPR4iJB0kPSMPKCUgFx4vJXxFfHEEew8HOg0
 https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=cmtkeitSeVRqTkRXT3FPUDE0VkYzMkRPbS9TdkxZRVNEQWVZQjRqdXl5TGRWaVdKb3RQVmtZd2ZXd2lhQ3ZvZg==.m3u8&name=file.m3u8
 https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=cmtkeitSeVRqTkRXT3FPUDE0VkYzMkRPbS9TdkxZRVNEQWVZQjRqdXl5TGRWaVdKb3RQVmtZd2ZXd2lhQ3ZvZg==.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO ANIMATION",
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-detective-conan-one-eyed-flashback-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO ANIMATION",Detective Conan One-Eyed Flashback (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": ""}
+#EXTHTTP:{"Host": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=Jh09KyYNHjcnfBQjLVE4dS0WLGMgABIlbzcbLTBYNDkhE2R8dUtCbBUUNQgPbw4HchoofCQYQiM"}
+https://cloud.hownetwork.xyz/xxx/Jh09KyYNHjcnfBQjLVE4dS0WLGMgABIlbzcbLTBYNDkhE2R8dUtCbBUUNQgPbw4HchoofCQYQiM/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/Jh09KyYNHjcnfBQjLVE4dS0WLGMgABIlbzcbLTBYNDkhE2R8dUtCbBUUNQgPbw4HchoofCQYQiM/37/480.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO ANIMATION",
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-kamen-rider-amazons-reincarnation-2018-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO ANIMATION",Kamen Rider Amazons Reincarnation (2018)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": ""}
-
-
+#EXTHTTP:{"Host": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=KRkkKytUBSgmNAVhIl03Ii0WOmM3HB4vITAFIiJEPzcsVXt-dEFaFgcTMwAcaAk8dkF9f3ZLRw"}
+https://cloud.hownetwork.xyz/xxx/KRkkKytUBSgmNAVhIl03Ii0WOmM3HB4vITAFIiJEPzcsVXt-dEFaFgcTMwAcaAk8dkF9f3ZLRw/37/480.m3u8
+https://cloud.hownetwork.xyz/zzz/KRkkKytUBSgmNAVhIl03Ii0WOmM3HB4vITAFIiJEPzcsVXt-dEFaFgcTMwAcaAk8dkF9f3ZLRw/37/480.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO ANIMATION",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
