@@ -60,18 +60,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:-1 group-title="INDONESIA IPTV 🇮🇩" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 group-title="INDONESIA IPTV 🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png",tvOne (Dens)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://iili.io/JV3xDo7.png" group-title="INDONESIA IPTV 🇮🇩", TVOne (v+)
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-
 #EXTINF:-1 tvg-id="24" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUvjGJuQr4iX_T6xiHIKNQmxNy_Sl4Tc8Ns7qgp6SxRr3xCh1aTiS-H0gPLsLTFQMAGGrdse86IuX1VPhdu5scP4c5GFh0AmE9CD3vUlz5DlVM6-Kl3OSM_c8YON3NFnYLKCjE0JNHZeirShyVVjX9bmdRRU2eDUoKZ6s942Mwk8ZUJQVqVbfLIKgmq2S/s700/SINDO%20NEWS%20TV.png" group-title="INDONESIA IPTV 🇮🇩",SINDONEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
@@ -729,26 +717,6 @@ https://hls-terea.layarwibu.com/drive/hls/ZAU-68F-13P-G3I/1920x1080.m3u8
 #EXTHTTP:{"Origin": "https://199.87.210.226", "Referer": "https://199.87.210.226/"}
 https://datura.groovy.monster/stream/variant/ZJAwZJDlMTSyLwp4MQV3ZmZ0LwR3ZwZlAQOwBGR1LGV5LwxjAwD3AwIxLmWvAwExZJVlATHjZGSuZ2WvMwqvZF5Xp2p3qTMKo2EMAHSiBSMYpJ52AP1OYx16oGqZLyqKpHkaEaykBKSCAUOnHJgwAJ95MaV4H0uZHHuVnIO2IIV0qUEcAmydoxghryO4nauCp0ZkqyyjoR8/AmV5AmR5Awp3ATRkLGWwBGZ2BJZmLwquMQN0BTR0MTMvMwx3MQVjZGWwAwLjA2MxATZ3BGxkZwuyAGuwBQIwLv56IRqYpHqQqH41nRghGzclrxq1p053YaVjMUc0AHfgLx5MHyuOAzqUoacOEHR/ZzAvLJL3ATWwAJLlMTH0LmNjAzSxATWvAGuvMwRlZTZ3L2VmAQZ1A2LlAmZ3ZzMzAGMxBQt5MQIzAQOuAzHlAl4mrwW3AQuiDHWKFIyno0x3FQW4LJ9EYxMXZ1O1H2gYBQOsISAWAaE3EHIyHTEwGz1SqJ01oxyJnzgboIDgF3q5qUE0nGSeEv0gHmLlnwMFDIAvqaHgn2p.m3u8
 
-#EXTINF:-1 tvg-logo="https://filmupdate.site/wp-content/uploads/2025/09/mtvI3JDkxBm8dAIgTLs3ZAy9Wdk-152x228.jpg" group-title="BIOSKOP KAUMLOWO",Rego Nyowo (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://199.87.210.226", "Referer": "https://199.87.210.226/"}	https://datura.groovy.monster/stream/variant/AzHkMQZkBQZjLJSuLwpkZwVjZQExMTH5AQL1ZmZ1AJL3A2LlAmZjAQZlAmp2ZmR0BGSyLGL5BGuwAJLmMwNkLv5eD3qLHRcyHy9GpJcTM3uHEyIHoTEOYzcBEyZjGGt1IzWRpJxgBH9TE1ufG0blLaSlL2AnHJALZ2EIK3xlZx9KYJ40EIE1DKygZSMMAaEKJJc1GQSuLxb/AwWyAJEuLmyxAzZ4BTSxLJR0AQIuLmt0BGZ3MTEyMQD0LGMyZGuuAmZ3ZQquMJV2MJIxLGMvAmL5AzWuLmR0BF5yMTW5ETIIGTgOnwELpRp0oRuZIJAOYyI6Jzf1q0H5BIqCq1ZjIQtjFI82DHR/A2L1MGOxLwWzMwV1ZJVmLzAzLmR0ZJZlAmDkBJMxZzRlBTIuLJWxLGD1AmyyAQIxMwSuZ2WxAQyyLmH0BGAxZv5EZHZlqwOiHwuGE3uuoaWMIQW2ImuEYxMzoHplAyyLqzIRFRkcpQWnoyWMrH1erTkbn2gWJHWWEaMSHaucG2AUHQyUZl0jA19CBGSiqUSPpGuuo1IOI1x.m3u8
-
-EXTINF:-1 tvg-logo="https://1x.jalanmaxwin.site/wp-content/uploads/2025/12/lwKD20JbeZAX4BswSlWKpmB8Qke-2-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Lone Samurai (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA"}
-https://cloud.hownetwork.xyz/xxx/LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA/37/480.m3u8
-https://cloud.hownetwork.xyz/zzz/LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA/37/480.m3u8
-
-EXTINF:-1 tvg-logo="https://1x.jalanmaxwin.site/wp-content/uploads/2025/12/lIzPEsUeTmYpVj9bgeZoFskXBa6-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Gak Nyangka..!! (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:#EXTHTTP:{"Origin": "https://hls-terea.layarwibu.com", "Referer": "https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvWk5BLTFWaS1BY1MtVGZGL21hc3Rlci5tM3U4"}
-https://hls-terea.layarwibu.com/drive/hls/ZNA-1Vi-AcS-TfF/1920x1080.m3u8
-
-EXTINF:-1 tvg-logo="https://1x.jalanmaxwin.site/wp-content/uploads/2025/12/oD3Eey4e4Z259XLm3eD3WGcoJAh-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Now You See Me Now You Don’t (2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=LBc-YzwWAmwxNBJhLlV7Ni0PZDcqDFolLT8DYXEAZG1vLwwMATUoGR1pR3p7UTJrdw"}
-https://cloud.hownetwork.xyz/xxx/LBc-YzwWAmwxNBJhLlV7Ni0PZDcqDFolLT8DYXEAZG1vLwwMATUoGR1pR3p7UTJrdw/37/480.m3u8
-https://cloud.hownetwork.xyz/zzz/LBc-YzwWAmwxNBJhLlV7Ni0PZDcqDFolLT8DYXEAZG1vLwwMATUoGR1pR3p7UTJrdw/37/480.m3u8
 
 
 
