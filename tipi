@@ -14,7 +14,7 @@ https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/640x360/LiR8Y6e1gI4MiRkD.m3u8
 https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/mp4a/64000/gsy32WdZVfdpXawP.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDATE 18 DESEMBER 2025
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDATE 27 DESEMBER 2025
 https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",CCTV45 (LOCAL ONLY)
@@ -280,7 +280,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-logo="https://iili.io/JjzVLl9.png" group-title="☆SPORT+☆", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|referer=https://klik.tvri.go.id/&user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="INDONESIA IPTV 🇮🇩",Soccer Channel V+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="☆SPORT+☆",Soccer Channel V+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -765,6 +765,18 @@ https://cloud.hownetwork.xyz/zzz/Iw4oOiQLWicrIxJhIkM-dXBIe3toMTMCAxwoFBwCYmh3HHx
 https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/1920x1080.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/1920x1080_000.ts
+
+#EXTINF:-1 tvg-logo="https://2x.jalanmaxwin.site/wp-content/uploads/2025/12/aSdz96UFl108rxhkjGaMWMHMXIO-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Leak 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://hls-bekop.layarwibu.com", "Referer": "https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvalFaLTJwdC1HY2stdENsL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/jQZ-2pt-Gck-tCl/1920x1080.m3u8
+https://hls-bekop.layarwibu.com/drive/hls/jQZ-2pt-Gck-tCl/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://2x.jalanmaxwin.site/wp-content/uploads/2025/12/lIzPEsUeTmYpVj9bgeZoFskXBa6-60x90.jpg" group-title="BIOSKOP KAUMLOWO",Gak Nyangka..!! (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://hls-bekop.layarwibu.com", "Referer": "https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvU2ZkLXpKcy1mT1gtWXBLL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/1920x1080.m3u8
+https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/master.m3u8
 
 =================================================
 
