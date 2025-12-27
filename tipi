@@ -778,6 +778,12 @@ https://hls-bekop.layarwibu.com/drive/hls/jQZ-2pt-Gck-tCl/master.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/1920x1080.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.com/wp-content/uploads/2025/12/8cYve5muYPeWKvSEfFdkmWDyyDa-60x90.jpg" group-title="BIOSKOP KAUMLOWO",The Girlfriend (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/t/6945a604e729d"}
+https://cdn2.turboviplay.com/data5/6945a604e729d/6945a604e729d.m3u8
+https://c20.turbosplayer.com/file/05a21efd-e4cb-4cad-b1f7-ae39c573378a/master.m3u8
+
 =================================================
 
 
