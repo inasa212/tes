@@ -1255,9 +1255,12 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_sgnep6z9&password=dBlA1nxq&v
 #EXTINF:-1 tvg-id="Bidaah" tvg-name="" tvg-logo="https://prod-images.viu.com/3398989627/54256e9c8c3f9e5baebdc460a95ae48609122826" group-title="● Series VIU", 98-Ep15 Bidaah (Alternate Ending)
 https://get.perfecttv.net/get_viu.m3u8?username=vip_sgnep6z9&password=dBlA1nxq&video_id=1166243292&quality=s240p&product_id=2609507&lang=ms
 
+=========================================================================
 
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Kol. Sugiono Arah Selatan – Satsui Tubun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=530731075384566382488335
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530731075384566382488335_adaptive.m3u8
 
 
 
