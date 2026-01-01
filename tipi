@@ -1262,6 +1262,167 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_sgnep6z9&password=dBlA1nxq&v
 #EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=530731075384566382488335
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530731075384566382488335.m3u8?token=null
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀", Jl. Kol Sugiono Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=665273809084361627599583
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/665273809084361627599583.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀", Jl. S. Supriadi Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=077782103576869531500342
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077782103576869531500342.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀", Jl. Terusan Dieng Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=077636403437244032401245
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077636403437244032401245.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Langsep Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=448993781462444492103703
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/448993781462444492103703.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Mergan Lori Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=473307088033186544380122
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/473307088033186544380122.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Jupri Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=425250660135490708615779
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/425250660135490708615779.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Halmahera Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=836708782306919156448722
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/836708782306919156448722.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=456402990956810340846657
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/456402990956810340846657.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Janti Barat Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=292570058740218968707392
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=292570058740218968707392
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Kol Sugiono Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=292570058740218968707392
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Kol Sugiono Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=639503580415824340703855
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639503580415824340703855.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriyadi (Arah Klayatan III)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=045410553225288501472916
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/045410553225288501472916.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=721240097001535400904802
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/721240097001535400904802.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Kepuh Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=310071097451018441141169
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/310071097451018441141169.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Raya Kepuh Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=143404714352658300023454
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/143404714352658300023454.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. S. Supriadi Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=336686011348989661063244
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/336686011348989661063244.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Satsui Tubun Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=215178419587511478247119
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Gadang Pasar Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=292570058740218968707392
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Gadang Pasar Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=665273809084361627599583
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/665273809084361627599583.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Mergan Lori Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=473307088033186544380122
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/473307088033186544380122.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",Jl. Gadang Pasar Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=665273809084361627599583
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/665273809084361627599583.m3u8?token=null
+
+========================================
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
