@@ -1374,18 +1374,277 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/665273809084361627599583.m
 
 ========================================
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Soekarno Hatta Arah Timur – Monumen Pesawat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=682516686812038046706085
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/682516686812038046706085.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/682516686812038046706085.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Soekarno Hatta Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=227920422769509645238654
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Soekarno Hatta Arah Utara – Jembatan Soekarno Hatta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=003687850006099691498995
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/003687850006099691498995.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Gajayana Arah Selatan (Sardo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=385150101635081489243344
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Gajayana Arah Utara (Sardo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=455597782591873967365987
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=963661947392775741127849
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sumber Sari Arah Utara – JL Veteran (Depan Universitas Brawijaya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=639466428930627267991858
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sarangan Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=	http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=997694327434970434059156
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/997694327434970434059156.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/997694327434970434059156.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl MT Haryono Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=446907421280943044413749
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/446907421280943044413749.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/446907421280943044413749.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Barat ( Hotel Rayz UMM )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=764851199443964636246450
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/764851199443964636246450.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/764851199443964636246450.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Barat ( Terminal Landungsari )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=572534477246123479166921
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/572534477246123479166921.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/572534477246123479166921.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Timur ( Pom UMM )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=963661947392775741127849
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/963661947392775741127849.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Barat ( MAN 1 Kota Malang )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=318197263503692449077822
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/318197263503692449077822.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/318197263503692449077822.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Tlogomas Arah Timur ( MAN 1 Kota Malang )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=704720868465795037095760
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/704720868465795037095760.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/704720868465795037095760.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sudimoro Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=889793263483161081015834
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889793263483161081015834.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889793263483161081015834.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Gajayana Arah Utara (Sardo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=385150101635081489243344
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Gajayana Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=715337494726392556880466
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/715337494726392556880466.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/715337494726392556880466.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Gajayana Arah Selatan (Sardo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=455597782591873967365987
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Cengger Ayam Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=289833992881029327755836
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/289833992881029327755836.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/289833992881029327755836.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Kalpataru Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=553368650971977610920123
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/553368650971977610920123.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/553368650971977610920123.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Kedawung Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=032716732487147302736608
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/032716732487147302736608.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/032716732487147302736608.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Melati Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=006104464277312024187785
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006104464277312024187785.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/006104464277312024187785.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. MT. Haryono Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=373865942595202639251772
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/373865942595202639251772.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/373865942595202639251772.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Panjaitan Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=673512185163543498056968
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/673512185163543498056968.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/673512185163543498056968.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sumber Sari Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=639466428930627267991858
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/639466428930627267991858.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", JL. Veteran Arah Timur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=636589114401733445781917
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Bendungan Sutami Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=386132036661026320418844
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/386132036661026320418844.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/386132036661026320418844.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sigura-Gura Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=967823448439028638648911
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/967823448439028638648911.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/967823448439028638648911.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Sarangan Arah Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=608341519678952535574036
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/608341519678952535574036.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/608341519678952535574036.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Letjend Sutoyo Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=274808309434970115761531
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/274808309434970115761531.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/274808309434970115761531.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Soekarno Hatta Arah Utara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=490076087057536757601215
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀", Jl. Soekarno Hatta Arah Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=http://stream.cctv.malangkota.go.id/WebRTCApp/play.html?name=227920422769509645238654
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8
+
+===============================================
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV SUKUN 👀",
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FX_hlTXaQAAo1vR?format=jpg&name=medium" group-title="CCTV LOWOKWARU 👀",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
 
 
 
