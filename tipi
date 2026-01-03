@@ -778,6 +778,13 @@ https://hls-bekop.layarwibu.com/drive/hls/jQZ-2pt-Gck-tCl/master.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/1920x1080.m3u8
 https://hls-bekop.layarwibu.com/drive/hls/Sfd-zJs-fOX-YpK/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://2x.jalanmaxwin.site/wp-content/uploads/2025/12/lIzPEsUeTmYpVj9bgeZoFskXBa6-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Gak Nyangka..!! (2025)-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://dumbalag.com", "Referer": "https://dumbalag.com/e/qwkvv2vnx9kj"}
+https://dumbalag.com/stream/NEKa50xrOUsuBw1VtNL80g/kjhhiuahiuhgihdf/1767443185/66108189/index-v1-a1.m3u8
+https://dumbalag.com/stream/NEKa50xrOUsuBw1VtNL80g/kjhhiuahiuhgihdf/1767443185/66108189/master.m3u8
+https://callistanise.com/stream/8UVDoLW4yVk-RDfiEeVqvw/hjkrhuihghfvu/1767443330/35480369/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.com/wp-content/uploads/2025/12/8cYve5muYPeWKvSEfFdkmWDyyDa-60x90.jpg" group-title="BIOSKOP KAUMLOWO",The Girlfriend (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": "https://turbovidhls.com/t/6945a604e729d"}
