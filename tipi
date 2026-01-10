@@ -910,6 +910,11 @@ https://cloud.hownetwork.xyz/zzz/Oxc8PGgVEjU2NAVhcQBkbW8vDAwBNSgZHTRCL3YIbjtx/37
 https://cloud.hownetwork.xyz/xxx/93e30c3871ae8ecc2de8b75481e47f34/7/480.m3u8
 https://cloud.hownetwork.xyz/zzz/93e30c3871ae8ecc2de8b75481e47f34/7/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://3x.jalanmaxwin.site/wp-content/uploads/2026/01/7Eq5mcSKVXBhclnaFNA4880mqOX-60x90.jpg" group-title="BIOSKOP KAUMLOWO ANIMATION", Panji Tengkorak (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://hls-terea.layarwibu.com", "Referer": "https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvM1JRLWZUUi01dDYtTUh2L21hc3Rlci5tM3U4"}
+https://hls-terea.layarwibu.com/drive/hls/3RQ-fTR-5t6-MHv/1920x1080.m3u8
+
 ==============================KOREA========================
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-murderer-report-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA",Murderer Report (2025)
