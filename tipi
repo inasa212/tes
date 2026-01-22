@@ -610,19 +610,19 @@ https://hls-terea.layarwibu.com/drive/hls/PkT-A07-IPt-DPO/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-lone-samurai-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO",Lone Samurai (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA"}
+#EXTHTTP:#EXTHTTP:http-referrer=https://cloud.hownetwork.xyz/video.php?id=LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA
 https://cloud.hownetwork.xyz/xxx/LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA/37/480.m3u8
 https://cloud.hownetwork.xyz/zzz/LhcnK2gKFiw3IxYlbgJmandVHgsHPTseGg5BeXIFYDxzQA/37/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-shoguns-ninja-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO",Shogun's Ninja (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MRAmKTAXBGwsOBkmIh1kaHBNZBkAOzMNHQkofnQBNW9yGSw"}
+#EXTHTTP:#EXTHTTP:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MRAmKTAXBGwsOBkmIh1kaHBNZBkAOzMNHQkofnQBNW9yGSw
 https://cloud.hownetwork.xyz/xxx/MRAmKTAXBGwsOBkmIh1kaHBNZBkAOzMNHQkofnQBNW9yGSw/38/480.m3u8
 https://cloud.hownetwork.xyz/zzz/MRAmKTAXBGwsOBkmIh1kaHBNZBkAOzMNHQkofnQBNW9yGSw/38/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-avatar-fire-ash-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO",Avatar Fire and Ash (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=Iw4oOiQLWicrIxJhIkM-dXBIe3toMTMCAxwoFBwCYmh3HHx4IA"}
+#EXTHTTP:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Iw4oOiQLWicrIxJhIkM-dXBIe3toMTMCAxwoFBwCYmh3HHx4IA
 https://cloud.hownetwork.xyz/xxx/Iw4oOiQLWicrIxJhIkM-dXBIe3toMTMCAxwoFBwCYmh3HHx4IA/37/480.m3u8
 https://cloud.hownetwork.xyz/zzz/Iw4oOiQLWicrIxJhIkM-dXBIe3toMTMCAxwoFBwCYmh3HHx4IA/37/480.m3u8
 
@@ -640,7 +640,7 @@ https://cdn2.turboviplay.com/data5/69541456cff38/69541456cff38.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-hunting-jessica-brok-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Hunting Jessica Brok (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=Kg0nOiwXEGwoNAQ_KlM3dSAKJiVoS0dzd3wgCQF0GgcaJyh7chgTeCZj"}
+#EXTHTTP:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Kg0nOiwXEGwoNAQ_KlM3dSAKJiVoS0dzd3wgCQF0GgcaJyh7chgTeCZj
 https://cloud.hownetwork.xyz/xxx/Kg0nOiwXEGwoNAQ_KlM3dSAKJiVoS0dzd3wgCQF0GgcaJyh7chgTeCZj/37/480.m3u8
 https://cloud.hownetwork.xyz/zzz/Kg0nOiwXEGwoNAQ_KlM3dSAKJiVoS0dzd3wgCQF0GgcaJyh7chgTeCZj/37/480.m3u8
 
@@ -694,8 +694,9 @@ https://cloud.hownetwork.xyz/zzz/JQosKysVFi8mfEVhLlkxKiMMICErVEVxcGdaBAdzFxUdIBZ
 
 #EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/01/cqbXxAw9sUr4tJ5ffEwtnz6IL9o-60x90.jpg" group-title="BIOSKOP KAUMLOWO", Killer Whale (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&idhls=Vy8zaDNLOVJlZnhLeFdRckZsQldoS2tmT3lESDRtRlpoNHY1WUd1MHZVaFZEUHpKcVQ4TE00azUyWXRuWHhlRQ==.m3u8
-
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=KRElIiALWjYqMBspbgJmanRVHgsHPTseGg4Te3tUZGxxQA
+https://cloud.hownetwork.xyz/xxx/KRElIiALWjYqMBspbgJmanRVHgsHPTseGg4Te3tUZGxxQA/38/480.m3u8
+https://cloud.hownetwork.xyz/zzz/KRElIiALWjYqMBspbgJmanRVHgsHPTseGg4Te3tUZGxxQA/38/480.m3u8
 
 =======================INDO==========================
 
