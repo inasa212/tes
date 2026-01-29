@@ -1025,17 +1025,23 @@ https://cloud.hownetwork.xyz/zzz/LxknOiwKWiApMFo_Il03PzURZHx1S0JsFRQ1CA9vDgchHXx
 https://cloud.hownetwork.xyz/xxx/JQosLzFUES0tPhNhcQBkbW8vDAwBNSgZHWlGL3dUZWlz/37/480.m3u8
 https://cloud.hownetwork.xyz/zzz/JQosLzFUES0tPhNhcQBkbW8vDAwBNSgZHWlGL3dUZWlz/37/480.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO KOREA",
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/09/film-beauty-inside-2018-lk21-d21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA", Beauty Inside - Season 1 Episode 1 (2018)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": ""}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=eead2c28780b07f95fac8c5f85bbf7d1
+https://cloud.hownetwork.xyz/xxx/eead2c28780b07f95fac8c5f85bbf7d1/17/480.m3u8
+https://cloud.hownetwork.xyz/zzz/eead2c28780b07f95fac8c5f85bbf7d1/17/480.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO KOREA",
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2022/09/film-beauty-inside-2018-lk21-d21.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA", Beauty Inside - Season 1 Episode 2 (2018)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": ""}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=2fb5fa41ebc6967a9aa7549c2c5c8b49
+https://cloud.hownetwork.xyz/xxx/2fb5fa41ebc6967a9aa7549c2c5c8b49/29/480.m3u8
+https://cloud.hownetwork.xyz/zzz/2fb5fa41ebc6967a9aa7549c2c5c8b49/29/480.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-the-beauty-inside-2015.jpg.webp" group-title="BIOSKOP KAUMLOWO KOREA", The Beauty Inside (Byuti insaideu) (2015)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=5b01b5406bee5b5123730428ea0b5371
+https://cloud.hownetwork.xyz/xxx/5b01b5406bee5b5123730428ea0b5371/8/480.m3u8
+https://cloud.hownetwork.xyz/zzz/5b01b5406bee5b5123730428ea0b5371/8/480.m3u8
 
 ===============================================
 
