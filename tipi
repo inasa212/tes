@@ -968,6 +968,16 @@ https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
 #EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMva3hQLWJBay1QTzgtVml5L21hc3Rlci5tM3U4
 https://hls-terea.layarwibu.com/drive/hls/kxP-bAk-PO8-Viy/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/02/yJB7HgP1vwabxYn9ZXrzVpRMyFr-60x90.jpg" group-title="BIOSKOP KAUMLOWO 🇮🇩", Pencarian terakhir (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
+https://gdriveplayer.to/hlsnew2.php?s=bk1DODNQWkxubmVzR3EvSysvMnlWOCszL1dXRWkyTmlHRjA1aFVWc2JkUT0=&type=360&id=aXdNKy95MXFUSytRaWV0QzNmR3hkU0pYVWQ4emEzaU1NbzdRMGdiTEFiYVpLSFp6MnZKVkxnSmRzNHpud0IwRw==.m3u8&name=file.m3u8
+
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/01/xIEDbEwWAeV7OpeYlJKmR1aPtwk-60x90.jpg" group-title="BIOSKOP KAUMLOWO 🇮🇩", Labinak | They Are Amongst Us (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
+https://gdriveplayer.to/hlsnew2.php?s=bk1DODNQWkxubmVzR3EvSysvMnlWOCszL1dXRWkyTmlHRjA1aFVWc2JkUT0=&type=360&id=aXdNKy95MXFUSytRaWV0QzNmR3hkU0pYVWQ4emEzaU1NbzdRMGdiTEFiYVpLSFp6MnZKVkxnSmRzNHpud0IwRw==.m3u8&name=file.m3u8
+
 ===============================ANIMASI========================
 
 
