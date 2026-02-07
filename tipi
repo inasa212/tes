@@ -712,6 +712,28 @@ https://cloud.hownetwork.xyz/xxx/NQosLS4QGSZvMgUpNB1kaHBOZBkAOzMNHQkoKHIBMzwjS38
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MQgsKyFUESAxJRI-bgJmanRVHgsHPTseGg4WfyAGMD10Tw
 https://cloud.hownetwork.xyz/xxx/MQgsKyFUESAxJRI-bgJmanRVHgsHPTseGg4WfyAGMD10Tw/38/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/01/cWsBscZzwu5brg9YjNkGewRUvJX-60x90.jpg" group-title="BIOSKOP KAUMLOWO", The Housemaid (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTHTTP:{"Origin": "https://turbovidhls.com", "Referer": ""}
+https://c10.turbosplayer.com/file/04b248e1-32f3-4d08-bf9e-a58828ee6197/master.m3u8
+https://cdn2.turboviplay.com/data5/6986ddfb63194/6986ddfb63194.m3u8
+
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/01/p4bW2sJKAwcHuLpfoZK7Zo63osA-60x90.jpg" group-title="BIOSKOP KAUMLOWO", The Rip (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "gdriveplayer.to/"}
+https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=MGY0K2FvY2xvRkR6bGJPQWl3R2R2QmFmc0YxZlZYL2ZUV0JmQSs1VXhmbVdoR0JvcmJnZCt3Y001QSsyaUZ3dQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-dust-bunny-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Dust Bunny (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jg06OmgbAi8sKFp-cwJjdRU9CwoJJi8ecGIWeyFRYTw
+https://cloud.hownetwork.xyz/xxx/Jg06OmgbAi8sKFp-cwJjdRU9CwoJJi8ecGIWeyFRYTw/38/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/02/film-shelter-2026-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Shelter (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MRAsIjEcBWxwYUV6bmcTGgY0FhYaTkUldGQWLiI
+https://cloud.hownetwork.xyz/xxx/MRAsIjEcBWxwYUV6bmcTGgY0FhYaTkUldGQWLiI/39/480.m3u8
+
+
 ============================NETFLIX=============================
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/01/film-back-in-action-2025-lk21-d21.jpg.webp" group-title="BIOSKOP NETFLIX | PRIME FEMALE ACTION", Back in Action (2025)
@@ -1188,6 +1210,11 @@ https://cloud.hownetwork.xyz/zzz/5b01b5406bee5b5123730428ea0b5371/8/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=ac6b51a9dc7dad9abdc6fecf00cc181e
 https://cloud.hownetwork.xyz/xxx/ac6b51a9dc7dad9abdc6fecf00cc181e/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://v2.pusatfilm21info.net/wp-content/uploads/2026/01/uhyhWRzgCSiVfY0Ighgz9ujP85T-60x90.jpg" group-title="BIOSKOP KAUMLOWO KOREA", Death Name (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
+https://gdriveplayer.to/hlsnew2.php?s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYVW44aGU0ZXEwQkk3NXg3ND0=&type=360&id=S213ODNwNkRLN1hndjg0YS9ROS9yZ2xWYU9MRW0rbWlOQXc5VDZ5WS9ST2tHbHFrdStNSVhpVFdkN1prU01lSQ==.m3u8&name=file.m3u8
 
 ===============================================
 
