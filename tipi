@@ -851,6 +851,21 @@ https://cloud.hownetwork.xyz/xxx/27ac0224ca00b35178b0db001c02fcfa/4/480.m3u8
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=5101e556f70d119c1010128ba8ca8e32
 https://cloud.hownetwork.xyz/xxx/5101e556f70d119c1010128ba8ca8e32/11/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-furie-hai-phuong-2019-lk21.jpg.webp" group-title="BIOSKOP NETFLIX | PRIME FEMALE ACTION", Furie (Hai Phuong) (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=847b5969392e842aa171b5e7264ae581
+https://cloud.hownetwork.xyz/xxx/847b5969392e842aa171b5e7264ae581/25/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/03/film-furies-2022-lk21-d21.jpg.webp" group-title="BIOSKOP NETFLIX | PRIME FEMALE ACTION", Furies (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=68f46cb18fb31382f46858592d6740c4
+https://cloud.hownetwork.xyz/xxx/68f46cb18fb31382f46858592d6740c4/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/05/film-maria-2019-lk21.jpg.webp" group-title="BIOSKOP NETFLIX | PRIME FEMALE ACTION", Maria (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=154d0b9af1819a64fe94f5138d82b508
+https://cloud.hownetwork.xyz/xxx/154d0b9af1819a64fe94f5138d82b508/22/480.m3u8
+
 =======================INDO==========================
 
 #EXTINF:-1 tvg-logo="https://3x.jalanmaxwin.site/wp-content/uploads/2026/01/4xK5I0SlVS1z7U4fdCbkcEjxDFA-60x90.jpg" group-title="BIOSKOP KAUMLOWO 🇮🇩", Andai Ibu Tidak Menikah Dengan Ayah (2025)
@@ -1363,6 +1378,11 @@ https://hls-terea.layarwibu.com/drive/hls/Njn-wdM-8FM-tyl/1920x1080.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvZ2NXLVVzZS10cVMtbmFFL21hc3Rlci5tM3U4
 https://hls-terea.layarwibu.com/drive/hls/gcW-Use-tqS-naE/1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/02/film-anaconda-1997.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Anaconda (1997)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=6951e3264e3202c1d56be7fa6017d88a
+https://cloud.hownetwork.xyz/xxx/6951e3264e3202c1d56be7fa6017d88a/1/480.m3u8
 
 #=========Gadis Masa VIU ===================
 
