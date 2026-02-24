@@ -733,6 +733,15 @@ https://cloud.hownetwork.xyz/xxx/Jg06OmgbAi8sKFp-cwJjdRU9CwoJJi8ecGIWeyFRYTw/38/
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MRAsIjEcBWxwYUV6bmcTGgY0FhYaTkUldGQWLiI
 https://cloud.hownetwork.xyz/xxx/MRAsIjEcBWxwYUV6bmcTGgY0FhYaTkUldGQWLiI/39/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s1.iix.llc/wp-content/uploads/2026/02/1GZaoYe0mQy211DgDSAxAXr30ul-152x228.jpg" group-title="BIOSKOP KAUMLOWO", One Mile (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMva3JhLUxIMy1NS1AtUnBCL21hc3Rlci5tM3U4
+https://hls-terea.layarwibu.com/drive/hls/kra-LH3-MKP-RpB/1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.iix.llc/wp-content/uploads/2026/02/3sjc9qXXmQoUWKQ3qIjS1nZaUJy-152x228.jpg" group-title="BIOSKOP KAUMLOWO", One Mile Chapter Two (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvVzFMLU5QNi03R3QtZXc0L21hc3Rlci5tM3U4
+https://hls-terea.layarwibu.com/drive/hls/W1L-NP6-7Gt-ew4/1920x1080.m3u8
 
 ============================NETFLIX=============================
 
@@ -949,7 +958,6 @@ https://gdriveplayer.to/hlsplaylist.php?&s=L3FRaVF0VFNzSUliYlJDak5CaitOSkgzQkhYV
 https://gdriveplayer.to/hlsnew2.php?s=a3F6RS9kQjhwUFcwbDlLdEpLc2VHVElUZFRKQ1V2WVdVK0V5VmNFNFdUMD0=&type=360&id=N1Q2THdGZFdjT0o0QXIzV2RiM2dWN3BPRVNEV0pUTDRwR3JJNEdmWUNSQjFPa2RMK0ZCaEd4RGVTVGxlK1RwVg==.m3u8&name=file.m3u8
 https://gdriveplayer.to/hlsplaylist.php?&s=a3F6RS9kQjhwUFcwbDlLdEpLc2VHVElUZFRKQ1V2WVdVK0V5VmNFNFdUMD0=&idhls=N1Q2THdGZFdjT0o0QXIzV2RiM2dWN3BPRVNEV0pUTDRwR3JJNEdmWUNSQjFPa2RMK0ZCaEd4RGVTVGxlK1RwVg==.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pusatfilm21.online/wp-content/uploads/2025/04/8CxAyCQLTFFX29CD26lNMipBaK3-60x90.jpg" group-title="BIOSKOP KAUMLOWO 🇮🇩", Kupu-Kupu Kertas (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "gdriveplayer.to", "Referer": "https://gdriveplayer.to/"}
@@ -1025,8 +1033,12 @@ https://cdn-llbaa8r4vvm8ea9r.edgeon-bandwidth.com/engine/hls2/01/15822/fdj9vgdwn
 #EXTHTTP:{"Origin": "https://minochinos.com/embed/k6ce3ohfkce4", "Referer": "https://minochinos.com/embed/k6ce3ohfkce4"}
 https://minochinos.com/stream/Inp6WqkulpPzKumMfByBqg/hjkrhuihghfvu/1771816864/37140753/index-v1-a1.m3u8
 
-===============================ANIMASI========================
+#EXTINF:-1 tvg-logo="https://s1.iix.llc/wp-content/uploads/2026/02/iutKnkc5dPHVxwrCB5ri26r86PF-152x228.jpg" group-title="BIOSKOP KAUMLOWO 🇮🇩", Rangga & Cinta (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTHTTP:{"Origin": "https://minochinos.com/embed/kils3ta3xj1g", "Referer": "https://minochinos.com/embed/kils3ta3xj1g"}
+https://minochinos.com/stream/uKkWQYCokseNJoYHXaDMbQ/hjkrhuihghfvu/1771982684/37363625/index-v1-a1.m3u8
 
+===============================ANIMASI========================
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-ejen-ali-movie-2-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO ANIMATION",Ejen Ali the Movie 2 (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1297,6 +1309,10 @@ https://datura.groovy.monster/stream/variant/Awx1MwOxBGpjZwH4MwZmZTMuLmR2BQOuAGL
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MB0oImgUGC8pNA5hKFk4P28aPCgkCh8gLHwNJCZeezIrGWQjIBAfLjcmFiIkHTQtJBk6JiQXWnNyY0JhFHUUHA4nERFyQUBycTVCLg
 https://cloud.hownetwork.xyz/xxx/MB0oImgUGC8pNA5hKFk4P28aPCgkCh8gLHwNJCZeezIrGWQjIBAfLjcmFiIkHTQtJBk6JiQXWnNyY0JhFHUUHA4nERFyQUBycTVCLg/38/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-evils-return-2026-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO CHINESE", Nonton Evil's Return (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jw4gIjZUBSQ2JAUibgJmanRVHgsHPTseGg5GKHJSbmF1GQ
+https://cloud.hownetwork.xyz/xxx/Jw4gIjZUBSQ2JAUibgJmanRVHgsHPTseGg5GKHJSbmF1GQ/38/480.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
@@ -1304,18 +1320,20 @@ https://cloud.hownetwork.xyz/xxx/MB0oImgUGC8pNA5hKFk4P28aPCgkCh8gLHwNJCZeezIrGWQ
 #EXTVLCOPT:http-referrer=
 
 
+#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
+
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
 
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
+
 
 ==================LAWAS======================
 
