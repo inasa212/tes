@@ -1337,25 +1337,25 @@ https://cloud.hownetwork.xyz/xxx/Jw4gIjZUBSQ2JAUibgJmanRVHgsHPTseGg5GKHJSbmF1GQ/
 
 ==================LAWAS======================
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-first-blood-1982.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", RAMBO First Blood (1982)
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-first-blood-1982.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", RAMBO First Blood (1982) tes fin-3dg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/"}
-https://fin-3dg-b1.r66nv9ed.com/hls2/05/07049/jw7yt9sa8ols_x/seg-4-v1-a1.ts?t=1gVkqWL9M7cigdZNC2xHGNSvuijHkz-uIbG5yqOoRdU&s=1772630166&e=10800&f=35248392&srv=1050&asn=45305&sp=5500&p=0
+https://fin-3dg-b1.r66nv9ed.com/hls2/05/07049/jw7yt9sa8ols_x/master.m3u8?t=ZASR8Hi_-UZnbPaxJb8AScYrPJYTFdhgPmOqez0qQ60&s=1772631785&e=10800&f=35248392&srv=1050&asn=45305&sp=5500&p=0
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-rambo-first-blood-part-ii-1985.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo (First Blood Part II) (1985)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/e/vvfddec4gfxl"}
-https://f16px.com/api/videos/vvfddec4gfxl/embed/playback
+#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/"}
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/08/02755/vvfddec4gfxl_n/master.m3u8?t=wl1AMIOjTF9gYQ4qbOVicwFp_KmLO87qNt34AQ5m1hU&s=1772631720&e=10800&f=13779258&srv=1070&asn=45305&sp=4000&p=0
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-rambo-iii-1988.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo III (1988)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/e/zv8jzkmfi40g"}
-https://f16px.com/api/videos/zv8jzkmfi40g/embed/playback
+#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/"}
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/02/02750/zv8jzkmfi40g_,n,h,.urlset/master.m3u8?t=5rNBFPUuANfnBWB-s7ELoAE_MGkbuuSMD1VhbxJlmGA&s=1772631661&e=10800&f=13754221&srv=1075&asn=45305&sp=4000&p=0
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2015/12/film-rambo-2008.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo (2008)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/e/0amjdau9sj5y"}
-https://f16px.com/api/videos/0amjdau9sj5y/embed/playback
+#EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/"}
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/10/09561/0amjdau9sj5y_x/master.m3u8?t=G1X_9GHzZrIq4_7H9z2EM15jRHW06gb7XfNYUlTfnk0&s=1772631555&e=10800&f=47805885&srv=1075&asn=45305&sp=5500&p=0
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/11/film-rambo-last-blood-2019-2-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo Last Blood (2019) tes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
