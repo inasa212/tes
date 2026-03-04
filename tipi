@@ -1357,10 +1357,10 @@ https://f16px.com/api/videos/zv8jzkmfi40g/embed/playback
 #EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/e/0amjdau9sj5y"}
 https://f16px.com/api/videos/0amjdau9sj5y/embed/playback
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/11/film-rambo-last-blood-2019-2-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo Last Blood (2019)
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2019/11/film-rambo-last-blood-2019-2-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Rambo Last Blood (2019) tes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTHTTP:{"Origin": "https://f16px.com", "Referer": "https://f16px.com/e/o78mbpiqojs9"}
-https://f16px.com/api/videos/o78mbpiqojs9/embed/playback
+https://f16px.com/api/videos/o78mbpiqojs9/embed/heartbeat
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2017/03/film-commando-1985.jpg.webp" group-title="BIOSKOP KAUMLOWO LAWAS", Commando (1985)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
