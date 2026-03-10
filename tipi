@@ -758,6 +758,12 @@ https://hls-terea.layarwibu.com/drive/hls/kra-LH3-MKP-RpB/1920x1080.m3u8
 #EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvVzFMLU5QNi03R3QtZXc0L21hc3Rlci5tM3U4
 https://hls-terea.layarwibu.com/drive/hls/W1L-NP6-7Gt-ew4/1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/03/film-kraken-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Kraken (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://g278.turbosplayer.com/file/9d53a669-00e6-46c6-803c-f1e5dd7bcabd/master.m3u8
+https://cdn2.turboviplay.com/data3/69adf9feef30f/69adf9feef30f.m3u8
+https://cloud.hownetwork.xyz/xxx/KQooJSAXWnNyY0JhAVwjCiMBFhYaT0R5czdBfXo/39/480.m3u8
+
 ============================NETFLIX=============================
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/01/film-back-in-action-2025-lk21-d21.jpg.webp" group-title="BIOSKOP NETFLIX | PRIME FEMALE ACTION", Back in Action (2025)
