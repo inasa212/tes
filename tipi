@@ -571,11 +571,11 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 ====================================BIOSKOP KAUMLOWO=======================================
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Jurassic World Rebirth (2025)
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/06/film-star-wars-mandalorian-grogu-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO",  Star Wars The Mandalorian and Grogu (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz"}
-https://cloud.hownetwork.xyz/zzz/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
-https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
+#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dg"}
+https://cloud.hownetwork.xyz/zzz/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
+https://cloud.hownetwork.xyz/xxx/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-predator-badlands-2025-lk21.jpg.webp" group-title="BIOSKOP KAUMLOWO", Predator Badlands (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
