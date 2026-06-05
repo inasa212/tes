@@ -627,11 +627,12 @@ https://cloud.hownetwork.xyz/xxx/MhknKiRUBy0jP1p-bl03PysbKCJoDQUoIDRafnMCYHUVPQs
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MBE6K2gaGC8zJBI-LEJ7anJKf2MSPDUFDg4vE3cGM2xzQCp6
 https://cloud.hownetwork.xyz/xxx/MBE6K2gaGC8zJBI-LEJ7anJKf2MSPDUFDg4vE3cGM2xzQCp6cdcc1ddc/40/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s9.iix.llc/wp-content/uploads/2026/04/8Cw8GF9wG63kF8pRRXwOx2kXGt-152x228.jpg" group-title="BIOSKOP KAUMLOWO", Infiltrate (2026)
+#EXTINF:-1 tvg-logo="https://s9.iix.llc/wp-content/uploads/2026/04/8Cw8GF9wG63kF8pRRXwOx2kXGt-152x228.jpg" group-title="BIOSKOP KAUMLOWO", Infiltrate (2026) t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvd3BiLWRzUS0wdkgtd3pPL21hc3Rlci5tM3U4
+https://hls-terea.layarwibu.com/drive/hls/wpb-dsQ-0vH-wzO/master.m3u8
 https://hls-terea.layarwibu.com/drive/hls/wpb-dsQ-0vH-wzO/1920x1080.m3u8
-https://hls-terea.layarwibu.com/drive/hls/wpb-dsQ-0vH-wzO/1920x1080_000.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
