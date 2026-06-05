@@ -633,25 +633,36 @@ https://cloud.hownetwork.xyz/xxx/MBE6K2gaGC8zJBI-LEJ7anJKf2MSPDUFDg4vE3cGM2xzQCp
 https://hls-terea.layarwibu.com/drive/hls/wpb-dsQ-0vH-wzO/master.m3u8
 https://hls-terea.layarwibu.com/drive/hls/wpb-dsQ-0vH-wzO/1920x1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://s9.iix.llc/wp-content/uploads/2026/04/yphysF14qWFvrIbFVg3vEnbudwT-152x228.jpg" group-title="BIOSKOP KAUMLOWO",The Anacondas (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMveEZKLTF5cS1XenEtOUFML21hc3Rlci5tM3U4
+https://hls-terea.layarwibu.com/drive/hls/xFJ-1yq-Wzq-9AL/master.m3u8
+https://hls-terea.layarwibu.com/drive/hls/xFJ-1yq-Wzq-9AL/1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
+#EXTINF:-1 tvg-logo="https://s9.iix.llc/wp-content/uploads/2026/04/29Jdsak3SrwGds5k1t43kH6Khed-152x228.jpg" group-title="BIOSKOP KAUMLOWO",The Legend of Aang The Last Airbender (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://hls-terea.layarwibu.com/player2/aHR0cHM6Ly9obHMtdGVyZWEubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvQnlRLU5ISC1rVkkteUJtL21hc3Rlci5tM3U4
+https://hls-terea.layarwibu.com/drive/hls/ByQ-NHH-kVI-yBm/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4Yxxyvy10iRxvWNUvL81Aw8p67B.jpg" group-title="BIOSKOP KAUMLOWO", Amira Amir (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://audinifer.com/e/540z3u5ip63n
+https://audinifer.com/stream/jRjlT2NMw0B7jMd5vVjPVQ/kjhhiuahiuhgihdf/1780678756/71207120/index-v1-a1.m3u8
+https://audinifer.com/stream/jRjlT2NMw0B7jMd5vVjPVQ/kjhhiuahiuhgihdf/1780678756/71207120/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://hanerix.com/e/vvp1a8ywatyh
+
+
+#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=
 
 
 
