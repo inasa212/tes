@@ -579,25 +579,25 @@ https://cloud.hownetwork.xyz/xxx/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLww
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-fury-shadows-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Fury in the Shadows (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "https://cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=JA07N2gKHyAmPgA_bgJmanRVHgsHPTseGg5PLyUENGtzSg"}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=JA07N2gKHyAmPgA_bgJmanRVHgsHPTseGg5PLyUENGtzSg
 https://cloud.hownetwork.xyz/zzz/JA07N2gKHyAmPgA_bgJmanRVHgsHPTseGg5PLyUENGtzSgcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/JA07N2gKHyAmPgA_bgJmanRVHgsHPTseGg5PLyUENGtzSgcdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-storm-rider-legend-hammerhead-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Storm Rider Legend of Hammerhead (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=MQwmPChUBSgmNAVhL1UxPSwcZCYkFBokMDkSLScdZGhwTmQZADszDR0JKHwgB2FsIxl5"}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MQwmPChUBSgmNAVhL1UxPSwcZCYkFBokMDkSLScdZGhwTmQZADszDR0JKHwgB2FsIxl5
 https://cloud.hownetwork.xyz/zzz/MQwmPChUBSgmNAVhL1UxPSwcZCYkFBokMDkSLScdZGhwTmQZADszDR0JKHwgB2FsIxl5cdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/MQwmPChUBSgmNAVhL1UxPSwcZCYkFBokMDkSLScdZGhwTmQZADszDR0JKHwgB2FsIxl5cdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-over-your-dead-body-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Over Your Dead Body (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=LQ4sPGgAGDQwfBMpIlR7Oi0cMGN3SUV3bwYyDgd8CQAdTX1-Jx8TdHU"}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=LQ4sPGgAGDQwfBMpIlR7Oi0cMGN3SUV3bwYyDgd8CQAdTX1-Jx8TdHU
 https://cloud.hownetwork.xyz/zzz/LQ4sPGgAGDQwfBMpIlR7Oi0cMGN3SUV3bwYyDgd8CQAdTX1-Jx8TdHUcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/LQ4sPGgAGDQwfBMpIlR7Oi0cMGN3SUV3bwYyDgd8CQAdTX1-Jx8TdHUcdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-mortal-kombat-ii-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Mortal Kombat II (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTHTTP:{"Origin": "cloud.hownetwork.xyz", "Referer": "https://cloud.hownetwork.xyz/video.php?id=Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx4fBg"}
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx4fBg
 https://cloud.hownetwork.xyz/zzz/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx4fBgcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx4fBgcdcc1ddc/41/480.m3u8
 
@@ -650,10 +650,11 @@ https://hls-terea.layarwibu.com/drive/hls/ByQ-NHH-kVI-yBm/master.m3u8
 https://audinifer.com/stream/jRjlT2NMw0B7jMd5vVjPVQ/kjhhiuahiuhgihdf/1780678756/71207120/index-v1-a1.m3u8
 https://audinifer.com/stream/jRjlT2NMw0B7jMd5vVjPVQ/kjhhiuahiuhgihdf/1780678756/71207120/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/06/film-backrooms-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO",Backrooms (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=https://hanerix.com/e/vvp1a8ywatyh
-
+#EXTVLCOPT:http-referrer=	https://cloud.hownetwork.xyz/video.php?id=IBkqJTcWGCwxfEV8cQZ7Dwc6DQIaIShxJzJBKnpWNw
+https://cloud.hownetwork.xyz/zzz/IBkqJTcWGCwxfEV8cQZ7Dwc6DQIaIShxJzJBKnpWNwcdcc1ddc/41/480.m3u8
+https://cloud.hownetwork.xyz/xxx/IBkqJTcWGCwxfEV8cQZ7Dwc6DQIaIShxJzJBKnpWNwcdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
