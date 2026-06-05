@@ -656,10 +656,10 @@ https://audinifer.com/stream/jRjlT2NMw0B7jMd5vVjPVQ/kjhhiuahiuhgihdf/1780678756/
 https://cloud.hownetwork.xyz/zzz/IBkqJTcWGCwxfEV8cQZ7Dwc6DQIaIShxJzJBKnpWNwcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/IBkqJTcWGCwxfEV8cQZ7Dwc6DQIaIShxJzJBKnpWNwcdcc1ddc/41/480.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="BIOSKOP KAUMLOWO",Tom Clancy’s Jack Ryan Ghost War (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
-
+#EXTHTTP:{"Origin": "https://playhydrax.com", "Referer": "https://playhydrax.com/?v=QXEQ4zaBo"}
+https://playhydrax.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/8fc8ed1d8752/0.6675815553571478:1780660836:dfU-MkgcKEarJ_fQSn0jZC7T1w2GEyYjCz31VoKxTpc/a06f6308ec34fe17
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
