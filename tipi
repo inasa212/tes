@@ -572,6 +572,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ====================================BIOSKOP KAUMLOWO=======================================
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/06/film-star-wars-mandalorian-grogu-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO",  Star Wars The Mandalorian and Grogu (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dg
 https://cloud.hownetwork.xyz/zzz/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
 
@@ -600,29 +602,30 @@ https://cloud.hownetwork.xyz/zzz/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx
 https://cloud.hownetwork.xyz/xxx/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVCAEABU7ExtvZD4gGSx4fBgcdcc1ddc/41/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-deep-water-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Deep Water (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Jh0sPmgOFjUnI1p-cwJgdRU9CwoJJi8eIWBFfHZRZD0
 https://cloud.hownetwork.xyz/zzz/Jh0sPmgOFjUnI1p-cwJgdRU9CwoJJi8eIWBFfHZRZD0cdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/Jh0sPmgOFjUnI1p-cwJgdRU9CwoJJi8eIWBFfHZRZD0cdcc1ddc/41/480.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", The Punisher One Last Kill (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Mg0nJzYREjNvPhkpblw3KzZVIicpFVpzcmNBYRR1FBwOJxERdRpDcXozQSo
+https://cloud.hownetwork.xyz/xxx/Mg0nJzYREjNvPhkpblw3KzZVIicpFVpzcmNBYRR1FBwOJxERdRpDcXozQSocdcc1ddc/41/480.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/04/film-they-will-kill-you-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", They Will Kill You (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=NhAsN2gOHi0ufBwlL1x7IS0NZHx1S0FsFRQ1CA9vDgcgHix2cUhAeQ
+https://cloud.hownetwork.xyz/xxx/NhAsN2gOHi0ufBwlL1x7IS0NZHx1S0FsFRQ1CA9vDgcgHix2cUhAeQcdcc1ddc/40/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/04/film-panda-plan-2-magical-tribe-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Panda Plan 2 The Magical Tribe (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MhknKiRUBy0jP1p-bl03PysbKCJoDQUoIDRafnMCYHUVPQsKCSYvHnVlFilyU2Vu
+https://cloud.hownetwork.xyz/xxx/MhknKiRUBy0jP1p-bl03PysbKCJoDQUoIDRafnMCYHUVPQsKCSYvHnVlFilyU2Vucdcc1ddc/40/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/04/film-rise-conqueror-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO",Rise of the Conqueror (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MBE6K2gaGC8zJBI-LEJ7anJKf2MSPDUFDg4vE3cGM2xzQCp6
+https://cloud.hownetwork.xyz/xxx/MBE6K2gaGC8zJBI-LEJ7anJKf2MSPDUFDg4vE3cGM2xzQCp6cdcc1ddc/40/480.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO CHINESE",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
