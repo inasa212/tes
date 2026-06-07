@@ -767,14 +767,14 @@ https://pixeldrain.com/api/file/JKM91MwQ?download
 https://pixeldrain.com/api/file/RAo1H7gc?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kxhqebpoVDye8XDrWsLUpItucv5.jpg" group-title="BIOSKOP INDO",Layangan Putus The Movie
 https://pixeldrain.com/api/file/6fwxFxx9?download
-#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", Agak Laen Menyala Pantiku (2025)
-https://vikingfile.com/d/9uYmpWz8rK/NGEFILM.LIVE.Agak.Laen.Menyala.Pantiku.2025.WEB-DL.1080p.mp4
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", 
 
 
-#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/lIsMeDbwntNXSUVHmWMMRXEZOVc-170x255.jpg" group-title="BIOSKOP INDO", Mortal Kombat II (2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://krakenfiles.com/
-https://phs5.krakencloud.net/play/video/MGQ3MWExMTIwYzc3ODlmZNu3zpu4y_jQgZHKDRTxTqj9oHrEHK-LPZ-a6b9deUpCtNZPS-vpLj-jC_udAyQA-2PK_99ayV94X5F42jEg1a0DQu_I-z4Lzft_wvnrTUw6KqjOneC1HSLwErRZjz1iStESMO2yksMDpRmETDfKFuA
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/lIsMeDbwntNXSUVHmWMMRXEZOVc-170x255.jpg" group-title="BIOSKOP INDO", Mortal Kombat II (2026) tes
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:{"Origin": "https://krakenfiles.com", "Referer": "https://krakenfiles.com/view/tGQDSu9krK/file.html"}
+https://krakenfiles.com/ping/video/ZTgxOTk3NThiZGI0MzNiOMVz-g7N8EBStDRcX6rZgiMRXI1040iUFdZR-Gr5bUJunczjBtHgyA4AQUxogFpT6w
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
