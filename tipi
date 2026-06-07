@@ -604,8 +604,12 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/06/film-star-wars-mandalorian-grogu-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO",  Star Wars The Mandalorian and Grogu (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dg
+#EXTVLCOPT:https://cloud.hownetwork.xyz/cdn-cgi/challenge-platform/h/g/jsd/oneshot/8fc8ed1d8752/0.7927020375812877:1780801219:4NmxLazCd91InUqSpdQ8pWUYufZhY6smirt5OYvj88k/a07ca6b47d77ce6e
 https://cloud.hownetwork.xyz/zzz/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
 https://cloud.hownetwork.xyz/xxx/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dgcdcc1ddc/41/480.m3u8
+https://cloud.hownetwork.xyz/zzz/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dg74b06941/41/480.m3u8
+https://cloud.hownetwork.xyz/xxx/MQwoPGgOFjMxfBotLVQ3NC0KIC8rVBAzLTYCYXEAZG5vLwwMATUoGR1mRC8iU2Q8dg74b06941/41/480.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-fury-shadows-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Fury in the Shadows (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
