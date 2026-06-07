@@ -757,11 +757,16 @@ https://cloud.hownetwork.xyz/xxx/NRk7YygYFCkrPxJhcQBkbm8vDAwBNSgZHWFEe3UAb2B18c7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=
 
+=============================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="BIOSKOP INDO",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
-
-
-
+https://pixeldrain.com/api/file/ZQVckcfF?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/cL2KULWckh0p6EGIVACzZPR5rh3.jpg" group-title="BIOSKOP INDO",Imam Tanpa Makmum
+https://pixeldrain.com/api/file/JKM91MwQ?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fMaxCjekSd9g4qyyAEYm3cvckui.jpg" group-title="VOD INDO",Sewu Dino
+https://pixeldrain.com/api/file/RAo1H7gc?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kxhqebpoVDye8XDrWsLUpItucv5.jpg" group-title="VOD INDO",Layangan Putus The Movie
+https://pixeldrain.com/api/file/6fwxFxx9?download
 
 
 
