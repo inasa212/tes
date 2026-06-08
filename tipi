@@ -647,19 +647,21 @@ https://pixeldrain.com/api/file/kft1wp85?download
 #EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
 https://s2-100-25-wyl3.97bf1.com/hls/v2fydU5aaZdY2adZSeMkWvj2AciXX3eq/index_1280x534.m3u8?token=8d5a5c6b49c8ba1226936fce3918fc04-1780943090-43.252.106.130-ed9a8842fed75f89ac07184e22fa0d284c37fb802c9b4f19ae45ece9b233c1d1
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO", 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 tvg-logo="https://seoulschool.org/wp-content/uploads/2026/01/film-rambo-2008-dutamovie21-lk21-152x228.webp" group-title="BIOSKOP KAUMLOWO", Rambo (2008)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:{"Origin": "https://jessicayeahcatch.com", "Referer": "https://jessicayeahcatch.com/"}
+https://ugc-cdn-caching-n3ryktnah4snzsmsft.cloudwindow-route.com/engine/hls2/01/16300/5xkjoxsnxnhi_,n,.urlset/index-v1-a1.m3u8?t=qhmXJjzEdlmJGP5nrR7YI8HUCAuaXs-WwFTreI0W5dg&s=1780917296&e=14400&f=81503209&node=ANdqgg+j29wtM0uEp2t6GABqJPI8mH/5D4oCOUoEDAo=&i=43.252&sp=2500&asn=45305&q=n&rq=0HpkP427dwppKxXtSj4lFSiiPAybwBzy0UFQ01oz
 
+#EXTINF:-1 tvg-logo="https://seoulschool.org/wp-content/uploads/2026/01/film-rambo-last-blood-2019-dutamovie21-lk21-152x228.webp" group-title="BIOSKOP KAUMLOWO", Rambo Last Blood (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:{"Origin": "https://jessicayeahcatch.com", "Referer": "https://jessicayeahcatch.com/"}
+https://ugc-cdn-caching-n3ad05wdiiynz8qnwf.cloudwindow-route.com/engine/hls2-c/01/16300/mnwjhwc0rxaw_,n,.urlset/master.m3u8?t=SCNtbcJ_pIBj2fRxIY5ztL75BqESZyRlUBkoB6RnSRM&s=1780917554&e=14400&f=81503176&node=dJpNVKKFqY5ZZCFKlEDCK382w8+q+zqGAHKO62MNFlg=&i=43.252&sp=2500&asn=45305&q=n&rq=0HpkP427dwppKxXtSj4lFSiiPAybwBzy0UFQ01oz
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO", 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 tvg-logo="https://seoulschool.org/wp-content/uploads/2026/05/film-an-enemy-within-2025-170x255.webp" group-title="BIOSKOP KAUMLOWO", An Enemy Within (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:{"Origin": "https://jessicayeahcatch.com", "Referer": "https://jessicayeahcatch.com/"}
+https://ugc-cdn-caching-n3evm9cessioh4s4ml.cloudwindow-route.com/engine/hls2/01/17252/zf5hkuakxrac_,n,.urlset/master.m3u8?t=_N3lqjSrfO6k08hITI3z8KKrtvz3ototphHS2b_XWc4&s=1780917959&e=14400&f=86264355&node=5C9ec2IewNduoiQvOtzmwsCxpanErTGVF2tEZwSD46k=&i=43.252&sp=2500&asn=45305&q=n&rq=0HpkP427dwppKxXtSj4lFSiiPAybwBzy0UFQ01oz
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="BIOSKOP KAUMLOWO", 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
 
 =============================
 
