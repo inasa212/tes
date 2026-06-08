@@ -602,7 +602,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ====================================BIOSKOP KAUMLOWO=======================================
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/waxnw1NpzTPY5JkqWvu0muSopRJ-152x228.jpg" group-title="BIOSKOP KAUMLOWO",  Desert Warrior (2026)
-https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/Nx4EavPH3c?response-content-disposition=attachment%3Bfilename%3DNGEFILM.LIVE.Desert.Warrior.2025.WEB-DL.720p.mp4&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20260607%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260607T164954Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=dc97f3d39df3509552539a1bc0757c2d63a50e670fcb2b7773f89d146bfccd56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
+https://s1-25-ilr3.97bf1.com/hls/rwfIoxaIdsAHARGLMfwSh7xB89VBKRtT/master.m3u8?token=10359218cd8ae89ee1a0af8b89c3e055-1780916279-43.252.106.130-06870d5cb4873921d0862c3c728a2aad6f516370812054468ce14431c60231b5
 
 #EXTINF:-1 tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-mortal-kombat-ii-2026-lk21-150x225.jpg.webp" group-title="BIOSKOP KAUMLOWO", Mortal Kombat II (2026) new
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -618,10 +620,10 @@ https://playerngefilm21.rpmlive.online/hls/WNCir7mpKnIuYumMUVcYaQ/qu/skucp8et/h8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://gdriveplayer.to/hlsplaylist.php?s=bU1jUkZmNEdYNkZSQjJRVVJUSnlHaGprbEh2VC8ySUhKSGx0NWRacUlUUT0%3D&idhls=UVZMTnRBbW9XYTM5UEtEalYzajNwWElETzR0bFNaSWg5MzRDRGZlZWdzdlZQVVRDams3UTJ6TU1iQkhqTDVHcQ%3D%3D.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO", 
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/oMFdQE5hMJ9JjhNORegwTo0GKmh-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Fuze (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-referrer=
-
+#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
+https://s2-100-es3.s1q2105.com/hls2/47xaTAvolTFZf/master.m3u8?token=ad8a35ba9bb1c2c468b7b407c62690a5-1780916624-43.252.106.130-467662173c2793c4f0d445537dd258fe633a2d89f240a4e2dba92281c5354ab1
 
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP KAUMLOWO", 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -662,13 +664,18 @@ https://pixeldrain.com/api/file/JKM91MwQ?download
 https://pixeldrain.com/api/file/RAo1H7gc?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kxhqebpoVDye8XDrWsLUpItucv5.jpg" group-title="BIOSKOP INDO",Layangan Putus The Movie
 https://pixeldrain.com/api/file/6fwxFxx9?download
-#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", 
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", Agak Laen Menyala Pantiku! (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
+https://s2-100-25-wyl3.97bf1.com/hls/nowoW9QCDO0jIf7zA8gowQwNfZYyuT3h/master.m3u8?token=1606fac4c5c591f00f460a30e35d0387-1780916773-43.252.106.130-5b151b6236106acd69d2fc59e00a39917b466a5ae657792899bdaab1e2b71d89
+
+#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/sCTA6pGCLx7NjzMu3ZESlvfguLL-170x255.webp" group-title="BIOSKOP INDO", Sebelum Dijemput Nenek (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
+https://s25-nyl2.s1q2105.com/hls/CKjQgoboXsZEX2ceQK0UODpcIeraeJda/index_1280x536.m3u8?token=77c8c842da05947b43324fb89af3face-1780917077-43.252.106.130-c1d1131b159fcd2a9a28b3a102d3193accf33f04f5f391241fd5a0c7f00c6939
 
 
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
