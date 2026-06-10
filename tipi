@@ -734,23 +734,23 @@ https://pixeldrain.com/api/file/6fwxFxx9?download
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK-170x255.jpg" group-title="BIOSKOP INDO", Agak Laen Menyala Pantiku! (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
-https://s2-100-25-wyl3.97bf1.com/hls/nowoW9QCDO0jIf7zA8gowQwNfZYyuT3h/master.m3u8?token=1606fac4c5c591f00f460a30e35d0387-1780916773-43.252.106.130-5b151b6236106acd69d2fc59e00a39917b466a5ae657792899bdaab1e2b71d89
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/M3MFsUru
+https://pixeldrain.com/api/file/M3MFsUru?download
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/sCTA6pGCLx7NjzMu3ZESlvfguLL-170x255.webp" group-title="BIOSKOP INDO", Sebelum Dijemput Nenek (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
-https://s25-nyl2.s1q2105.com/hls/CKjQgoboXsZEX2ceQK0UODpcIeraeJda/index_1280x536.m3u8?token=77c8c842da05947b43324fb89af3face-1780917077-43.252.106.130-c1d1131b159fcd2a9a28b3a102d3193accf33f04f5f391241fd5a0c7f00c6939
+#EXTHTTP:http-referrer=https:https://pixeldrain.com/u/EWHNrpfu
+https://pixeldrain.com/api/file/EWHNrpfu?download
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/84Az3SHKRJDg971KQ0j9nZWYTcf-170x255.jpg" group-title="BIOSKOP INDO", Alas Roban (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
-https://s25-nyl2.s1q2105.com/hls/RVdXHlOiLFxVlKuhEq6IzDDqxCp08FOj/index_1280x536.m3u8?token=b5b43202253952acef2aacd12827609e-1780917918-43.252.106.130-fcb18b1f7e6fcab9b75fbb30a851827256f81d9f5d800f17db8134dd8737f1d8
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/VLXZJPNu
+https://pixeldrain.com/api/file/VLXZJPNu?download
 
-#EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/7hTk1hzMCGryLi93htz7S5V7JSk-170x255.webp" group-title="BIOSKOP INDO", Pesta Babi (2026)
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/8YzFxF44uaDxzLEGa64etR0vDzT.jpg" group-title="BIOSKOP INDO", Suka Duka Tawa (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTHTTP:{"Origin": "https://vidara.so", "Referer": "https://vidara.so/"}
-https://s2-100-es3.s1q2105.com/hls2/eLZSwlIhETVGk/master.m3u8?token=1bafac4b97e83c371b5045613f0f7412-1780918049-43.252.106.130-80f73e84cf13c8a1db3796114bc7f7f7b81286fa16ff033197bf524008159014
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/qxkWpeAr
+https://pixeldrain.com/api/file/qxkWpeAr?download
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/05/avFrX5pi0iojFe5G4reUReyzA2m-170x255.jpg" group-title="BIOSKOP INDO", Musuh Dalam Selimut (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -761,8 +761,16 @@ https://pixeldrain.com/api/file/Wp484jYg?download
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://pixeldrain.com/api/file/e5E75fj8?download
 
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
-#EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/1cKmQ5Hvs9SzlJSEpYSaz4Z0Era.jpg" group-title="BIOSKOP INDO",Qorin 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/S3iEasDF
+https://pixeldrain.com/api/file/S3iEasDF?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/7TS9QYBYnLDJBGfGuU9WmSZWReW.jpg" group-title="BIOSKOP INDO",Modual Nekad (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/HYfNan2B
+https://pixeldrain.com/api/file/HYfNan2B?download
+
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
 #EXTINF:-1 tvg-logo="" group-title="BIOSKOP INDO",
