@@ -625,7 +625,8 @@ https://playerngefilm21.rpmlive.online/hls/WNCir7mpKnIuYumMUVcYaQ/qu/skucp8et/h8
 
 #EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="BIOSKOP KAUMLOWO", Tom Clancy’s Jack Ryan Ghost War (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://gdriveplayer.to/hlsplaylist.php?s=bU1jUkZmNEdYNkZSQjJRVVJUSnlHaGprbEh2VC8ySUhKSGx0NWRacUlUUT0%3D&idhls=UVZMTnRBbW9XYTM5UEtEalYzajNwWElETzR0bFNaSWg5MzRDRGZlZWdzdlZQVVRDams3UTJ6TU1iQkhqTDVHcQ%3D%3D.m3u8
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Xrf4xXr9
+https://pixeldrain.com/api/file/Xrf4xXr9?download
 
 #EXTINF:-1 tvg-logo="https://new35.ngefilm.site/wp-content/uploads/2026/06/oMFdQE5hMJ9JjhNORegwTo0GKmh-170x255.jpg" group-title="BIOSKOP KAUMLOWO", Fuze (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -672,8 +673,10 @@ https://pixeldrain.com/api/file/TCxC6xtX?download
 #EXTHTTP:http-referrer=https://pixeldrain.com/u/68T54ikC
 https://pixeldrain.com/api/file/68T54ikC?download
 
-#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/06/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg" group-title="BIOSKOP KAUMLOWO", The Butcher’s Blade (2026)
-https://gdriveplayer.to/hlsplaylist.php?s=bU1jUkZmNEdYNkZSQjJRVVJUSnlHdFFZZGdLWXRjdjdvTGpNNDcyMi9yND0%3D&idhls=ak4yQ3MybmZEQW45bitHNFhiTkZhSkplOUptNVkvV0NXMmJOT2NRM1NtWEJGaGxoWDJMUk9yMVRSWGR3THpZSg%3D%3D.m3u8
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="BIOSKOP KAUMLOWO", Send Help (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.
+#EXTHTTP:http-referrer=https://pixeldrain.com/u/yPt5t3aV
+https://pixeldrain.com/api/file/yPt5t3aV?download
 
 #EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/05/fwnXwNRnxwtCJXLsM0EiRm2Vvoc.jpg" group-title="BIOSKOP KAUMLOWO", God of Frogs (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -724,6 +727,26 @@ https://pixeldrain.com/api/file/53FDRvXz?download
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-referrer=https://pixeldrain.com/u/yo5EQMNe
 https://pixeldrain.com/api/file/yo5EQMNe?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/5xgxxmLivJXL8aF0HdZfpx8aAIo-300x450.jpg" group-title="BIOSKOP KAUMLOWO", Psycho Killer (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/P4dSaxYR
+https://pixeldrain.com/api/file/P4dSaxYR?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/04/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="BIOSKOP KAUMLOWO", Mercy (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2pmvLkZ2
+https://pixeldrain.com/api/file/2pmvLkZ2?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg" group-title="BIOSKOP KAUMLOWO", Wardriver (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/2n2aMhTD
+https://pixeldrain.com/api/file/2n2aMhTD?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.com/wp-content/uploads/2026/03/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="BIOSKOP KAUMLOWO", War Machine (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/Z6qgJxX3
+https://pixeldrain.com/api/file/Z6qgJxX3?download
 
 =============================
 
