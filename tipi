@@ -775,6 +775,16 @@ https://pixeldrain.com/api/file/ri4pW4UD?download
 #EXTVLCOPT:http-referrer=https://pixeldrain.com/u/EQPWHGVa
 https://pixeldrain.com/api/file/EQPWHGVa?download
 
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e5 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/41ieshNL
+https://pixeldrain.com/api/file/41ieshNL?download
+
+#EXTINF:-1 tvg-logo="https://v3.pusatfilm21info.net/wp-content/uploads/2024/02/vRdnxy6L4NQyKfcoxKuz7lokXmm.jpg" group-title="BIOSKOP KAUMLOWO", Avatar The Last Airbender s2e6 (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/aoYf8wnG
+https://pixeldrain.com/api/file/aoYf8wnG?download
+
 =============================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="BIOSKOP INDO",13 Bomb Di Jakarta
