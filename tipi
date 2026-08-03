@@ -49,9 +49,9 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mp
 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.license_key=1871319765
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="INDONESIA IPTV 🇮🇩",RCTI tes
+#EXTVLCOPT:drm_id=1871319765
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="INDONESIA IPTV 🇮🇩",RCTI drm
 http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003dgtv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
