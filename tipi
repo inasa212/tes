@@ -137,10 +137,13 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-country"ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="INDONESIA IPTV 🇮🇩",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="INDONESIA IPTV 🇮🇩"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="INDONESIA IPTV 🇮🇩",ANTV DIGITAL
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350892
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="INDONESIA IPTV 🇮🇩",ANTV
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-user-agent=vidioPlayer/6.31.6
+http://tvratu.my.id/nissa/index.mpd?id\u003d782\u0026type\u003ddash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
