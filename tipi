@@ -30,16 +30,16 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="INDONESIA IPTV 🇮🇩", RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="" group-title="INDONESIA IPTV 🇮🇩", RCTI
 http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003drcti
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 1
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 1
 http://tvratu.my.id/nissa/index.mpd?id\u003d204\u0026type\u003ddash
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 2
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 2
 http://202.169.224.202:8800/udp/239.9.1.29:1234
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 3
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 3
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -47,12 +47,6 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
 #EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA IPTV 🇮🇩",SINDONEWS
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mp
-
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:drm_id=1871319765
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="INDONESIA IPTV 🇮🇩",RCTI drm
-http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003dgtv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
