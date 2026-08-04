@@ -33,6 +33,14 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=android-R+
 http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003drcti
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="INDONESIA IPTV 🇮🇩",RCTI R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png" group-title="INDONESIA IPTV 🇮🇩",SCTV 1
 http://tvratu.my.id/nissa/index.mpd?id\u003d204\u0026type\u003ddash
@@ -52,44 +60,35 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYpb0Tb6OfPD-V3OmIT7pP6YagnFL2xRrig&s" group-title="INDONESIA IPTV 🇮🇩" x-source="Apple TV update" tvg-id="GTV HD - [Channel 431].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , GTV V+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYpb0Tb6OfPD-V3OmIT7pP6YagnFL2xRrig&s" group-title="INDONESIA IPTV 🇮🇩", GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYpb0Tb6OfPD-V3OmIT7pP6YagnFL2xRrig&s" group-title="INDONESIA IPTV 🇮🇩" x-source="Apple TV update" tvg-id="GTV HD - [Channel 431].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+
-http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003dgtv
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="INDONESIA IPTV 🇮🇩" x-source="Apple TV update" tvg-id="MNCTV HD - [Channel 432].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , MNC TV V+
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="INDONESIA IPTV 🇮🇩" x-source="Apple TV update" tvg-id="MNCTV HD - [Channel 432].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , MNC TV R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYpb0Tb6OfPD-V3OmIT7pP6YagnFL2xRrig&s" group-title="INDONESIA IPTV 🇮🇩", GTV R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003dmnctv
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTINF:-1 group-title="INDONESIA IPTV 🇮🇩" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/960px-INews.svg.png",iNews
-
-
-#EXTINF:-1 group-title="INDONESIA IPTV 🇮🇩" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png",iNews R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s" group-title="INDONESIA IPTV 🇮🇩", MNCTV R+
 #EXTVLCOPT:http-user-agent=android-R+
-http://gvisiontv.channell.my.id/ch/id/plus.php/.m3u8?ch\u003dinews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="INDONESIA IPTV 🇮🇩", iNews
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUvjGJuQr4iX_T6xiHIKNQmxNy_Sl4Tc8Ns7qgp6SxRr3xCh1aTiS-H0gPLsLTFQMAGGrdse86IuX1VPhdu5scP4c5GFh0AmE9CD3vUlz5DlVM6-Kl3OSM_c8YON3NFnYLKCjE0JNHZeirShyVVjX9bmdRRU2eDUoKZ6s942Mwk8ZUJQVqVbfLIKgmq2S/s700/SINDO%20NEWS%20TV.png" group-title="INDONESIA IPTV 🇮🇩",SINDONEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="INDONESIA IPTV 🇮🇩",TRANS 7
-http://gvisiontv.channell.my.id/ch/id/trans7dtkdirect.php/.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="INDONESIA IPTV 🇮🇩", Trans7 🔵
@@ -106,11 +105,6 @@ http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA IPTV 🇮🇩",TRANS TV-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.169.224.202:8800/udp/239.4.1.1:1234
-
-#EXTINF:-1 tvg-id="MDTV.id" group-title="INDONESIA IPTV 🇮🇩" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV (dens)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="INDONESIA IPTV 🇮🇩" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -178,7 +172,7 @@ http://line.crystalott.net/MVQIT3BOBS/LQPDWSNYNZ/1179175#.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="INDONESIA IPTV 🇮🇩",Moji
 http://202.169.224.202:8800/udp/239.9.1.32:1234
 
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://cdn.kibrispdr.org/data/981/tribunnews-logo-png-5.jpg" group-title="INDONESIA IPTV 🇮🇩",TRIBUN NEWS
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/981/tribunnews-logo-png-5.jpg" group-title="INDONESIA IPTV 🇮🇩",TRIBUN NEWS
 http://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -194,12 +188,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&userid=
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="INDONESIA IPTV 🇮🇩", DAAITV
 http://gvisiontv.channell.my.id/ch/id/daai.m3u8
-
-#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV" tvg-logo="https://iili.io/JmoC4sV.png" group-title="INDONESIA IPTV 🇮🇩", Indonesiana TV
-https://tvstreamcast.com/indonesiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="INDONESIA IPTV 🇮🇩",DMTV MALANG
-https://e.siar.us/live/dmtv.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -230,16 +218,6 @@ http://tvratu.my.id/nissa/index.mpd?id\u003d7464\u0026type\u003ddash
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url\u003dhttps://i.imgur.com/ApQhckw.png" group-title="INDONESIA IPTV 🇮🇩",MQTV
 #EXTVLCOPT:http-referrer=http://tv.garden/
 http://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8
-
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="INDONESIA IPTV 🇮🇩",MENTARI
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-http://nextgenz.my.id/event/pidio/play.mpd?id\u003d8237\u0026type\u003ddash
-
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url\u003dhttp://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="INDONESIA IPTV 🇮🇩",MENTARI-
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id\u003d8237\u0026type\u003ddash
 
 ==================================================OLAHRAGA===============================================
 
