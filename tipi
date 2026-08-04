@@ -238,6 +238,9 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://37b4c2
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url\u003dhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="☆SPORT+☆",FIFA+ WOMEN
 http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
+#EXTINF:0 group-title="☆SPORT+☆" tvg-logo="https://bit.ly/4193wOv",LIVE 24 -01
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/e0/ce/4be0cee31d8f18eb83ca8d4799b2f8fe.jpg" group-title="☆SPORT+☆",FX SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
