@@ -10,15 +10,13 @@
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://x.com/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",SCRIPT DISUSUN & DIHIMPUN OLEH KA-EL.NET (INASA)
-#https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/Q8WxY8qZUoLkM1gA.m3u8?variant_version=1&tag=12
-#https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/640x360/LiR8Y6e1gI4MiRkD.m3u8
-#https://video.twimg.com/ext_tw_video/1412970963285671940/pr/pl/mp4a/64000/gsy32WdZVfdpXawP.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717235845403758593/qFzMJqpw_400x400.jpg" group-title="INDONESIA IPTV 🇮🇩",UPDATE 06 JUNI 2026
-#https://video.twimg.com/ext_tw_video/1411790411580928000/pr/pl/GVvWq4pfwaO92iXh.m3u8?variant_version=1&tag=12&container=cmaf
+
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png" group-title="INDONESIA IPTV 🇮🇩",Indosiar (LIVE BOLA SILAHKAN BUKA RBTV)
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000\u003d7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA IPTV 🇮🇩",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
@@ -26,7 +24,7 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="INDONESIA IPTV 🇮🇩", RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
